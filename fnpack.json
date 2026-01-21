@@ -68,6 +68,34 @@
     "history": {
       "v1.10.8-2": "初始版本"
      }
+  },
+  "FakeHTTP": {
+    "display_name": "FakeHTTP",
+    "desc": "FakeHTTP 可以将你的所有 TCP 连接伪装为 HTTP 等协议以规避深度包检测 (DPI)，是一个基于 nftables / iptables 与 Netfilter Queue (NFQUEUE) 的网络工具。",
+    "labels": "工具,效率,网络",
+    "version": "0.9.18-13",
+    "author": "MikeWang000000",
+    "author_url": "https://github.com/MikeWang000000/FakeHTTP",
+    "bug_report_url": "https://github.com/MikeWang000000/FakeHTTP",
+    "install_type": "存储空间",
+    "size": "0.1",
+    "history": {
+      "v0.9.18-13": "初始版本"
+     }
+  },
+  "FakeSIP": {
+    "display_name": "FakeSIP",
+    "desc": "FakeSIP 可以将你的所有 UDP 流量伪装为 SIP 等协议以规避深度包检测 (DPI)，是一个基于 nftables / iptables 与 Netfilter Queue (NFQUEUE) 的网络工具。",
+    "labels": "工具,效率,网络",
+    "version": "0.9.1-2",
+    "author": "MikeWang000000",
+    "author_url": "https://github.com/MikeWang000000/FakeSIP",
+    "bug_report_url": "https://github.com/MikeWang000000/FakeSIP",
+    "install_type": "存储空间",
+    "size": "0.1",
+    "history": {
+      "v0.9.1-2": "初始版本"
+     }
   }
   
 }
