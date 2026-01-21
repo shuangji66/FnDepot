@@ -1,12 +1,11 @@
 {
   "Mihomo": {
     "display_name": "Mihomo",
-    "desc": "应用文件/Mihomo/config.yaml写完整后再启动，内核会下载订阅、俩GEOIP文件和UI面板，网“不好”会下载失败，重启多试几次。支持tun，内核、面板可在线升级。启动失败检查目录权限和config。"
-    "labels": "工具,效率",
+    "desc": "应用文件/Mihomo/config.yaml写完整后再启动，内核会下载订阅、俩GEOIP文件和UI面板，网“不好”会下载失败，重启多试几次。支持tun，内核、面板可在线升级。启动失败检查目录权限和config。",
+    "labels": "工具,效率,网络",
     "version": "1.19.19-12",
     "author": "MetaCubeX",
     "author_url": "https://github.com/MetaCubeX/mihomo",
-    "download_url": "",
     "bug_report_url": "https://github.com/EWEDLCM/FnDepot/fntermx/issues",
     "install_type": "存储空间",
     "size": "12.8",
