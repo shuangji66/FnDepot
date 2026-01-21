@@ -1,7 +1,7 @@
 {
   "Mihomo": {
     "display_name": "Mihomo",
-    "desc": "应用文件/Mihomo/config.yaml写完整后再启动，内核会下载订阅、俩GEOIP文件和UI面板，网“不好”会下载失败，重启多试几次。支持tun，内核、面板可在线升级。启动失败检查目录权限和config",
+    "desc": "适合2013年后指令集等级V3的新CPU。应用文件/Mihomo/config.yaml写完整后再启动，内核会下载订阅、俩GEOIP文件和UI面板，网“不好”会下载失败，重启多试几次。支持tun，内核、面板可在线升级。启动失败检查目录权限和config",
     "labels": "工具,效率,网络",
     "version": "1.19.19-12",
     "author": "MetaCubeX",
@@ -15,7 +15,7 @@
    },
   "MihomoV2": {
     "display_name": "MihomoV2",
-    "desc": "应用文件/Mihomo/config.yaml写完整后再启动，内核会下载订阅、俩GEOIP文件和UI面板，网“不好”会下载失败，重启多试几次。支持tun，内核、面板可在线升级。启动失败检查目录权限和config",
+    "desc": "适合2008年后指令集等级V2的CPU。应用文件/Mihomo/config.yaml写完整后再启动，内核会下载订阅、俩GEOIP文件和UI面板，网“不好”会下载失败，重启多试几次。支持tun，内核、面板可在线升级。启动失败检查目录权限和config",
     "labels": "工具,效率,网络",
     "version": "1.19.19-12-V2",
     "author": "MetaCubeX",
