@@ -1,58 +1,58 @@
 {
   "Mihomo": {
     "display_name": "Mihomo",
-    "desc": "适合2013年后指令集等级V3的新CPU。应用文件/Mihomo/config.yaml写完整后再启动，内核会下载订阅、俩GEOIP文件和UI面板，网“不好”会下载失败，重启多试几次。支持tun，内核、面板可在线升级。启动失败检查目录权限和config",
+    "desc": "适合2013年后指令集等级V3的新CPU。摒弃所有繁杂操作，开箱即用。预置了GEOIP、UI面板，config.yaml预生成，支持tun，内核、面板可在线升级。",
     "labels": "工具,效率,网络",
-    "version": "1.19.19-12",
+    "version": "1.19.19-13",
     "author": "MetaCubeX",
     "author_url": "https://github.com/MetaCubeX/mihomo",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "12.8",
+    "size": "16.1",
     "history": {
-      "v1.19.19-12": "完善config，上架FnDepot"
+      "v1.19.19-13": "摒弃所有繁杂操作，开箱即用，预置GEOIP、UI面板，config.yaml预生成"
        }
    },
   "MihomoV2": {
     "display_name": "MihomoV2",
-    "desc": "适合2008年后指令集等级V2的CPU。应用文件/Mihomo/config.yaml写完整后再启动，内核会下载订阅、俩GEOIP文件和UI面板，网“不好”会下载失败，重启多试几次。支持tun，内核、面板可在线升级。启动失败检查目录权限和config",
+    "desc": "适合2008年后指令集等级V2的CPU。摒弃所有繁杂操作，开箱即用。预置了GEOIP、UI面板，config.yaml预生成，支持tun，内核、面板可在线升级。",
     "labels": "工具,效率,网络",
-    "version": "1.19.19-12-V2",
+    "version": "1.19.19-13",
     "author": "MetaCubeX",
     "author_url": "https://github.com/MetaCubeX/mihomo",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "12.8",
+    "size": "16.1",
     "history": {
-      "v1.19.19-12": "完善config，上架FnDepot"
+      "v1.19.19-13": "摒弃所有繁杂操作，开箱即用，预置GEOIP、UI面板，config.yaml预生成"
         }
   },
   "Mihomo-arm64": {
     "display_name": "Mihomo-arm64",
-    "desc": "应用文件/Mihomo/config.yaml写完整后再启动，内核会下载订阅、俩GEOIP文件和UI面板，网“不好”会下载失败，重启多试几次。支持tun，内核、面板可在线升级。启动失败检查目录权限和config",
+    "desc": "摒弃所有繁杂操作，开箱即用。预置了GEOIP、UI面板，config.yaml预生成，支持tun，内核、面板可在线升级。",
     "labels": "工具,效率,网络",
-    "version": "1.19.19-12-arm64",
+    "version": "1.19.19-13",
     "author": "MetaCubeX",
     "author_url": "https://github.com/MetaCubeX/mihomo",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "12.8",
+    "size": "16.1",
     "history": {
-      "v1.19.19-12": "完善config，上架FnDepot"
+      "v1.19.19-13": "摒弃所有繁杂操作，开箱即用，预置GEOIP、UI面板，config.yaml预生成"
        }
   },
   "Mihomo-armv7": {
     "display_name": "Mihomo-armv7",
-    "desc": "应用文件/Mihomo/config.yaml写完整后再启动，内核会下载订阅、俩GEOIP文件和UI面板，网“不好”会下载失败，重启多试几次。支持tun，内核、面板可在线升级。启动失败检查目录权限和config",
+    "desc": "摒弃所有繁杂操作，开箱即用。预置了GEOIP、UI面板，config.yaml预生成，支持tun，内核、面板可在线升级。",
     "labels": "工具,效率,网络",
-    "version": "1.19.19-12-armv7",
+    "version": "1.19.19-13",
     "author": "MetaCubeX",
     "author_url": "https://github.com/MetaCubeX/mihomo",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "12.8",
+    "size": "16.1",
     "history": {
-      "v1.19.19-12": "完善config，上架FnDepot"
+      "v1.19.19-13": "摒弃所有繁杂操作，开箱即用，预置GEOIP、UI面板，config.yaml预生成"
       }
    },
   "UnlockMusic": {
