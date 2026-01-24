@@ -96,6 +96,20 @@
     "history": {
       "v0.9.1-2": "初始版本"
      }
+   },
+  "cloudsaver": {
+    "display_name": "CloudSaver",
+    "desc": "一个基于 Vue 3 + Express 的网盘资源搜索与转存工具，支持响应式布局，移动端与PC完美适配，可通过 Docker 一键部署",
+    "labels": "工具,效率,网络",
+    "version": "0.6.5-2",
+    "author": "jiangrui1994",
+    "author_url": "https://github.com/jiangrui1994/CloudSaver",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "0.2",
+    "history": {
+      "v0.6.5-2": "初始版本"
+     }
    }
 
 }
