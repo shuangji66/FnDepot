@@ -130,7 +130,7 @@
      }
    },
   "Filebrowser-arm64": {
-    "display_name": "Filebrowser",
+    "display_name": "Filebrowser-arm64",
     "desc": "arm64版本。文件浏览器在指定目录内提供文件管理界面，可用于上传、删除、预览和编辑文件。它是一款自定义云的软件，你可以直接安装在服务器上，引导它到路径，并通过一个漂亮的网页界面访问你的文件。",
     "labels": "工具,效率,文件",
     "version": "2.56.0-1",
