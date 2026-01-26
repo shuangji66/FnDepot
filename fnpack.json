@@ -1,7 +1,7 @@
 {
   "Mihomo": {
     "display_name": "Mihomo",
-    "desc": "适合2013年后指令集等级V3的新CPU。摒弃所有繁杂操作，开箱即用。预置了GEOIP、UI面板，config.yaml预生成，支持tun，内核、面板可在线升级。",
+    "desc": "摒弃所有繁杂操作，开箱即用。预置了GEOIP、UI面板，config.yaml预生成，支持tun，内核、面板可在线升级。",
     "labels": "工具,网络",
     "version": "1.19.19-18",
     "author": "MetaCubeX",
@@ -14,10 +14,10 @@
       "v1.19.19-14": "支持多订阅链接，支持安装后重新生成config，支持修改UI端口，卸载无残留",
       "v1.19.19-18": "版本合一，自动识别cpu指令集"
        }
-   },
+    },
   "UnlockMusic": {
     "display_name": "UnlockMusic",
-    "desc": "在浏览器中解锁加密的音乐文件，具体用法见https://git.unlock-music.dev/um/web/wiki/%E4%BD%BF%E7%94%A8%E6%8F%90%E7%A4%BA",
+    "desc": "在浏览器中解锁加密的音乐文件，具体用法见https://git.unlock-music.dev/um/web/wiki",
     "labels": "工具",
     "version": "1.10.8-2",
     "author": "UnlockMusic",
@@ -82,10 +82,9 @@
     "install_type": "存储空间",
     "size": "11.0",
     "history": {
-      "v2.56.0-1": "初始版本"
-      "v2.56.0-2": "优化细节"
+      "v2.56.0-1": "初始版本",
+      "v2.56.0-2": "优化细节",
       "v2.56.0-3": "amd64、arm64版本合一，自适应安装"
      }
    }
-
 }
