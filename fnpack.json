@@ -1,18 +1,16 @@
 {
-  "Mihomo": {
-    "display_name": "Mihomo",
-    "desc": "摒弃所有繁杂操作，开箱即用。预置了GEOIP、UI面板，config.yaml预生成，支持tun，内核、面板可在线升级。",
+  "Fluxor": {
+    "display_name": "Fluxor",
+    "desc": "采用mihomo内核和metacubexd面板，预生成config，支持tun，内核、面板可在线升级。",
     "labels": "工具,网络",
-    "version": "1.19.19-18",
-    "author": "MetaCubeX",
-    "author_url": "https://github.com/MetaCubeX/mihomo",
+    "version": "1.0.0-1",
+    "author": "shuangji66",
+    "author_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "52.9",
+    "size": "54",
     "history": {
-      "v1.19.19-13": "摒弃所有繁杂操作，开箱即用，预置GEOIP、UI面板，config.yaml预生成",
-      "v1.19.19-14": "支持多订阅链接，支持安装后重新生成config，支持修改UI端口，卸载无残留",
-      "v1.19.19-18": "版本合一，自动识别cpu指令集"
+      "v1.0.0-1": "mihomo项目改名，规避潜在风险"
        }
     },
   "UnlockMusic": {
