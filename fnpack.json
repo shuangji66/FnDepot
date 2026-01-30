@@ -104,14 +104,14 @@
     "display_name": "PeerBanHelper",
     "desc": "BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet。该版本无内置Java，请安装JAVA25及更高版本。",
     "labels": "工具,网络",
-    "version": "9.5.2",
+    "version": "9.2.5",
     "author": "PBH-BTN",
     "author_url": "https://github.com/PBH-BTN/PeerBanHelper",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "68",
     "history": {
-      "v9.5.2": "初始版本"
+      "v9.2.5": "初始版本"
      }
    }
 }
