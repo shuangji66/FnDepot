@@ -120,14 +120,15 @@
     "display_name": "BitMeteor",
     "desc": "BitMeteor(比特流星)是为BitComet(比特彗星)二进制运行文件设计的飞牛软件通用框架，不包含BitComet的代码和文件。",
     "labels": "原生,下载,工具",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "author": "shuangji66",
     "author_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "0.7",
     "history": {
-      "v1.0.0": "初始版本，看readme介绍"
+      "v1.0.0": "初始版本，看readme介绍",
+      "v1.1.0": "软件重构，看readme介绍"
      }
    },
   "Teamspeaker": {
