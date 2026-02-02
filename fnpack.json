@@ -60,21 +60,21 @@
     "display_name": "CloudSaver",
     "desc": "一个基于 Vue 3 + Express 的网盘资源搜索与转存工具，支持响应式布局，移动端与PC完美适配，可通过 Docker 一键部署",
     "labels": "docker,工具,效率,网盘",
-    "version": "0.6.5-4",
+    "version": "0.6.5-5",
     "author": "jiangrui1994",
     "author_url": "https://github.com/jiangrui1994/CloudSaver",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "0.2",
     "history": {
-      "v0.6.5-4": "初始版本"
+      "v0.6.5-5": "初始版本"
      }
    },
   "Filebrowser": {
     "display_name": "Filebrowser",
     "desc": "文件浏览器在指定目录内提供文件管理界面，可用于上传、删除、预览和编辑文件。它是一款自定义云的软件，你可以直接安装在服务器上，引导它到路径，并通过一个漂亮的网页界面访问你的文件。",
     "labels": "原生,工具,效率,文件",
-    "version": "2.56.0-4",
+    "version": "2.57.0-1",
     "author": "filebrowser",
     "author_url": "https://github.com/filebrowser/filebrowser",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
@@ -84,7 +84,8 @@
       "v2.56.0-1": "初始版本",
       "v2.56.0-2": "优化细节",
       "v2.56.0-3": "amd64、arm64版本合一，自适应安装",
-      "v2.56.0-4": "安装后自动删除冗余文件"
+      "v2.56.0-4": "安装后自动删除冗余文件",
+      "v2.57.0-1": "更新官方版本至2.57.0，修改日志、数据库路径至内部目录，修改默认fb_root路径为'.'，删除旧版残留目录。如根目录残留{TRIM_DATA_SHARE_PATHS%%:*}目录，可手动删除"  
      }
    },
   "java-25-openjdk": {
@@ -113,7 +114,8 @@
     "size": "68",
     "history": {
       "v9.2.5": "初始版本",
-      "v9.2.5-1": "修复大量写入info.log的问题，强烈建议升级"
+      "v9.2.5-1": "修复大量写入info.log的问题，强烈建议升级",
+      "v9.2.5-3": "修复官方logo可视性不佳的问题"  
      }
    },
   "BitMeteor": {
