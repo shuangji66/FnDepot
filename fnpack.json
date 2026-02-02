@@ -145,5 +145,19 @@
     "history": {
       "v3.13.7": "初始版本，看readme介绍"
      }
+   },
+  "EasyTier": {
+    "display_name": "EasyTier",
+    "desc": "本项目为官方商店中EasyTier-Web的修改版，添加自定义用户名，适配x86、arm64。",
+    "labels": "原生,网络,工具",
+    "version": "2.5.0-1",
+    "author": "EasyTier",
+    "author_url": "https://easytier.cn/",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "24",
+    "history": {
+      "v2.5.0-1": "初始版本"
+     }
    }
 }
