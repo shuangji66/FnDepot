@@ -161,5 +161,19 @@
     "history": {
       "v2.5.0-1": "初始版本"
      }
+   },
+  "qBittorrent-Enhanced": {
+    "display_name": "qBittorrent-Enhanced",
+    "desc": "qBittorrent增强版+默认vuetorrent面板，支持x86、arm64。",
+    "labels": "原生,下载,工具",
+    "version": "5.1.3-1",
+    "author": "c0re100",
+    "author_url": "https://github.com/c0re100/qBittorrent-Enhanced-Edition",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "42.5",
+    "history": {
+      "v5.1.3-1": "初始版本，看readme"
+     }
    }
 }
