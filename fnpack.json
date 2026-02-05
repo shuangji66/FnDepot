@@ -189,5 +189,19 @@
     "history": {
       "v2.0.1-1": "初始版本"
      }
+   },
+  "Komga": {
+    "display_name": "Komga",
+    "desc": "为您的漫画、漫画、BD、杂志和电子书提供媒体服务器。",
+    "labels": "原生,图书,工具",
+    "version": "1.24.1-1",
+    "author": "gotson",
+    "author_url": "https://github.com/gotson/komga",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "111",
+    "history": {
+      "v1.24.1-1": "初始版本，看readme"
+     }
    }
 }
