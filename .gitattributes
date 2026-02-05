@@ -2,3 +2,4 @@ Fluxor/*.fpk filter=lfs diff=lfs merge=lfs -text
 PeerBanHelper/*.fpk filter=lfs diff=lfs merge=lfs -text
 qBittorrent-Enhanced/qBittorrent-Enhanced.fpk filter=lfs diff=lfs merge=lfs -text
 uptime-kuma/uptime-kuma.fpk filter=lfs diff=lfs merge=lfs -text
+Komga/Komga.fpk filter=lfs diff=lfs merge=lfs -text
