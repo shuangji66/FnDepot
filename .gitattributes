@@ -5,3 +5,5 @@ uptime-kuma/uptime-kuma.fpk filter=lfs diff=lfs merge=lfs -text
 Komga/Komga.fpk filter=lfs diff=lfs merge=lfs -text
 Golang/Golang.fpk filter=lfs diff=lfs merge=lfs -text
 Reader/Reader.fpk filter=lfs diff=lfs merge=lfs -text
+java-8-openj9/java-8-openj9.fpk filter=lfs diff=lfs merge=lfs -text
+java-17-openj9/java-17-openj9.fpk filter=lfs diff=lfs merge=lfs -text

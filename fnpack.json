@@ -232,5 +232,33 @@
     "history": {
       "v3.2.14-1": "初始版本，看readme"
      }
+   },
+  "java-8-openj9": {
+    "display_name": "java-8-openj9",
+    "desc": "OpenJ9 是一个高性能、企业级的开源 Java 虚拟机",
+    "labels": "原生,工具,开发",
+    "version": "1.8.0_332",
+    "author": "ibmruntimes",
+    "author_url": "https://github.com/ibmruntimes/openj9-openjdk-jdk8",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "47.5",
+    "history": {
+      "v1.8.0_332": "搭配Reader，提取自原作docker镜像，仅提供x86版"
+     }
+   },
+  "java-17-openj9": {
+    "display_name": "java-17-openj9",
+    "desc": "OpenJ9 是一个高性能、企业级的开源 Java 虚拟机",
+    "labels": "原生,工具,开发",
+    "version": "17.0.17",
+    "author": "eclipse",
+    "author_url": "https://github.com/eclipse-openj9/openj9",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "51.9",
+    "history": {
+      "v17.0.17": "搭配Reader，仅提供x86版"
+     }
    }
 }
