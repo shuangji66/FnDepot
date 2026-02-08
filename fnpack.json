@@ -218,5 +218,19 @@
     "history": {
       "v1.25.7": "此处仅提供x86版，arm前往网盘下载"
      }
+   },
+  "Reader": {
+    "display_name": "Reader",
+    "desc": "Reader 是一款开源的网络小说阅读器，提供书源管理、书架同步、WebDAV备份等功能，支持多用户模式。本项目参考飞牛社区版reader和原作文档，简化启动过程，添加完整配置参数",
+    "labels": "原生,阅读,工具",
+    "version": "3.2.14-1",
+    "author": "hectorqin",
+    "author_url": "https://github.com/hectorqin/reader",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "65.8",
+    "history": {
+      "v3.2.14-1": "初始版本，看readme"
+     }
    }
 }
