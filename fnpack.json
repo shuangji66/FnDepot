@@ -1,17 +1,18 @@
 {
   "Fluxor": {
     "display_name": "Fluxor",
-    "desc": "采用mihomo内核和metacubexd面板，预生成config，支持tun，内核、面板可在线升级。",
+    "desc": "使用Mihomo内核和MetacubeXD面板的代理软件，适配飞牛x86、ARM平台。",
     "labels": "原生,工具,网络",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "author": "shuangji66",
     "author_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "54",
+    "size": "54.6",
     "history": {
       "v1.0.0-1": "mihomo项目改名，规避潜在风险",
-      "v1.0.1": "更新个好看的圆图标，更新内置geoip、ui"
+      "v1.0.1": "更新个好看的圆图标，更新内置geoip、ui",
+      "v1.1.0": "换个好看的新图标，更新内置库，修改安装/更新逻辑，不再覆盖已有config，config模板添加了分流规则，可在应用设置重置config以体验。"  
        }
     },
   "UnlockMusic": {

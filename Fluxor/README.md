@@ -1,0 +1,1 @@
+<p>使用Mihomo内核和MetacubeXD面板的代理软件，适配飞牛x86、ARM平台。</p><p>内置完整config模板和规则集，支持tun透明代理，支持内核、面板在线升级。</p><p><strong>使用说明：</strong><p></p><p><strong>安装时填写面板密钥，按提示顺序添加订阅名称和订阅链接，成功启动后直接打开软件或进入“http://nas局域网ip:你填的端口/ui”，后端地址填“http://nas局域网ip:你填的端口”，密钥填你之前填的密钥。</strong><p><p><strong>如果修改过端口/密钥，遇到进入面板后无内容显示或不能连接后端，清理浏览器缓存和cookies，或重装飞牛app</strong><p>
