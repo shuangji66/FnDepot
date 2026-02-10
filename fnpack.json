@@ -75,7 +75,7 @@
     "display_name": "Filebrowser",
     "desc": "文件浏览器在指定目录内提供文件管理界面，可用于上传、删除、预览和编辑文件。它是一款自定义云的软件，你可以直接安装在服务器上，引导它到路径，并通过一个漂亮的网页界面访问你的文件。",
     "labels": "原生,工具,效率,文件",
-    "version": "2.57.0-1",
+    "version": "2.57.1",
     "author": "filebrowser",
     "author_url": "https://github.com/filebrowser/filebrowser",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
@@ -86,7 +86,8 @@
       "v2.56.0-2": "优化细节",
       "v2.56.0-3": "amd64、arm64版本合一，自适应安装",
       "v2.56.0-4": "安装后自动删除冗余文件",
-      "v2.57.0-1": "更新官方版本至2.57.0，修改日志、数据库路径至内部目录，修改默认fb_root路径为'.'，删除旧版残留目录。如根目录残留{TRIM_DATA_SHARE_PATHS%%:*}目录，可手动删除"  
+      "v2.57.0-1": "更新官方版本至2.57.0，修改日志、数据库路径至内部目录，修改默认fb_root路径为'.'，删除旧版残留目录。如根目录残留{TRIM_DATA_SHARE_PATHS%%:*}目录，可手动删除",
+      "v2.57.1": "更新官方版本至2.57.1"
      }
    },
   "java-25-openjdk": {
