@@ -183,14 +183,15 @@
     "display_name": "uptime-kuma",
     "desc": "uptime-kuma面板，监控网站/API/端口/docker是否在线，支持 Telegram/邮件告警、漂亮的响应时间图表。安装时间较长，请耐心等待进度条。",
     "labels": "原生,监控,工具",
-    "version": "2.0.1-1",
+    "version": "2.1.0",
     "author": "louislam",
     "author_url": "https://github.com/louislam/uptime-kuma",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "41.3",
     "history": {
-      "v2.0.1-1": "初始版本"
+      "v2.0.1-1": "初始版本",
+      "v2.1.0": "更新官方版本，降级node版本依赖，添加端口设置，持久化配置"
      }
    },
   "Komga": {
