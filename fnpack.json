@@ -72,6 +72,20 @@
       "v0.6.5-5": "初始版本"
      }
    },
+  "CloudSaver": {
+    "display_name": "CloudSaver",
+    "desc": "一个基于 Vue 3 + Express 的网盘资源搜索与转存工具，支持响应式布局，移动端与PC完美适配，基于原docker重新打包，支持x86、arm64。",
+    "labels": "原生,工具,网盘",
+    "version": "0.6.5-1",
+    "author": "jiangrui1994",
+    "author_url": "https://github.com/jiangrui1994/CloudSaver",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "36.3",
+    "history": {
+      "v0.6.5-1": "初始版本，原生重构"
+     }
+   },
   "Filebrowser": {
     "display_name": "Filebrowser",
     "desc": "文件浏览器在指定目录内提供文件管理界面，可用于上传、删除、预览和编辑文件。它是一款自定义云的软件，你可以直接安装在服务器上，引导它到路径，并通过一个漂亮的网页界面访问你的文件。",
@@ -264,6 +278,34 @@
     "size": "51.9",
     "history": {
       "v17.0.17": "搭配Reader，仅提供x86版"
+     }
+   },
+  "Nginx": {
+    "display_name": "Nginx",
+    "desc": "Nginx是全球最受欢迎的Web服务器、高性能负载均衡器、反向代理、API网关和内容缓存。本项目基于官方stable分支，为飞牛os目录结构和应用架构特化，使用docker-debian12编译构建，仅提供x86版本",
+    "labels": "原生,工具,网页",
+    "version": "1.28.2-1",
+    "author": "nginx",
+    "author_url": "https://nginx.org",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "3.6",
+    "history": {
+      "v1.28.2-1": "初始版本，仅提供x86版"
+     }
+   },
+  "Read": {
+    "display_name": "轻阅读",
+    "desc": "轻阅读是一款开源的多平台阅读器，支持Android、iOS、HarmonyOS、Windows、MacOS和服务端，提供丰富的功能和灵活的部署选项。需安装Java25",
+    "labels": "原生,工具,阅读",
+    "version": "3.4.3b2-1",
+    "author": "autobcb",
+    "author_url": "https://github.com/autobcb/read",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "103",
+    "history": {
+      "v3.4.3b2-1": "初始版本"
      }
    }
 }
