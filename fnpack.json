@@ -112,13 +112,14 @@
     "desc": "OpenJDK version 25.0.2.",
     "labels": "原生,工具,开发",
     "version": "25.0.2",
+    "download_url": "https://github.com/shuangji66/java-25-openjdk/releases/download/1.0.0/java-25-openjdk-25.0.2-x86.fpk",
     "author": "OpenJDK",
     "author_url": "https://openjdk.org/",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "212",
     "history": {
-      "v25.0.2": "搭配PeerBanHelper，体积过大，无法上传github，请前往百度网盘下载，或自行安装Java25"
+      "v25.0.2": "openjdk-25-lts"
      }
    },
   "PeerBanHelper": {
