@@ -8,3 +8,4 @@ Reader/Reader.fpk filter=lfs diff=lfs merge=lfs -text
 java-8-openj9/java-8-openj9.fpk filter=lfs diff=lfs merge=lfs -text
 java-17-openj9/java-17-openj9.fpk filter=lfs diff=lfs merge=lfs -text
 Read/Read.fpk filter=lfs diff=lfs merge=lfs -text
+Nginx/Nginx.fpk filter=lfs diff=lfs merge=lfs -text

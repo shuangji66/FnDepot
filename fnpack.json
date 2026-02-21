@@ -77,14 +77,15 @@
     "display_name": "CloudSaver",
     "desc": "一个基于 Vue 3 + Express 的网盘资源搜索与转存工具，支持响应式布局，移动端与PC完美适配，基于原docker重新打包，支持x86、arm64。",
     "labels": "原生,工具,网盘",
-    "version": "0.6.5-1",
+    "version": "0.6.5-3",
     "author": "jiangrui1994",
     "author_url": "https://github.com/jiangrui1994/CloudSaver",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "36.3",
+    "size": "42.1",
     "history": {
-      "v0.6.5-1": "初始版本，原生重构"
+      "v0.6.5-1": "初始版本，原生重构",
+      "v0.6.5-3": "重构内置nginx，精简启动流程，切换非root运行"
      }
    },
   "Filebrowser": {
@@ -283,16 +284,16 @@
    },
   "Nginx": {
     "display_name": "Nginx",
-    "desc": "Nginx是全球最受欢迎的Web服务器、高性能负载均衡器、反向代理、API网关和内容缓存。本项目基于官方stable分支，为飞牛os目录结构和应用架构特化，使用docker-debian12编译构建，仅提供x86版本",
+    "desc": "Nginx是全球最受欢迎的Web服务器、高性能负载均衡器、反向代理、API网关和内容缓存。本项目为飞牛OS特化构建，结合nginx和nginx-ui，支持x86、arm，可切换主线和稳定分支。",
     "labels": "原生,工具,网页",
-    "version": "1.28.2-1",
+    "version": "1.0.0",
     "author": "nginx",
     "author_url": "https://nginx.org",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "3.6",
+    "size": "106.7",
     "history": {
-      "v1.28.2-1": "初始版本，仅提供x86版"
+      "v1.0.0": "软件重构"
      }
    },
   "Read": {
