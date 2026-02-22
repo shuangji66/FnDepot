@@ -128,6 +128,7 @@
     "desc": "BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet。",
     "labels": "原生,工具,网络,JAVA",
     "version": "9.3.6",
+    "download_url": "https://github.com/shuangji66/peerbanhelper/releases/download/9.3.6/PeerBanHelper-9.3.6-all.fpk",
     "author": "PBH-BTN",
     "author_url": "https://github.com/PBH-BTN/PeerBanHelper",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
