@@ -1,5 +1,6 @@
 大部分项目都是二进制+webui<br>
 孩子不会写代码，但是孩子会shell<br>
 不生产软件，只是软件的打包工<br>
+<strong>部分项目体积过大，已单独发布release并添加download_url</strong><br>
 百度网盘分流：https://pan.baidu.com/s/10MSoAqqhxB8q-9nSlQm0jQ?pwd=nrec<br>
 夸克网盘分流：https://pan.quark.cn/s/faef9924fcfb<br>提取码：1YWh

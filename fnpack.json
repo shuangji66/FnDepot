@@ -4,6 +4,7 @@
     "desc": "使用Mihomo内核和MetacubeXD面板的代理软件，适配飞牛x86、ARM平台。",
     "labels": "原生,工具,网络",
     "version": "1.1.2",
+    "download_url": "https://github.com/shuangji66/fnos-fpk/releases/download/1.0.0/Fluxor-1.1.2-all.fpk",
     "author": "shuangji66",
     "author_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
@@ -14,7 +15,7 @@
       "v1.0.1": "更新个好看的圆图标，更新内置geoip、ui",
       "v1.1.0": "换个好看的新图标，更新内置库，修改安装/更新逻辑，不再覆盖已有config，config模板添加了分流规则，可在应用设置重置config以体验。",
       "v1.1.1": "添加UI面板默认后端，更新后前往应用设置添加，重载配置生效，仍未生效的清除浏览器缓存（飞牛app无法刷新缓存，只能重置/重装）",
-      "v1.1.2": "修复默认后端url匹配正则，更新内置库"
+      "v1.1.2": "修复默认后端url匹配正则，更新内置库，修复fndepot下载问题"
        }
     },
   "UnlockMusic": {
@@ -113,14 +114,14 @@
     "desc": "OpenJDK version 25.0.2",
     "labels": "原生,工具,开发",
     "version": "25.0.2-1",
-    "download_url": "https://github.com/shuangji66/java-25-openjdk/releases/download/1.0.0/java-25-openjdk-25.0.2-1-x86.fpk",
+    "download_url": "https://github.com/shuangji66/fnos-fpk/releases/download/1.0.0/java-25-openjdk-25.0.2-1-x86.fpk",
     "author": "OpenJDK",
     "author_url": "https://openjdk.org/",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "212",
     "history": {
-      "v25.0.2-1": "openjdk-25-lts，添加完整bin映射"
+      "v25.0.2-1": "openjdk-25-lts，添加完整bin映射，修复fndepot下载问题"
      }
    },
   "PeerBanHelper": {
@@ -138,7 +139,7 @@
       "v9.2.5": "初始版本",
       "v9.2.5-1": "修复大量写入info.log的问题，强烈建议升级",
       "v9.2.5-3": "修复官方logo可视性不佳的问题",
-      "v9.3.6": "去除java-25-openjdk强制依赖，更新官方版本"
+      "v9.3.6": "去除java-25-openjdk强制依赖，更新官方版本，修复fndepot下载问题"
      }
    },
   "BitMeteor": {
@@ -191,13 +192,14 @@
     "desc": "qBittorrent增强版+默认vuetorrent面板，支持x86、arm64。",
     "labels": "原生,下载,工具",
     "version": "5.1.3-1",
+    "download_url": "https://github.com/shuangji66/fnos-fpk/releases/download/1.0.0/qBittorrent-Enhanced-5.1.3-1-all.fpk",
     "author": "c0re100",
     "author_url": "https://github.com/c0re100/qBittorrent-Enhanced-Edition",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "42.5",
     "history": {
-      "v5.1.3-1": "初始版本，看readme"
+      "v5.1.3-1": "初始版本，看readme，修复fndepot下载问题"
      }
    },
   "uptime-kuma": {
@@ -205,6 +207,7 @@
     "desc": "uptime-kuma面板，监控网站/API/端口/docker是否在线，支持 Telegram/邮件告警、漂亮的响应时间图表。安装时间较长，请耐心等待进度条。",
     "labels": "原生,监控,工具",
     "version": "2.1.3",
+    "download_url": "https://github.com/shuangji66/fnos-fpk/releases/download/1.0.0/uptime-kuma-2.1.3-x86.fpk",
     "author": "louislam",
     "author_url": "https://github.com/louislam/uptime-kuma",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
@@ -213,7 +216,7 @@
     "history": {
       "v2.0.1-1": "初始版本",
       "v2.1.0": "更新官方版本，降级node版本依赖，添加端口设置，持久化配置",
-      "v2.1.3": "更新官方版本，nodejs_v22构建，暂只支持x86，后续更新arm版"
+      "v2.1.3": "更新官方版本，nodejs_v22构建，暂只支持x86，后续更新arm版，修复fndepot下载问题"
      }
    },
   "Komga": {
@@ -229,7 +232,7 @@
     "size": "111",
     "history": {
       "v1.24.1-1": "初始版本，看readme",
-      "v1.24.1-2": "修改为root运行，解决目录权限问题"  
+      "v1.24.1-2": "修改为root运行，解决目录权限问题，修复fndepot下载问题"  
      }
    },
   "Golang": {
@@ -237,13 +240,14 @@
     "desc": "Go1.25.7",
     "labels": "原生,编程,工具",
     "version": "1.25.7",
+    "download_url": "https://github.com/shuangji66/fnos-fpk/releases/download/1.0.0/Golang-1.25.7-x86.fpk",
     "author": "golang",
     "author_url": "https://go.dev",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "57",
     "history": {
-      "v1.25.7": "此处仅提供x86版，arm前往网盘下载"
+      "v1.25.7": "修复fndepot下载问题"
      }
    },
   "Reader": {
@@ -251,6 +255,7 @@
     "desc": "Reader 是一款开源的网络小说阅读器，提供书源管理、书架同步、WebDAV备份等功能，支持多用户模式。本项目参考飞牛社区版reader和原作文档，简化启动过程，添加完整配置参数",
     "labels": "原生,阅读,工具",
     "version": "3.2.14-2",
+    "download_url": "https://github.com/shuangji66/fnos-fpk/releases/download/1.0.0/Reader-3.2.14-2-all.fpk",
     "author": "hectorqin",
     "author_url": "https://github.com/hectorqin/reader",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
@@ -258,7 +263,7 @@
     "size": "65.8",
     "history": {
       "v3.2.14-1": "初始版本，看readme",
-      "v3.2.14-2": "增加系统java保底检测，去除openjdk-17强制依赖"  
+      "v3.2.14-2": "增加系统java保底检测，去除openjdk-17强制依赖，修复fndepot下载问题"  
      }
    },
   "java-8-openj9": {
@@ -266,6 +271,7 @@
     "desc": "OpenJ9 是一个高性能、企业级的开源 Java 虚拟机",
     "labels": "原生,工具,开发",
     "version": "1.8.0_332",
+    "download_url": "https://github.com/shuangji66/fnos-fpk/releases/download/1.0.0/java-8-openj9-1.8.0_332-x86.fpk",
     "author": "ibmruntimes",
     "author_url": "https://github.com/ibmruntimes/openj9-openjdk-jdk8",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
@@ -280,6 +286,7 @@
     "desc": "OpenJ9 是一个高性能、企业级的开源 Java 虚拟机",
     "labels": "原生,工具,开发",
     "version": "17.0.17",
+    "download_url": "https://github.com/shuangji66/fnos-fpk/releases/download/1.0.0/java-17-openj9-17.0.17-x86.fpk",
     "author": "eclipse",
     "author_url": "https://github.com/eclipse-openj9/openj9",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
@@ -294,13 +301,14 @@
     "desc": "Nginx是全球最受欢迎的Web服务器、高性能负载均衡器、反向代理、API网关和内容缓存。本项目为飞牛OS特化构建，结合nginx和nginx-ui，支持x86、arm，可切换主线和稳定分支。",
     "labels": "原生,工具,网页",
     "version": "1.0.0",
+    "download_url": "https://github.com/shuangji66/fnos-fpk/releases/download/1.0.0/Nginx-1.0.0-all.fpk",
     "author": "nginx",
     "author_url": "https://nginx.org",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "106.7",
     "history": {
-      "v1.0.0": "软件重构"
+      "v1.0.0": "软件重构，修复fndepot下载问题"
      }
    },
   "Read": {
@@ -316,7 +324,7 @@
     "size": "103",
     "history": {
       "v3.4.3b2-1": "初始版本",
-      "v3.4.4": "更新官方版本，适配时光的导入时的自定义分组"
+      "v3.4.4": "更新官方版本，适配时光的导入时的自定义分组，修复fndepot下载问题"
      }
    }
 }
