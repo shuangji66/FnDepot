@@ -220,6 +220,7 @@
     "desc": "为您的漫画、漫画、BD、杂志和电子书提供媒体服务器。",
     "labels": "原生,图书,工具",
     "version": "1.24.1-2",
+    "download_url": "https://github.com/shuangji66/komga/releases/download/1.24.1/Komga-1.24.1-2-all.fpk",
     "author": "gotson",
     "author_url": "https://github.com/gotson/komga",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
@@ -305,14 +306,16 @@
     "display_name": "轻阅读",
     "desc": "轻阅读是一款开源的多平台阅读器，支持Android、iOS、HarmonyOS、Windows、MacOS和服务端，提供丰富的功能和灵活的部署选项。需安装Java25",
     "labels": "原生,工具,阅读",
-    "version": "3.4.3b2-1",
+    "version": "3.4.4",
+    "download_url": "https://github.com/shuangji66/read/releases/download/3.4.4/Read-3.4.4-all.fpk",
     "author": "autobcb",
     "author_url": "https://github.com/autobcb/read",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "103",
     "history": {
-      "v3.4.3b2-1": "初始版本"
+      "v3.4.3b2-1": "初始版本",
+      "v3.4.4": "更新官方版本，适配时光的导入时的自定义分组"
      }
    }
 }
