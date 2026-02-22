@@ -92,50 +92,52 @@
     "display_name": "Filebrowser",
     "desc": "文件浏览器在指定目录内提供文件管理界面，可用于上传、删除、预览和编辑文件。它是一款自定义云的软件，你可以直接安装在服务器上，引导它到路径，并通过一个漂亮的网页界面访问你的文件。",
     "labels": "原生,工具,效率,文件",
-    "version": "2.57.1",
+    "version": "2.60.0",
     "author": "filebrowser",
     "author_url": "https://github.com/filebrowser/filebrowser",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "11.0",
+    "size": "24.5",
     "history": {
       "v2.56.0-1": "初始版本",
       "v2.56.0-2": "优化细节",
       "v2.56.0-3": "amd64、arm64版本合一，自适应安装",
       "v2.56.0-4": "安装后自动删除冗余文件",
       "v2.57.0-1": "更新官方版本至2.57.0，修改日志、数据库路径至内部目录，修改默认fb_root路径为'.'，删除旧版残留目录。如根目录残留{TRIM_DATA_SHARE_PATHS%%:*}目录，可手动删除",
-      "v2.57.1": "更新官方版本至2.57.1"
+      "v2.57.1": "更新官方版本",
+      "v2.60.0": "更新官方版本"
      }
    },
   "java-25-openjdk": {
     "display_name": "java-25-openjdk",
-    "desc": "OpenJDK version 25.0.2.",
+    "desc": "OpenJDK version 25.0.2",
     "labels": "原生,工具,开发",
-    "version": "25.0.2",
-    "download_url": "https://github.com/shuangji66/java-25-openjdk/releases/download/1.0.0/java-25-openjdk-25.0.2-x86.fpk",
+    "version": "25.0.2-1",
+    "download_url": "https://github.com/shuangji66/java-25-openjdk/releases/download/1.0.0/java-25-openjdk-25.0.2-1-x86.fpk",
     "author": "OpenJDK",
     "author_url": "https://openjdk.org/",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "212",
     "history": {
-      "v25.0.2": "openjdk-25-lts"
+      "v25.0.2-1": "openjdk-25-lts，添加完整bin映射"
      }
    },
   "PeerBanHelper": {
     "display_name": "PeerBanHelper",
-    "desc": "BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet。该版本无内置Java，请安装JAVA25及更高版本。",
+    "desc": "BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet。",
     "labels": "原生,工具,网络,JAVA",
-    "version": "9.2.5-1",
+    "version": "9.3.6",
     "author": "PBH-BTN",
     "author_url": "https://github.com/PBH-BTN/PeerBanHelper",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "68",
+    "size": "69",
     "history": {
       "v9.2.5": "初始版本",
       "v9.2.5-1": "修复大量写入info.log的问题，强烈建议升级",
-      "v9.2.5-3": "修复官方logo可视性不佳的问题"  
+      "v9.2.5-3": "修复官方logo可视性不佳的问题",
+      "v9.3.6": "去除java-25-openjdk强制依赖，更新官方版本"
      }
    },
   "BitMeteor": {
@@ -245,14 +247,15 @@
     "display_name": "Reader",
     "desc": "Reader 是一款开源的网络小说阅读器，提供书源管理、书架同步、WebDAV备份等功能，支持多用户模式。本项目参考飞牛社区版reader和原作文档，简化启动过程，添加完整配置参数",
     "labels": "原生,阅读,工具",
-    "version": "3.2.14-1",
+    "version": "3.2.14-2",
     "author": "hectorqin",
     "author_url": "https://github.com/hectorqin/reader",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "65.8",
     "history": {
-      "v3.2.14-1": "初始版本，看readme"
+      "v3.2.14-1": "初始版本，看readme",
+      "v3.2.14-2": "增加系统java保底检测，去除openjdk-17强制依赖"  
      }
    },
   "java-8-openj9": {
