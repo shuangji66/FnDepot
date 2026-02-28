@@ -2,7 +2,7 @@
   "Fluxor": {
     "display_name": "Fluxor",
     "desc": "使用Mihomo内核和MetacubeXD面板的代理软件，适配飞牛x86、ARM平台。",
-    "labels": "原生,工具,网络",
+    "labels": "原生双平台,工具,网络",
     "version": "1.1.4",
     "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.2.28/Fluxor-1.1.4-x86.fpk",
     "author": "shuangji66",
@@ -29,7 +29,7 @@
     },
   "UnlockMusic": {
     "display_name": "UnlockMusic",
-    "desc": "在浏览器中解锁加密的音乐文件，具体用法见https://git.unlock-music.dev/um/web/wiki",
+    "desc": "在浏览器中解锁加密的音乐文件（QQ音乐、酷狗/酷我、网易云音乐、虾米），原作源码已全网暴毙，且用且珍惜",
     "labels": "原生,网页,工具",
     "version": "1.10.8-2",
     "author": "UnlockMusic",
@@ -72,7 +72,7 @@
   "cloudsaver": {
     "display_name": "CloudSaver",
     "desc": "一个基于 Vue 3 + Express 的网盘资源搜索与转存工具，支持响应式布局，移动端与PC完美适配，可通过 Docker 一键部署",
-    "labels": "docker,工具,效率,网盘",
+    "labels": "docker,工具,网盘",
     "version": "0.6.5-5",
     "author": "jiangrui1994",
     "author_url": "https://github.com/jiangrui1994/CloudSaver",
@@ -86,7 +86,7 @@
   "CloudSaver": {
     "display_name": "CloudSaver",
     "desc": "一个基于 Vue 3 + Express 的网盘资源搜索与转存工具，支持响应式布局，移动端与PC完美适配，基于原docker重新打包。基于nodejs_v22统一构建，支持x86、arm64，arm用户可安装本商店其他作者的nodejs_v22-arm。",
-    "labels": "原生,工具,网盘",
+    "labels": "原生双平台,工具,网盘",
     "version": "0.6.5-5",
     "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.2.28/CloudSaver-0.6.5-5-x86.fpk",
     "author": "jiangrui1994",
@@ -110,8 +110,9 @@
   "Filebrowser": {
     "display_name": "Filebrowser",
     "desc": "文件浏览器在指定目录内提供文件管理界面，可用于上传、删除、预览和编辑文件。它是一款自定义云的软件，你可以直接安装在服务器上，引导它到路径，并通过一个漂亮的网页界面访问你的文件。",
-    "labels": "原生,工具,效率,文件",
+    "labels": "原生双平台,工具,文件",
     "version": "2.60.0",
+    "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.2.28/Filebrowser-2.61.0-x86.fpk",
     "author": "filebrowser",
     "author_url": "https://github.com/filebrowser/filebrowser",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
@@ -124,13 +125,22 @@
       "v2.56.0-4": "安装后自动删除冗余文件",
       "v2.57.0-1": "更新官方版本至2.57.0，修改日志、数据库路径至内部目录，修改默认fb_root路径为'.'，删除旧版残留目录。如根目录残留{TRIM_DATA_SHARE_PATHS%%:*}目录，可手动删除",
       "v2.57.1": "更新官方版本",
-      "v2.60.0": "更新官方版本"
-     }
+      "v2.60.0": "更新官方版本",
+      "v2.61.0": "更新官方版本，x86、arm版本分离，更新安装流程"
+     },
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.2.28/Filebrowser-2.61.0-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.2.28/Filebrowser-2.61.0-arm.fpk"
+      }
+    }
    },
   "java-25-openjdk": {
     "display_name": "java-25-openjdk",
-    "desc": "OpenJDK version 25.0.2",
-    "labels": "原生,工具,开发",
+    "desc": "OpenJDK version 25.0.2，支持x86、arm",
+    "labels": "原生双平台,工具,开发",
     "version": "25.0.2-1",
     "download_url": "https://github.com/shuangji66/fnos-fpk/releases/download/1.0.0/java-25-openjdk-25.0.2-1-x86.fpk",
     "author": "OpenJDK",
@@ -140,24 +150,6 @@
     "size": "212",
     "history": {
       "v25.0.2-1": "openjdk-25-lts，添加完整bin映射，修复fndepot下载问题"
-     }
-   },
-  "PeerBanHelper": {
-    "display_name": "PeerBanHelper",
-    "desc": "BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet。",
-    "labels": "原生,工具,网络,JAVA",
-    "version": "9.3.6",
-    "download_url": "https://github.com/shuangji66/peerbanhelper/releases/download/9.3.6/PeerBanHelper-9.3.6-all.fpk",
-    "author": "PBH-BTN",
-    "author_url": "https://github.com/PBH-BTN/PeerBanHelper",
-    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
-    "install_type": "存储空间",
-    "size": "69",
-    "history": {
-      "v9.2.5": "初始版本",
-      "v9.2.5-1": "修复大量写入info.log的问题，强烈建议升级",
-      "v9.2.5-3": "修复官方logo可视性不佳的问题",
-      "v9.3.6": "去除java-25-openjdk强制依赖，更新官方版本，修复fndepot下载问题"
      },
     "arch_diff": {
       "x86": {
@@ -167,6 +159,25 @@
         "download_url": "https://github.com/shuangji66/fnos-fpk/releases/download/1.0.0/java-25-openjdk-25.0.2-1-arm.fpk"
       }
     }
+   },
+  "PeerBanHelper": {
+    "display_name": "PeerBanHelper",
+    "desc": "BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet。",
+    "labels": "原生JAVA,工具,网络",
+    "version": "9.3.7",
+    "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.2.28/PeerBanHelper-9.3.7-all.fpk",
+    "author": "PBH-BTN",
+    "author_url": "https://github.com/PBH-BTN/PeerBanHelper",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "69",
+    "history": {
+      "v9.2.5": "初始版本",
+      "v9.2.5-1": "修复大量写入info.log的问题，强烈建议升级",
+      "v9.2.5-3": "修复官方logo可视性不佳的问题",
+      "v9.3.6": "去除java-25-openjdk强制依赖，更新官方版本，修复fndepot下载问题",
+      "v9.3.7": "更新官方版本"
+     }
    },
   "BitMeteor": {
     "display_name": "BitMeteor",
@@ -201,7 +212,7 @@
   "EasyTier": {
     "display_name": "EasyTier",
     "desc": "本项目为官方商店中EasyTier-Web的修改版，添加自定义用户名，适配x86、arm64，支持双模式启动。",
-    "labels": "原生,网络,工具",
+    "labels": "原生双平台,网络,工具",
     "version": "2.5.0-3",
     "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.2.28/EasyTier-2.5.0-3-x86.fpk",
     "author": "EasyTier",
@@ -241,7 +252,7 @@
   "uptime-kuma": {
     "display_name": "uptime-kuma",
     "desc": "uptime-kuma面板，监控网站/API/端口/docker是否在线，支持 Telegram/邮件告警、漂亮的响应时间图表。安装时间较长，请耐心等待进度条。",
-    "labels": "原生,监控,工具",
+    "labels": "原生双平台,监控,工具",
     "version": "2.1.3",
     "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.2.28/uptime-kuma-2.1.3-x86.fpk",
     "author": "louislam",
@@ -266,7 +277,7 @@
   "Komga": {
     "display_name": "Komga",
     "desc": "为您的漫画、漫画、BD、杂志和电子书提供媒体服务器。",
-    "labels": "原生,图书,工具",
+    "labels": "原生JAVA,图书,工具",
     "version": "1.24.1-2",
     "download_url": "https://github.com/shuangji66/komga/releases/download/1.24.1/Komga-1.24.1-2-all.fpk",
     "author": "gotson",
@@ -281,8 +292,8 @@
    },
   "Golang": {
     "display_name": "Golang",
-    "desc": "Go1.25.7",
-    "labels": "原生,编程,工具",
+    "desc": "Go1.25.7，支持x86、arm",
+    "labels": "原生双平台,编程,工具",
     "version": "1.25.7",
     "download_url": "https://github.com/shuangji66/fnos-fpk/releases/download/1.0.0/Golang-1.25.7-x86.fpk",
     "author": "golang",
@@ -305,7 +316,7 @@
   "Reader": {
     "display_name": "Reader",
     "desc": "Reader 是一款开源的网络小说阅读器，提供书源管理、书架同步、WebDAV备份等功能，支持多用户模式。本项目参考飞牛社区版reader和原作文档，简化启动过程，添加完整配置参数",
-    "labels": "原生,阅读,工具",
+    "labels": "原生JAVA,阅读,工具",
     "version": "3.2.14-2",
     "download_url": "https://github.com/shuangji66/fnos-fpk/releases/download/1.0.0/Reader-3.2.14-2-all.fpk",
     "author": "hectorqin",
@@ -351,7 +362,7 @@
   "Nginx": {
     "display_name": "Nginx",
     "desc": "Nginx是全球最受欢迎的Web服务器、高性能负载均衡器、反向代理、API网关和内容缓存。本项目为飞牛OS特化构建，结合nginx和nginx-ui，支持x86、arm，可切换主线和稳定分支。",
-    "labels": "原生,工具,网页",
+    "labels": "原生双平台,工具,网页",
     "version": "1.0.0",
     "download_url": "https://github.com/shuangji66/fnos-fpk/releases/download/1.0.0/Nginx-1.0.0-all.fpk",
     "author": "nginx",
@@ -366,7 +377,7 @@
   "Read": {
     "display_name": "轻阅读",
     "desc": "轻阅读是一款开源的多平台阅读器，支持Android、iOS、HarmonyOS、Windows、MacOS和服务端，提供丰富的功能和灵活的部署选项。需安装Java25",
-    "labels": "原生,工具,阅读",
+    "labels": "原生JAVA,工具,阅读",
     "version": "3.4.4",
     "download_url": "https://github.com/shuangji66/read/releases/download/3.4.4/Read-3.4.4-all.fpk",
     "author": "autobcb",
