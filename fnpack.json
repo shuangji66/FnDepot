@@ -3,20 +3,29 @@
     "display_name": "Fluxor",
     "desc": "使用Mihomo内核和MetacubeXD面板的代理软件，适配飞牛x86、ARM平台。",
     "labels": "原生,工具,网络",
-    "version": "1.1.2",
-    "download_url": "https://github.com/shuangji66/fnos-fpk/releases/download/1.0.0/Fluxor-1.1.2-all.fpk",
+    "version": "1.1.4",
+    "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.2.28/Fluxor-1.1.4-x86.fpk",
     "author": "shuangji66",
     "author_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "54.6",
+    "size": "42",
     "history": {
       "v1.0.0-1": "mihomo项目改名，规避潜在风险",
       "v1.0.1": "更新个好看的圆图标，更新内置geoip、ui",
       "v1.1.0": "换个好看的新图标，更新内置库，修改安装/更新逻辑，不再覆盖已有config，config模板添加了分流规则，可在应用设置重置config以体验。",
       "v1.1.1": "添加UI面板默认后端，更新后前往应用设置添加，重载配置生效，仍未生效的清除浏览器缓存（飞牛app无法刷新缓存，只能重置/重装）",
-      "v1.1.2": "修复默认后端url匹配正则，更新内置库，修复fndepot下载问题"
-       }
+      "v1.1.2": "修复默认后端url匹配正则，更新内置库，修复fndepot下载问题",
+      "v1.1.4": "更新内置库，x86、arm版本分离，更新故障处置，修正更新流程"
+       },
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.2.28/Fluxor-1.1.4-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.2.28/Fluxor-1.1.4-arm.fpk"
+      }
+    }
     },
   "UnlockMusic": {
     "display_name": "UnlockMusic",
