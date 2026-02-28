@@ -117,7 +117,7 @@
     "author_url": "https://github.com/filebrowser/filebrowser",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "24.5",
+    "size": "12",
     "history": {
       "v2.56.0-1": "初始版本",
       "v2.56.0-2": "优化细节",
@@ -244,7 +244,7 @@
     "author_url": "https://github.com/c0re100/qBittorrent-Enhanced-Edition",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "42.5",
+    "size": "25",
     "history": {
       "v5.1.3-1": "初始版本，看readme，修复fndepot下载问题",
       "v5.1.3-2": "x86、arm版本分离，配置目录持久化保存，与老版本配置不兼容，注意备份重要文件"
