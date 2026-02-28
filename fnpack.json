@@ -30,7 +30,7 @@
   "UnlockMusic": {
     "display_name": "UnlockMusic",
     "desc": "在浏览器中解锁加密的音乐文件（QQ音乐、酷狗/酷我、网易云音乐、虾米），原作源码已全网暴毙，且用且珍惜",
-    "labels": "原生,网页,工具",
+    "labels": "原生双平台,网页,工具",
     "version": "1.10.8-2",
     "author": "UnlockMusic",
     "author_url": "https://git.unlock-music.dev/um/web",
@@ -44,7 +44,7 @@
   "FakeHTTP": {
     "display_name": "FakeHTTP",
     "desc": "FakeHTTP 可以将你的所有 TCP 连接伪装为 HTTP 等协议以规避深度包检测 (DPI)，是一个基于 nftables / iptables 与 Netfilter Queue (NFQUEUE) 的网络工具。",
-    "labels": "原生,工具,网络",
+    "labels": "原生x86,工具,网络",
     "version": "0.9.18-16",
     "author": "MikeWang000000",
     "author_url": "https://github.com/MikeWang000000/FakeHTTP",
@@ -58,7 +58,7 @@
   "FakeSIP": {
     "display_name": "FakeSIP",
     "desc": "FakeSIP 可以将你的所有 UDP 流量伪装为 SIP 等协议以规避深度包检测 (DPI)，是一个基于 nftables / iptables 与 Netfilter Queue (NFQUEUE) 的网络工具。",
-    "labels": "原生,工具,网络",
+    "labels": "原生x86,工具,网络",
     "version": "0.9.1-4",
     "author": "MikeWang000000",
     "author_url": "https://github.com/MikeWang000000/FakeSIP",
@@ -182,7 +182,7 @@
   "BitMeteor": {
     "display_name": "BitMeteor",
     "desc": "BitMeteor(比特流星)是为BitComet(比特彗星)二进制运行文件设计的飞牛软件通用框架，不包含BitComet的代码和文件。",
-    "labels": "原生,下载,工具",
+    "labels": "原生双平台,下载,工具",
     "version": "1.1.1",
     "author": "shuangji66",
     "author_url": "https://github.com/shuangji66/FnDepot",
@@ -198,7 +198,7 @@
   "Teamspeaker": {
     "display_name": "Teamspeaker",
     "desc": "Teamspeaker3-server，管理密钥等信息生成在应用文件/Teamspeaker/info.log，请妥善保存。",
-    "labels": "原生,语音,工具",
+    "labels": "原生x86,语音,工具",
     "version": "3.13.7",
     "author": "teamspeaker",
     "author_url": "https://teamspeak.com/zh-CN/",
@@ -237,17 +237,26 @@
   "qBittorrent-Enhanced": {
     "display_name": "qBittorrent-Enhanced",
     "desc": "qBittorrent增强版+默认vuetorrent面板，支持x86、arm64。",
-    "labels": "原生,下载,工具",
-    "version": "5.1.3-1",
-    "download_url": "https://github.com/shuangji66/fnos-fpk/releases/download/1.0.0/qBittorrent-Enhanced-5.1.3-1-all.fpk",
+    "labels": "原生双平台,下载,工具",
+    "version": "5.1.3-2",
+    "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.2.28/qBittorrent-Enhanced-5.1.3-2-x86.fpk",
     "author": "c0re100",
     "author_url": "https://github.com/c0re100/qBittorrent-Enhanced-Edition",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "42.5",
     "history": {
-      "v5.1.3-1": "初始版本，看readme，修复fndepot下载问题"
-     }
+      "v5.1.3-1": "初始版本，看readme，修复fndepot下载问题",
+      "v5.1.3-2": "x86、arm版本分离，配置目录持久化保存，与老版本配置不兼容，注意备份重要文件"
+     },
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.2.28/qBittorrent-Enhanced-5.1.3-2-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.2.28/qBittorrent-Enhanced-5.1.3-2-arm.fpk"
+      }
+    }
    },
   "uptime-kuma": {
     "display_name": "uptime-kuma",
@@ -332,7 +341,7 @@
   "java-8-openj9": {
     "display_name": "java-8-openj9",
     "desc": "OpenJ9 是一个高性能、企业级的开源 Java 虚拟机",
-    "labels": "原生,工具,开发",
+    "labels": "原生x86,工具,开发",
     "version": "1.8.0_332",
     "download_url": "https://github.com/shuangji66/fnos-fpk/releases/download/1.0.0/java-8-openj9-1.8.0_332-x86.fpk",
     "author": "ibmruntimes",
@@ -347,7 +356,7 @@
   "java-17-openj9": {
     "display_name": "java-17-openj9",
     "desc": "OpenJ9 是一个高性能、企业级的开源 Java 虚拟机",
-    "labels": "原生,工具,开发",
+    "labels": "原生x86,工具,开发",
     "version": "17.0.17",
     "download_url": "https://github.com/shuangji66/fnos-fpk/releases/download/1.0.0/java-17-openj9-17.0.17-x86.fpk",
     "author": "eclipse",
