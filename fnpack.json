@@ -70,7 +70,7 @@
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "isdocker": "true"
+    "isdocker": "true",
     "size": "0.2",
     "changelog": "初始版本"
    },
