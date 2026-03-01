@@ -351,5 +351,26 @@
     "install_type": "存储空间",
     "size": "103",
     "changelog": "更新官方版本，适配时光的导入时的自定义分组，修复fndepot下载问题"
+   },
+  "Tomato": {
+    "display_name": "番茄小说下载器",
+    "platform": ["x86", "arm"],
+    "desc": "番茄小说下载器不精简版本。",
+    "labels": "原生,工具,下载",
+    "version": "2.2.6",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "3.9",
+    "changelog": "初始版本，看readme",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.2/Tomato-2.2.6-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.2/Tomato-2.2.6-arm.fpk"
+      }
+    }
    }
 }
