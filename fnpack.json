@@ -44,7 +44,7 @@
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "0.1",
+    "size": "140 KB",
     "changelog": "初始版本"
    },
   "FakeSIP": {
@@ -57,7 +57,7 @@
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "0.1",
+    "size": "120 KB",
     "changelog": "初始版本"
    },
   "cloudsaver": {
@@ -71,7 +71,7 @@
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "isdocker": "true",
-    "size": "0.2",
+    "size": "200 KB",
     "changelog": "初始版本"
    },
   "CloudSaver": {
@@ -161,7 +161,7 @@
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "0.7",
+    "size": "720 KB",
     "changelog": "修复locale错误导致运行异常"
    },
   "Teamspeaker": {
@@ -286,8 +286,8 @@
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "65.8",
-    "changelog": "增加系统java保底检测，去除openjdk-17强制依赖，修复fndepot下载问题"  
+    "size": "66",
+    "changelog": "增加系统java保底检测，去除openjdk-17强制依赖，修复fndepot下载问题"
    },
   "java-8-openj9": {
     "display_name": "java-8-openj9",
@@ -300,7 +300,7 @@
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "47.5",
+    "size": "48",
     "changelog": "可搭配Reader，提取自原作docker镜像，仅提供x86版"
    },
   "java-17-openj9": {
@@ -314,7 +314,7 @@
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "51.9",
+    "size": "52",
     "changelog": "可搭配Reader，仅提供x86版"
    },
   "Nginx": {
