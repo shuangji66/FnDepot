@@ -313,7 +313,7 @@
     "history": {
       "v1.25.7": "修复fndepot下载问题"
      },
-        "arch_diff": {
+    "arch_diff": {
       "x86": {
         "download_url": "https://github.com/shuangji66/fnos-fpk/releases/download/1.0.0/Golang-1.25.7-x86.fpk"
       },
@@ -370,18 +370,27 @@
    },
   "Nginx": {
     "display_name": "Nginx",
-    "desc": "Nginx是全球最受欢迎的Web服务器、高性能负载均衡器、反向代理、API网关和内容缓存。本项目为飞牛OS特化构建，结合nginx和nginx-ui，支持x86、arm，可切换主线和稳定分支。",
+    "desc": "Nginx是全球最受欢迎的Web服务器、高性能负载均衡器、反向代理、API网关和内容缓存。本项目结合nginx和nginx-ui，为飞牛OS特化构建，支持x86、arm，可切换主线和稳定分支。",
     "labels": "原生双平台,工具,网页",
-    "version": "1.0.0",
-    "download_url": "https://github.com/shuangji66/fnos-fpk/releases/download/1.0.0/Nginx-1.0.0-all.fpk",
+    "version": "1.1.0",
+    "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.2.28/Nginx-1.1.0-x86.fpk",
     "author": "nginx",
     "author_url": "https://nginx.org",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "106.7",
+    "size": "55",
     "history": {
-      "v1.0.0": "软件重构，修复fndepot下载问题"
-     }
+      "v1.0.0": "软件重构，修复fndepot下载问题",
+      "v1.1.0": "x86、arm版本拆分，切换非root运行，添加nginx-ui开关"
+     },
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.2.28/Nginx-1.1.0-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.2.28/Nginx-1.1.0-arm.fpk"
+      }
+    }
    },
   "Read": {
     "display_name": "轻阅读",
