@@ -1,1 +1,1 @@
-<p>番茄小说下载器不精简版本</p><p>使用说明：</p><p>使用前先检查更新，可在设置yaml修改下载路径，默认“/var/apps/Tomato/shares/book”。刚启动可能会搜索下载失败，等一会儿再试。随用随关，定期清理logs日志</p>
+<p>番茄小说下载器不精简版本</p><p>使用说明：</p><p>使用前先检查更新，可在设置yaml修改下载路径，默认“/var/apps/Tomato/shares/book”，可联动reader项目设置下载目录为"/var/apps/Reader/shares/Reader/storage/localStore"。刚启动可能会搜索下载失败，等一会儿再试。随用随关，定期清理logs日志</p>
