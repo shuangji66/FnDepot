@@ -1,1 +1,1 @@
-<p>qBittorrent增强版+默认vuetorrent面板，支持x86、arm64，默认用户名admin，安装后生成密钥在应用目录/qBittorrent-Enhanced/info.log。</p><p><strong>登录后立即修改用户名和密码！！！</strong></p><p>域名访问提示unauthorized需在webui开启反代，添加host头（lucky使用目标host，其他的自己AI），webui修改下载目录在应用设置添加目录相应读写权限</p>
+<p>qBittorrent增强版+默认vuetorrent面板，支持x86、arm64，默认用户名admin，安装后生成密钥在应用目录/qBittorrent-Enhanced/info.log。</p><p><strong>登录后立即修改用户名和密码，webui提示Unauthorized为固有bug，可在地址后加上/再进入</strong></p><p>域名访问提示unauthorized需在webui开启反代，添加host头，webui修改下载目录在应用设置添加目录相应读写权限</p>

@@ -2,7 +2,7 @@
   "Fluxor": {
     "display_name": "Fluxor",
     "platform": ["x86", "arm"],
-    "desc": "使用Mihomo内核和MetacubeXD面板的代理软件，适配飞牛x86、ARM平台。",
+    "desc": "使用Mihomo内核和MetacubeXD面板的代理软件，支持在线升级。",
     "labels": "原生,工具,网络",
     "version": "1.1.4",
     "distributor": "shuangji66",
@@ -77,7 +77,7 @@
   "CloudSaver": {
     "display_name": "CloudSaver",
     "platform": ["x86", "arm"],
-    "desc": "一个基于 Vue 3 + Express 的网盘资源搜索与转存工具，支持响应式布局，移动端与PC完美适配，基于原docker重新打包。基于nodejs_v22统一构建，支持x86、arm64，arm用户可安装本商店其他作者的nodejs_v22-arm。",
+    "desc": "一个基于 Vue 3 + Express 的网盘资源搜索与转存工具，支持响应式布局，移动端与PC完美适配，基于原docker重新打包。基于nodejs_v22统一构建，arm用户需安装本商店其他作者的nodejs_v22-arm。",
     "labels": "原生,nodejs,网盘",
     "version": "0.6.5-5",
     "distributor": "shuangji66",
@@ -119,7 +119,7 @@
   "java-25-openjdk": {
     "display_name": "java-25-openjdk",
     "platform": ["x86", "arm"],
-    "desc": "OpenJDK version 25.0.2，支持x86、arm",
+    "desc": "OpenJDK version 25.0.2，完整映射至/usr/local/bin:$PATH环境变量，可直接全局调用",
     "labels": "原生,工具,JAVA",
     "version": "25.0.2-1",
     "distributor": "shuangji66",
@@ -143,7 +143,7 @@
     "desc": "BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持qB/qBEE/Deluge/BiglyBT/BitComet。",
     "labels": "JAVA,工具,网络",
     "version": "9.3.7",
-    "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.2.28/PeerBanHelper-9.3.7-all.fpk",
+    "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.3/PeerBanHelper-9.3.8-all.fpk",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
@@ -180,7 +180,7 @@
   "EasyTier": {
     "display_name": "EasyTier",
     "platform": ["x86", "arm"],
-    "desc": "本项目为官方商店中EasyTier-Web的修改版，添加自定义用户名，适配x86、arm64，支持双模式启动。",
+    "desc": "本项目为官方商店中EasyTier-Web的修改版，添加自定义用户名，支持双模式启动。",
     "labels": "原生,网络,工具",
     "version": "2.5.0-3",
     "distributor": "shuangji66",
@@ -201,7 +201,7 @@
   "qBittorrent-Enhanced": {
     "display_name": "qBittorrent-Enhanced",
     "platform": ["x86", "arm"],
-    "desc": "qBittorrent增强版+默认vuetorrent面板，支持x86、arm64。",
+    "desc": "qBittorrent增强版+默认vuetorrent面板，支持trackerlist订阅和自动更新，推荐搭配PeerBanHelper。",
     "labels": "原生,下载,工具",
     "version": "5.1.3-2",
     "distributor": "shuangji66",
@@ -222,7 +222,7 @@
   "uptime-kuma": {
     "display_name": "uptime-kuma",
     "platform": ["x86", "arm"],
-    "desc": "uptime-kuma面板，监控网站/API/端口/docker是否在线，支持 Telegram/邮件告警、漂亮的响应时间图表，支持x86、arm64。安装时间较长，请耐心等待进度条。",
+    "desc": "uptime-kuma面板，监控网站/API/端口/docker是否在线，支持 Telegram/邮件告警、漂亮的响应时间图表。安装时间较长，耐心等待进度条。",
     "labels": "原生,nodejs,监控",
     "version": "2.1.3",
     "distributor": "shuangji66",
@@ -257,7 +257,7 @@
   "Golang": {
     "display_name": "Golang",
     "platform": ["x86", "arm"],
-    "desc": "Go1.25.7，支持x86、arm",
+    "desc": "Go1.25.7",
     "labels": "原生,编程,工具",
     "version": "1.25.7",
     "distributor": "shuangji66",
@@ -292,7 +292,7 @@
   "java-8-openj9": {
     "display_name": "java-8-openj9",
     "platform": "x86",
-    "desc": "OpenJ9 是一个高性能、企业级的开源 Java 虚拟机，可显著降低内存占用",
+    "desc": "OpenJRE-8+OpenJ9。OpenJ9 是一个高性能、企业级的开源 Java 虚拟机，可显著降低内存占用。如需外部调用，添加'/var/apps/java-8-openj9/target/bin'为环境变量。可搭配Reader项目",
     "labels": "原生,工具,JAVA",
     "version": "1.8.0_332",
     "download_url": "https://github.com/shuangji66/fnos-fpk/releases/download/1.0.0/java-8-openj9-1.8.0_332-x86.fpk",
@@ -301,12 +301,12 @@
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "48",
-    "changelog": "可搭配Reader，提取自原作docker镜像，仅提供x86版"
+    "changelog": "仅提供x86版"
    },
   "java-17-openj9": {
     "display_name": "java-17-openj9",
     "platform": "x86",
-    "desc": "OpenJ9 是一个高性能、企业级的开源 Java 虚拟机，可显著降低内存占用",
+    "desc": "OpenJRE-17+OpenJ9。OpenJ9 是一个高性能、企业级的开源 Java 虚拟机，可显著降低内存占用。如需外部调用，添加'/var/apps/java-17-openj9/target/bin'为环境变量。可搭配Reader项目",
     "labels": "原生,工具,JAVA",
     "version": "17.0.17",
     "download_url": "https://github.com/shuangji66/fnos-fpk/releases/download/1.0.0/java-17-openj9-17.0.17-x86.fpk",
@@ -315,12 +315,12 @@
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "52",
-    "changelog": "可搭配Reader，仅提供x86版"
+    "changelog": "仅提供x86版"
    },
   "Nginx": {
     "display_name": "Nginx",
     "platform": ["x86", "arm"],
-    "desc": "Nginx是全球最受欢迎的Web服务器、高性能负载均衡器、反向代理、API网关和内容缓存。本项目结合nginx和nginx-ui，为飞牛OS特化构建，支持x86、arm，可切换主线和稳定分支。",
+    "desc": "Nginx是全球最受欢迎的Web服务器、高性能负载均衡器、反向代理、API网关和内容缓存。本项目结合nginx和nginx-ui，为飞牛OS特化构建，可切换主线和稳定分支。",
     "labels": "原生,工具,网页",
     "version": "1.1.0",
     "distributor": "shuangji66",
