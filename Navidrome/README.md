@@ -1,0 +1,1 @@
+使用方法：<br>1.webui：完成nginx-ui配置和web服务添加，完成后可关闭nginx-ui节省内存。<br>2.配置文件：应用文件/etc/conf.d目录修改default.conf或添加conf。<br>应用文件/nginx可放置网页资源。更多使用说明可参考nginx-ui和nginx官方文档。<br>

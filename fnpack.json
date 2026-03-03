@@ -407,5 +407,26 @@
         "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.2/asdf-0.18.0-arm.fpk"
       }
     }
+   },
+  "Navidrome": {
+    "display_name": "Navidrome音乐播放器",
+    "platform": ["x86", "arm"],
+    "desc": "Navidrome是一个基于Web的开源音乐收集服务器和流媒体。 它使您可以自由地从任何浏览器或移动设备收听音乐收藏。root运行，支持转码播放。",
+    "labels": "原生,工具,音乐",
+    "version": "0.60.3",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "20",
+    "changelog": "初始版本，看readme",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.3/Navidrome-0.60.3-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.3/Navidrome-0.60.3-arm.fpk"
+      }
+    }
    }
 }
