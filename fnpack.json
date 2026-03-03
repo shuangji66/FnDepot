@@ -428,5 +428,26 @@
         "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.3/Navidrome-0.60.3-arm.fpk"
       }
     }
+   },
+  "DDNS-GO": {
+    "display_name": "DDNS-GO",
+    "platform": ["x86", "arm"],
+    "desc": "自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务。支持的域名服务商：阿里云、阿里云、ESA、腾讯云、Dnspod、Cloudflare、华为云、Callback、百度云、Porkbun、GoDaddy、Namecheap、NameSilo、Dynadot、DNSLA、时代互联、Eranet、Gcore、IBM、NS1、Connect。安装后首次登录需配置管理员账户。",
+    "labels": "原生,工具,网络",
+    "version": "6.16.0",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "4.5",
+    "changelog": "初始版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.3/DDNS-GO-6.16.0-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.3/DDNS-GO-6.16.0-arm.fpk"
+      }
+    }
    }
 }
