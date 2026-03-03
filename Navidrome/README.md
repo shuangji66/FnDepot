@@ -1,1 +1,1 @@
-使用方法：<br>1.webui：完成nginx-ui配置和web服务添加，完成后可关闭nginx-ui节省内存。<br>2.配置文件：应用文件/etc/conf.d目录修改default.conf或添加conf。<br>应用文件/nginx可放置网页资源。更多使用说明可参考nginx-ui和nginx官方文档。<br>
+<p>Navidrome是一个基于Web的开源音乐收集服务器和流媒体。它使您可以自由地从任何浏览器或移动设备收听音乐收藏。</p><p><strong>添加外部音乐目录需要设置对应目录的读权限，可在设置/客户端设置转码</strong></p>
