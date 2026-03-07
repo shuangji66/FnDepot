@@ -1,0 +1,1 @@
+<p>qBittorrent标准版+内置vuetorrent面板，支持添加trackerlist订阅与自动更新，支持现代化webui启动。</p><p><strong>使用说明：默认用户名admin，初次启动会生成临时密钥在“应用目录/qBittorrent/info.log”，登录后立即修改用户名和密码。需要vuetorrent面板的可在webui启用“备选WebUI”，面板路径已默认添加。</strong><p><strong>从nas直接打开会提示Unauthorized，地址后加上/再进入，建议直接输入地址打开或从书签打开webui。</strong></p><p>webui修改下载目录需在应用设置添加相应目录的读写权限</p>
