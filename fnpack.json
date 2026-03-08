@@ -261,6 +261,27 @@
       }
     }
    },
+  "Transmission": {
+    "display_name": "Transmission",
+    "platform": ["x86", "arm"],
+    "desc": "Transmission是一款简单快速的BitTorrent客户端。可以通过其web界面或专用应用程序远程控制它。内置TrguiNG第三方汉化webui。",
+    "labels": "原生,下载,工具",
+    "version": "4.1.1",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "8",
+    "changelog": "初始版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.7/Transmission-4.1.1-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.7/Transmission-4.1.1-arm.fpk"
+      }
+    }
+   },
   "uptime-kuma": {
     "display_name": "uptime-kuma",
     "platform": ["x86", "arm"],

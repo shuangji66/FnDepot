@@ -1,0 +1,1 @@
+Transmission是一款简单快速的BitTorrent客户端。可以通过其web界面或专用应用程序远程控制它。内置TrguiNG第三方汉化webui。
