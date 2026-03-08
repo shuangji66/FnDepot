@@ -198,6 +198,27 @@
       }
     }
    },
+  "Aria2": {
+    "display_name": "Aria2",
+    "platform": ["x86", "arm"],
+    "desc": "Aria2c-1.37.0+AriaNG面板，支持HTTP/FTP、BT/磁力下载，内置BT-Tracker，支持DHT网络。AriaNg 是一个让 aria2 更容易使用的现代 Web 前端。",
+    "labels": "原生,下载,工具",
+    "version": "1.0.0",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "2.4",
+    "changelog": "初始版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.7/Aria2-1.0.0-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.7/Aria2-1.0.0-arm.fpk"
+      }
+    }
+   },
   "qBittorrent": {
     "display_name": "qBittorrent",
     "platform": ["x86", "arm"],

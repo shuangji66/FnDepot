@@ -1,0 +1,1 @@
+<p>Aria2c-1.37.0+AriaNG面板，支持HTTP/FTP、BT/磁力下载，内置BT-Tracker，支持DHT网络。AriaNg 是一个让 aria2 更容易使用的现代 Web 前端。</p><p>使用说明：内置静态AriaNG面板，也可使用外置的webui面板，RPC链接地址"ws://fn_ip:rpc_port/jsonrpc"，添加自定义RPC密钥。可自行修改aria2.conf配置文件使用</p>
