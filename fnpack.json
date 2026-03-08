@@ -100,19 +100,19 @@
     "platform": ["x86", "arm"],
     "desc": "文件浏览器在指定目录内提供文件管理界面，可用于上传、删除、预览和编辑文件。它是一款自定义云的软件，你可以直接安装在服务器上，引导它到路径，并通过一个漂亮的网页界面访问你的文件。",
     "labels": "原生,工具,文件",
-    "version": "2.61.1",
+    "version": "2.61.2",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "12",
-    "changelog": "更新官方版本：fix: check for correct permission in TUS Delete",
+    "size": "14",
+    "changelog": "更新官方版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.5/Filebrowser-2.61.1-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.7/Filebrowser-2.61.2-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.5/Filebrowser-2.61.1-arm.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.7/Filebrowser-2.61.2-arm.fpk"
       }
     }
    },
