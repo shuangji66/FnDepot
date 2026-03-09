@@ -79,18 +79,20 @@
     "platform": ["x86", "arm"],
     "desc": "一个基于 Vue 3 + Express 的网盘资源搜索与转存工具，支持响应式布局，移动端与PC完美适配，基于原docker重新打包。基于nodejs_v22统一构建，arm用户需安装本商店其他作者的nodejs_v22-arm。",
     "labels": "原生,nodejs,网盘",
-    "version": "0.6.5-5",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "38",
-    "changelog": "重构内置nginx，精简启动流程，切换非root运行，修复生命周期命令故障，x86、arm版本分离",
     "arch_diff": {
       "x86": {
+        "version": "0.6.5-6",
+        "changelog": "nodejs_24构建，强迫症的可以更新",
         "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.2.28/CloudSaver-0.6.5-5-x86.fpk"
       },
       "arm": {
+        "version": "0.6.5-5",
+        "changelog": "重构内置nginx，精简启动流程，切换非root运行，修复生命周期命令故障",
         "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.2.28/CloudSaver-0.6.5-5-arm.fpk"
       }
     }
@@ -287,19 +289,19 @@
     "platform": ["x86", "arm"],
     "desc": "uptime-kuma面板，监控网站/API/端口/docker是否在线，支持 Telegram/邮件告警、漂亮的响应时间图表。安装时间较长，耐心等待进度条。",
     "labels": "原生,nodejs,监控",
-    "version": "2.2.0-1",
+    "version": "2.2.0-2",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "38",
-    "changelog": "nodejs_v24统一构建",
+    "changelog": "修复环境错误",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.7/uptime-kuma-2.2.0-1-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.9/uptime-kuma-2.2.0-2-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.7/uptime-kuma-2.2.0-1-arm.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.9/uptime-kuma-2.2.0-2-arm.fpk"
       }
     }
    },
