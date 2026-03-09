@@ -79,15 +79,15 @@
     "platform": ["x86", "arm"],
     "desc": "一个基于 Vue 3 + Express 的网盘资源搜索与转存工具，支持响应式布局，移动端与PC完美适配，基于原docker重新打包。基于nodejs_v22统一构建，arm用户需安装本商店其他作者的nodejs_v22-arm。",
     "labels": "原生,nodejs,网盘",
+    "version": "0.6.5-6",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "38",
+    "changelog": "nodejs_24构建，强迫症的可以更新",
     "arch_diff": {
       "x86": {
-        "version": "0.6.5-6",
-        "changelog": "nodejs_24构建，强迫症的可以更新",
         "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.2.28/CloudSaver-0.6.5-5-x86.fpk"
       },
       "arm": {
