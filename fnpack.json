@@ -88,7 +88,7 @@
     "changelog": "nodejs_24构建，强迫症的可以更新",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.2.28/CloudSaver-0.6.5-5-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.9/CloudSaver-0.6.5-6-x86.fpk"
       },
       "arm": {
         "version": "0.6.5-5",
