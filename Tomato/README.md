@@ -1,1 +1,1 @@
-<p>番茄小说下载器不精简版本<a href="https://github.com/zhongbai2333/Tomato-Novel-Downloader" target="_blank">源项目</a></p><p>使用说明：</p><p>使用前先检查更新，可在设置yaml修改下载路径，默认“/var/apps/Tomato/shares/book”，可联动reader书仓，设置下载目录为"/var/apps/Reader/shares/localStore"(需要设置读写权限)。刚启动可能会搜索下载失败，需等程序预热完毕。</p>
+<p>番茄小说下载器不精简版本，<a href="https://github.com/zhongbai2333/Tomato-Novel-Downloader" target="_blank">源项目</a></p><p>使用说明：</p><p>使用前先检查更新，可在设置yaml修改下载路径，默认“/var/apps/Tomato/shares/book”，可联动reader书仓，设置下载目录为"/var/apps/Reader/shares/localStore"(需要设置读写权限)，浏览书仓并上架书籍，tomato更新章节后在reader更新书源即可。刚启动可能会搜索下载失败，需等程序预热完毕。</p>

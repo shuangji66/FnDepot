@@ -2,22 +2,22 @@
   "Fluxor": {
     "display_name": "Fluxor",
     "platform": ["x86", "arm"],
-    "desc": "使用Mihomo内核和MetacubeXD面板的代理软件，支持在线升级。",
+    "desc": "使用Mihomo内核和MetacubeXD面板的代理软件，方便、快捷地搭建、切换代理节点。",
     "labels": "原生,工具,网络",
-    "version": "1.1.4",
+    "version": "1.1.5",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "42",
-    "changelog": "更新内置库，x86、arm版本分离，更新故障处置，修正更新流程",
+    "changelog": "更新内置库版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.2.28/Fluxor-1.1.4-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.12/Fluxor-1.1.5-x86.fpk"
       },
       "arm": {
         "size": "15",
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.2.28/Fluxor-1.1.4-arm.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.12/Fluxor-1.1.5-arm.fpk"
       }
      }
     },
@@ -158,18 +158,19 @@
     "platform": "all",
     "desc": "BitMeteor(比特流星)是为BitComet(比特彗星)二进制运行文件设计的飞牛软件通用框架，不包含BitComet的代码和文件。",
     "labels": "原生,下载,工具",
-    "version": "1.1.1",
+    "version": "1.2.0",
+    "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.12/BitMeteor-1.2.0-all.fpk",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "720 KB",
-    "changelog": "修复locale错误导致运行异常"
+    "size": "724 KB",
+    "changelog": "更新需重新安装deb，添加HOME环境变量，切换.config、Downloads默认目录，需手动迁移配置和已下载文件，旧目录已废弃"
    },
   "Teamspeaker": {
     "display_name": "Teamspeaker",
     "platform": "x86",
-    "desc": "Teamspeaker3-server，管理密钥等信息生成在应用文件/Teamspeaker/info.log，请妥善保存。",
+    "desc": "Teamspeaker是全球流行的团队语音通讯工具软件，常用于游戏、会议团队语音沟通，并提供文字聊天、文件共享功能，所有数据加密传输。管理密钥等信息生成在应用文件/Teamspeaker/info.log，请妥善保存。",
     "labels": "原生,语音,工具",
     "version": "3.13.7",
     "distributor": "shuangji66",
@@ -182,7 +183,7 @@
   "EasyTier": {
     "display_name": "EasyTier",
     "platform": ["x86", "arm"],
-    "desc": "本项目为官方商店中EasyTier-Web的修改版，添加自定义用户名，支持双模式启动。",
+    "desc": "一个简单、安全、去中心化的异地组网方案，支持自定义用户名、双模式启动，不定期构建最新主线版本。",
     "labels": "原生,网络,工具",
     "version": "2.5.0-3",
     "distributor": "shuangji66",
@@ -319,27 +320,6 @@
     "size": "111",
     "changelog": "修改为root运行，解决目录权限问题，修复fndepot下载问题"
    },
-  "Golang": {
-    "display_name": "Golang",
-    "platform": ["x86", "arm"],
-    "desc": "Go1.25.7",
-    "labels": "原生,编程,工具",
-    "version": "1.25.7",
-    "distributor": "shuangji66",
-    "distributor_url": "https://github.com/shuangji66/FnDepot",
-    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
-    "install_type": "存储空间",
-    "size": "57",
-    "changelog": "修复fndepot下载问题",
-    "arch_diff": {
-      "x86": {
-        "download_url": "https://github.com/shuangji66/fnos-fpk/releases/download/1.0.0/Golang-1.25.7-x86.fpk"
-      },
-      "arm": {
-        "download_url": "https://github.com/shuangji66/fnos-fpk/releases/download/1.0.0/Golang-1.25.7-arm.fpk"
-      }
-    }
-   },
   "Reader": {
     "display_name": "Reader",
     "platform": "all",
@@ -420,28 +400,28 @@
   "Tomato": {
     "display_name": "番茄小说下载器",
     "platform": ["x86", "arm"],
-    "desc": "番茄小说下载器不精简版本。",
+    "desc": "番茄小说下载器不精简版本，支持在线更新。",
     "labels": "原生,工具,下载",
-    "version": "2.3.3",
+    "version": "2.3.5",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "3.9",
-    "changelog": "修复自我更新重启后PID_FILE丢失导致生命周期命令失效",
+    "changelog": "添加更新代理，更新本体版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.9/Tomato-2.3.3-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.12/Tomato-2.3.5-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.9/Tomato-2.3.3-arm.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.12/Tomato-2.3.5-arm.fpk"
       }
     }
    },
   "Git": {
     "display_name": "Git",
     "platform": "x86",
-    "desc": "Git是一个快速、可扩展的分布式版本控制系统，它具有异常丰富的命令集，既提供高级操作，也允许完全访问内部结构",
+    "desc": "Git是一个快速、可扩展的分布式版本控制系统，它具有异常丰富的命令集，既提供高级操作，也允许完全访问内部结构，可覆盖飞牛内置的老旧版本，支持lfs。",
     "labels": "原生,工具,开发",
     "version": "2.53.0",
     "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.2/Git-2.53.0-x86.fpk",
