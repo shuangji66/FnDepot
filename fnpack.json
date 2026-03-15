@@ -10,7 +10,7 @@
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "50",
-    "changelog": "添加自定义面板功能，我的面板我做主，更新内置库",
+    "changelog": "内置zashboard面板，更新内置库",
     "arch_diff": {
       "x86": {
         "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.3.15/Fluxor-1.2.2-x86.fpk"
