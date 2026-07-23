@@ -342,19 +342,19 @@
     ],
     "desc": "🔧Git是一个快速、可扩展的分布式版本控制系统，它具有异常丰富的命令集，既提供高级操作，也允许完全访问内部结构，可覆盖飞牛内置的老旧版本，支持lfs。",
     "labels": "原生,工具,开发",
-    "version": "2.54.0",
+    "version": "2.55.0",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "314",
-    "changelog": "更新版本，使用action构建",
+    "changelog": "更新上游版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.4.27/Git-2.54.0-x86.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.23/Git-2.55.0-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.4.27/Git-2.54.0-arm.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.23/Git-2.55.0-arm.fpk"
       }
     }
   },
