@@ -293,7 +293,7 @@
     ],
     "desc": "📂文件浏览器可以方便地上传、删除、预览和编辑飞牛所有文件，支持飞牛统一网关访问并自动登录和端口访问切换。",
     "labels": "原生,工具,文件",
-    "version": "2.63.20",
+    "version": "2.63.21",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
@@ -302,10 +302,10 @@
     "changelog": "更新上游版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.26/Filebrowser-2.63.20-x86.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.26/Filebrowser-2.63.21-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.26/Filebrowser-2.63.20-arm.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.26/Filebrowser-2.63.21-arm.fpk"
       }
     }
   },
