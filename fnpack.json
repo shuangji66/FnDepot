@@ -857,20 +857,20 @@
     ],
     "desc": "🖼️PhotoPrism是一款面向去中心化网络的人工智能支持的照片应用程序，内置tensorflow运行库。",
     "labels": "原生,工具,相册",
-    "version": "26.3.5",
+    "version": "26.6.1",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "388",
-    "changelog": "初始版本",
+    "size": "386",
+    "changelog": "更新上游版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.22/PhotoPrism-26.3.5-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/PhotoPrism-26.6.1-x86.fpk"
       },
       "arm": {
         "size": "364",
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.22/PhotoPrism-26.3.5-arm.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/PhotoPrism-26.6.1-arm.fpk"
       }
     }
   },
@@ -882,20 +882,20 @@
     ],
     "desc": "🎞️Plex 是一款媒体服务器软件，主要功能是让用户自己整理存储的电影、电视剧、音乐、照片等个人媒体文件，通过一个漂亮的界面统一管理，并能随时随地通过手机、电视、电脑等设备进行流式播放。",
     "labels": "原生,影视,播放",
-    "version": "1.43.2",
+    "version": "1.43.3",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "105",
-    "changelog": "初始版本",
+    "size": "104",
+    "changelog": "更新上游版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.23/Plex-1.43.2-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/Plex-1.43.3-x86.fpk"
       },
       "arm": {
-        "size": "98",
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.23/Plex-1.43.2-arm.fpk"
+        "size": "97",
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/Plex-1.43.3-arm.fpk"
       }
     }
   },
@@ -1045,19 +1045,19 @@
     ],
     "desc": "📂Syncthing 是一种持续性的文件同步程序。它能够实时地将文件同步到两台或更多的计算机上，同时完全保护数据不被他人窥探。",
     "labels": "原生,文件,同步",
-    "version": "2.1.0",
+    "version": "2.1.2",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "11",
-    "changelog": "初始版本",
+    "changelog": "更新上游版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.24/Syncthing-2.1.0-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/Syncthing-2.1.2-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.24/Syncthing-2.1.0-arm.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/Syncthing-2.1.2-arm.fpk"
       }
     }
   },
