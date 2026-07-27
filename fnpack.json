@@ -768,19 +768,19 @@
     ],
     "desc": "📁一种现代的自托管文件浏览器，支持终端。root运行，登录功能已禁用，注意使用安全。",
     "labels": "原生,工具,文件",
-    "version": "2.2.7",
+    "version": "2.2.7-1",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "42",
-    "changelog": "初始版本",
+    "changelog": "添加nodejs24依赖",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.27/NextExplorer-2.2.7-x86.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.27/NextExplorer-2.2.7-1-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.27/NextExplorer-2.2.7-arm.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.27/NextExplorer-2.2.7-1-arm.fpk"
       }
     }
   },
