@@ -366,7 +366,7 @@
     ],
     "desc": "🔧Golang开发环境。",
     "labels": "原生,工具,开发",
-    "version": "1.26.4",
+    "version": "1.26.5",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
@@ -375,10 +375,10 @@
     "changelog": "更新版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.6.25/golang-1.26.4-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.27/golang-1.26.5-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.6.25/golang-1.26.4-arm.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.27/golang-1.26.5-arm.fpk"
       }
     }
   },
