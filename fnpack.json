@@ -423,10 +423,10 @@
     "changelog": "初始版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.27/guandan-1.0.0-x86.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.27/guandan-1.0.0-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.27/guandan-1.0.0-arm.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.27/guandan-1.0.0-arm.fpk"
       }
     }
   },
