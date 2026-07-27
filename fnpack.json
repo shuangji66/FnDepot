@@ -808,6 +808,30 @@
       }
     }
   },
+  "nodejs_v24": {
+    "display_name": "Node.js v24",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "🛠️Node.js® 是一个免费、开源、跨平台的 JavaScript 运行时环境，允许开发人员创建服务器、Web 应用程序、命令行工具和脚本。",
+    "labels": "原生,工具,开发",
+    "version": "24.18.0",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "30",
+    "changelog": "初始版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.27/nodejs_v24-24.18.0-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.27/nodejs_v24-24.18.0-arm.fpk"
+      }
+    }
+  },
   "OMS": {
     "display_name": "OpenResty管理器",
     "platform": [
