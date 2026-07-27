@@ -414,19 +414,19 @@
     ],
     "desc": "♣️局域网掼蛋，带薪摸鱼。",
     "labels": "原生,卡牌,游戏",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "30",
-    "changelog": "初始版本",
+    "changelog": "去除日志输出",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.27/guandan-1.0.0-x86.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.27/guandan-1.0.1-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.27/guandan-1.0.0-arm.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.27/guandan-1.0.1-arm.fpk"
       }
     }
   },
