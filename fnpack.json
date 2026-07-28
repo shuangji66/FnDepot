@@ -212,6 +212,31 @@
     "size": "228 KB",
     "changelog": "更新上游版本，修正compose错误"
   },
+  "Ech0": {
+    "display_name": "Ech0",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "📱自托管个人微博客：你的时间线可以被分享、讨论，同时数据完全由你掌控。",
+    "labels": "原生,网络,博客",
+    "version": "5.4.6",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "34",
+    "changelog": "初始版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.28/Ech0-5.4.6-x86.fpk"
+      },
+      "arm": {
+        "size": "30",
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.28/Ech0-5.4.6-arm.fpk"
+      }
+    }
+  },
   "Embyserver": {
     "display_name": "Embyserver",
     "platform": [
