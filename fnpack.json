@@ -118,7 +118,7 @@
     ],
     "desc": "☁️ 云端一隅，拾光深藏。一个简单、开放且强大的自托管图像托管解决方案。",
     "labels": "原生,图片,工具",
-    "version": "1.0.13",
+    "version": "1.7.27",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
@@ -127,11 +127,11 @@
     "changelog": "初始版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/CloudDrie-1.0.13-x86.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.28/Cloudimgs-1.7.27-x86.fpk"
       },
       "arm": {
         "size": "146",
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/CloudDrie-1.0.13-arm.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.28/Cloudimgs-1.7.27-arm.fpk"
       }
     }
   },
