@@ -163,7 +163,7 @@
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "58",
+    "size": "27",
     "changelog": "上游适配新搜索域名",
     "arch_diff": {
       "x86": {
