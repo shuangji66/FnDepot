@@ -463,7 +463,7 @@
       "arm"
     ],
     "desc": "♣️局域网掼蛋，带薪摸鱼。",
-    "labels": "原生,卡牌,游戏",
+    "labels": "原生,棋牌,游戏",
     "version": "1.0.3",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
@@ -755,7 +755,7 @@
       "arm"
     ],
     "desc": "♣️欢乐斗地主，支持人机对战、局域网联机、自定义模式。",
-    "labels": "原生,纸牌,游戏",
+    "labels": "原生,棋牌,游戏",
     "version": "1.2.45",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
@@ -772,11 +772,25 @@
       }
     }
   },
+  "Majiang": {
+    "display_name": "日本麻将",
+    "platform": "all",
+    "desc": "🀄单机版小日本麻将。",
+    "labels": "原生,棋牌,游戏",
+    "version": "2.5.1",
+    "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.29/Majiang-2.5.1-all.fpk",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "2",
+    "changelog": "初始版本"
+  },
   "MBTI": {
     "display_name": "MBTI人格测试",
     "platform": "all",
     "desc": "🤵🏻MBTI测试93题版，仅供学习，请勿当真。",
-    "labels": "原生,测试",
+    "labels": "原生,测试,娱乐",
     "version": "1.0.0",
     "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.22/MBTI-1.0.0-all.fpk",
     "distributor": "shuangji66",
@@ -1173,7 +1187,7 @@
     "display_name": "SBTI人格测试",
     "platform": "all",
     "desc": "🌿卧槽，没一个诗人。",
-    "labels": "原生,搞笑,测试",
+    "labels": "原生,搞笑,娱乐",
     "version": "1.0.0",
     "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.20/SBTI-1.0.0-all.fpk",
     "distributor": "shuangji66",
