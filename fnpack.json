@@ -775,7 +775,7 @@
   "Mahjong": {
     "display_name": "万能麻将",
     "platform": "all",
-    "desc": "🀄一个功能完整、支持中国境内所有麻将种类的网页版麻将游戏。。",
+    "desc": "🀄一个功能完整、支持中国境内所有麻将种类的网页版麻将游戏。",
     "labels": "原生,棋牌,游戏",
     "version": "1.0.0",
     "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.29/Mahjong-1.0.0-all.fpk",
@@ -1402,6 +1402,30 @@
       },
       "arm": {
         "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.24/VerySync-2.21.3-arm.fpk"
+      }
+    }
+  },
+  "Wol": {
+    "display_name": "网络唤醒",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "🚀专为飞牛os打造的局域网唤醒工具。支持设备扫描、实时状态监测、多设备分组、远程关机。参考官方商店@Max Li的项目源码，基于vue3重制，支持飞牛统一网关访问。",
+    "labels": "原生,网络,工具",
+    "version": "1.0.0",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "3",
+    "changelog": "初始版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.29/Wol-1.0.0-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.29/Wol-1.0.0-arm.fpk"
       }
     }
   },
