@@ -17,11 +17,13 @@
 | BitComet | BitComet | ☄️BitComet(比特彗星)是一款免费的BT/HTTP/FTP下载软件！功能强大速度快，操作简单的BT下载软件，BT资源下载利器！ |
 | BitMeteor | BitMeteor | ☄️BitMeteor是为BitComet设计的飞牛通用软件框架，运行后自动下载并安装BitComet。 |
 | CloudDrive | CloudDrive2 | ☁️CloudDrive是一个强大的多云盘管理工具，为用户提供包含云盘本地挂载的一站式的多云盘解决方案。本项目root运行。 |
+| Cloudimgs | 云图 | ☁️ 云端一隅，拾光深藏。一个简单、开放且强大的自托管图像托管解决方案。 |
 | cloudsaver | CloudSaver | ☁️一个基于 Vue 3 + Express 的网盘资源搜索与转存工具，支持响应式布局，移动端与PC完美适配，可通过 Docker 一键部署 |
 | CloudSaver | CloudSaver | ☁️一个基于 Vue 3 + Express 的网盘资源搜索与转存工具，支持响应式布局，移动端与PC完美适配，基于原docker重新打包。 |
 | DDNS-GO | DDNS-GO | 🌐自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务。支持的域名服务商：阿里云、阿里云、ESA、腾讯云、雨云、Dnspod、Cloudflare、华为云、Callback、百度云、Porkbun、GoDaddy、Namecheap、NameSilo、Dynadot、DNSLA、时代互联、Eranet、Gcore、IBM、NS1、Connect。安装后首次登录需配置管理员账户。 |
 | easytier | EasyTier | 🌐EasyTier是一个简单、安全、去中心化的异地组网方案。支持自定义web控制台用户名。 |
 | EasyTier | EasyTier | 🌐一个简单、安全、去中心化的异地组网方案，支持自定义用户名、三模式启动，不定期构建最新主线版本。 |
+| Ech0 | Ech0 | 📱自托管个人微博客：你的时间线可以被分享、讨论，同时数据完全由你掌控。 |
 | Embyserver | Embyserver | 🎞️Emby将您的个人视频、音乐、照片以及实时电视内容整合在一起。 |
 | FakeHTTP | FakeHTTP | 🔧FakeHTTP 可以将你的所有 TCP 连接伪装为 HTTP 等协议以规避深度包检测 (DPI)，是一个基于 nftables / iptables 与 Netfilter Queue (NFQUEUE) 的网络工具。 |
 | FakeSIP | FakeSIP | 🔧FakeSIP 可以将你的所有 UDP 流量伪装为 SIP 等协议以规避深度包检测 (DPI)，是一个基于 nftables / iptables 与 Netfilter Queue (NFQUEUE) 的网络工具。 |
@@ -31,6 +33,7 @@
 | golang | Go | 🔧Golang开发环境。 |
 | Gotify | Gotify | ✉️一个用于发送和接收消息的简单服务器。 |
 | guandan | 掼蛋 | ♣️局域网掼蛋，带薪摸鱼。 |
+| Guandan | 掼蛋 | ♣️一个可直接运行的四人掼蛋单机与局域网 Web 游戏。 |
 | Homebox | Homebox | 🚀对网络进行调试、检测、压测的工具集合。 |
 | HomePage | HomePage | 📈一个现代、完全静态、快速、安全、完全可定制的应用程序仪表板,集成了100多种服务,并翻译成多种语言。通过YAML文件或通过文件标签发现轻松配置。 |
 | igame | 金太阳小游戏平台 | ☀️你的盐我的醋，赞颂不止！🎮整活打包html小游戏50合一，部分游戏不太好用，但是有捕鱼达人，那还说啥，移动端可能显示操作不正常，当个乐子玩。 |
@@ -43,6 +46,9 @@
 | Komari | Komari | 📈Komari是一款轻量级的自托管服务器监控工具，旨在提供简单、高效的服务器性能监控解决方案。它支持通过Web界面查看服务器状态，并通过轻量级Agent收集数据。 |
 | Komari-Agent | Komari-Agent | 📈通过自动发现密钥，Agent可以自动注册到Komari监控系统中。 |
 | Komga | Komga | 📘为您的漫画、漫画、BD、杂志和电子书提供媒体服务器。软件依赖Java21环境，优先调用java-21-openj9 |
+| Landlord | 斗地主 | ♣️欢乐斗地主，支持人机对战、局域网联机、自定义模式。 |
+| Mahjong | 万能麻将 | 🀄一个功能完整、支持中国境内所有麻将种类的网页版麻将游戏。 |
+| Majiang | 日本麻将 | 🀄单机版小日本麻将。 |
 | MBTI | MBTI人格测试 | 🤵🏻MBTI测试93题版，仅供学习，请勿当真。 |
 | MoveCar | 智能挪车系统 | ✉️一个基于Node.js + Redis构建的现代化、高颜值、重隐私的智能挪车通知系统。 |
 | Navidrome | Navidrome音乐播放器 | 🎵Navidrome是一个基于Web的开源音乐收集服务器和流媒体。 它使您可以自由地从任何浏览器或移动设备收听音乐收藏，支持转码播放。支持飞牛统一网关访问并自动登录和端口访问切换。 |
@@ -71,5 +77,7 @@
 | uptime-kuma | uptime-kuma | 📈uptime-kuma面板，监控网站/API/端口/docker是否在线，支持 Telegram/邮件告警、漂亮的响应时间图表。安装时间较长，耐心等待进度条。 |
 | Vaultwarden | Vaultwarden密钥管理器 | 🔑Vaultwarden 是一个使用 Rust 编写的非官方 Bitwarden 服务器实现，它与官方 Bitwarden 客户端兼容，对于不希望使用官方的占用大量资源的自托管部署而言，它是理想的选择。 |
 | VerySync | 微力同步 | 📂简单易用的多平台文件同步软件，惊人的传输速度是不同于其他产品的最大优势，微力同步的智能P2P技术加速同步，会将文件分割成若干份仅KB的数据同步，而文件都会进行AES加密处理。 |
+| Wol | 网络唤醒 | 🚀专为飞牛os打造的局域网唤醒工具。支持设备扫描、实时状态监测、多设备分组、远程关机。参考官方商店@Max Li的项目源码，基于vue3重制，支持飞牛统一网关访问。 |
 | Xboard | Xboard面板 | 🐱赛博甜甜圈附加组件。 |
+| XiangQi | 中国象棋 | 🀄中国象棋网页游戏，支持单机双人对战、人机对战和局域网联机对战。 |
 | Zdir | Zdir | 📂一款集文件索引、在线预览与分享于一体的多功能私有存储程序，支持图床、音乐播放器，WebDAV、离线下载、第三方挂载等高级功能需订阅。 |
