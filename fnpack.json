@@ -828,6 +828,20 @@
     "size": "600 KB",
     "changelog": "初始版本"
   },
+  "Minesweeper": {
+    "display_name": "超级扫雷",
+    "platform": "all",
+    "desc": "💣再好的电脑扫雷也只有1帧。",
+    "labels": "原生,益智,游戏",
+    "version": "1.13.1",
+    "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.30/Minesweeper-1.13.1-all.fpk",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "370 KB",
+    "changelog": "初始版本"
+  },
   "MoveCar": {
     "display_name": "智能挪车系统",
     "platform": [
