@@ -1,0 +1,1 @@
+<p>🔠一个超低资源消耗速度超快的离线翻译模型服务器，无需显卡。单个请求平均响应时间 50 毫秒。支持全世界主要语言的翻译。</p><p>使用说明：参考<a href="https://github.com/xxnuo/MTranServer/blob/main/README.md" target="_blank">官方文档</a>，创建API Key，选择合适的插件进行使用。</p>
