@@ -890,6 +890,30 @@
       }
     }
   },
+  "MTranServer": {
+    "display_name": "MTranServer翻译服务器",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "🔠一个超低资源消耗速度超快的离线翻译模型服务器，无需显卡。单个请求平均响应时间 50 毫秒。支持全世界主要语言的翻译。",
+    "labels": "原生,工具,翻译",
+    "version": "4.0.33",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "43",
+    "changelog": "初始版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.30/MTranServer-4.0.33-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.30/MTranServer-4.0.33-arm.fpk"
+      }
+    }
+  },
   "Navidrome": {
     "display_name": "Navidrome音乐播放器",
     "platform": [
