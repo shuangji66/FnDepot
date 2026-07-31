@@ -946,19 +946,19 @@
     ],
     "desc": "📁一种现代的自托管文件浏览器，支持终端。root运行，登录功能已禁用，注意使用安全。",
     "labels": "原生,工具,文件",
-    "version": "2.2.7-2",
+    "version": "2.2.7-3",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "42",
-    "changelog": "修复飞牛入口端口变量失效",
+    "changelog": "修改语言匹配源代码，正确匹配浏览器语言，仍为英文的需清除浏览器缓存",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.28/NextExplorer-2.2.7-2-x86.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.31/NextExplorer-2.2.7-3-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.28/NextExplorer-2.2.7-2-arm.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.31/NextExplorer-2.2.7-3-arm.fpk"
       }
     }
   },
