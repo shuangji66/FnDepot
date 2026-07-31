@@ -794,19 +794,19 @@
     ],
     "desc": "🤡一款支持单人 AI 与局域网 2–4 人联机的吹牛卡牌游戏。每局指定 A、K 或 Q，只有 JOKER 是可充当任意指定牌的万能牌；质疑失败或谎言败露的人需要扣动左轮，最后存活者获胜。",
     "labels": "原生,棋牌,游戏",
-    "version": "1.6.0",
+    "version": "1.7.1",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "2",
-    "changelog": "初始版本",
+    "changelog": "更新上游版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.30/Liars-Bar-1.6.0-x86.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.31/Liars-Bar-1.7.1-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.30/Liars-Bar-1.6.0-arm.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.31/Liars-Bar-1.7.1-arm.fpk"
       }
     }
   },
