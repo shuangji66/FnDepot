@@ -1591,6 +1591,30 @@
     "size": "220 KB",
     "changelog": "初始版本"
   },
+  "Yarr": {
+    "display_name": "Yarr阅读器",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "📰基于Web的RSS阅读器，可作桌面应用或自托管服务器使用。",
+    "labels": "原生,阅读,工具",
+    "version": "2.8.0",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "6",
+    "changelog": "初始版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.1/Yarr-2.8.0-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.1/Yarr-2.8.0-arm.fpk"
+      }
+    }
+  },
   "Zdir": {
     "display_name": "Zdir",
     "platform": [
