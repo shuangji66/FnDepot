@@ -8,8 +8,8 @@
 <a href="https://pan.baidu.com/s/10MSoAqqhxB8q-9nSlQm0jQ?pwd=nrec" target="_blank">☁️百度网盘分流</a><br>
 <a href="https://pan.quark.cn/s/faef9924fcfb" target="_blank">💡夸克网盘分流</a>🔑提取码：1YWh
 
-以下根据 `fnpack.json` 列出所有已打包应用，方便快速查阅包名、显示名与功能简介：
-🎉🎉🎉✅️2026.8.1完成字母表集齐成就🎊🎊🎊
+以下根据 `fnpack.json` 列出所有已打包应用，方便快速查阅包名、显示名与功能简介：<br>
+🎉🎉🎉✅️2026.8.1完成字母表集齐成就🎊🎊🎊<br>
 
 | 包名 | 显示名 | 描述 |
 |------|--------|------|
