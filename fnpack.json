@@ -810,6 +810,30 @@
       }
     }
   },
+  "LitePan": {
+    "display_name": "LitePan网盘聚合",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "☁️LitePan是一个专注影音功能的网盘聚合工具，主要功能包括：聚合挂载、STRM刮削、目录整理、缓存管理与自动联动等，让网盘资源更顺畅地进入你的媒体库。",
+    "labels": "原生,网盘,工具",
+    "version": "0.4.5",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "12",
+    "changelog": "初始版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.31/Liarr-1.7.1-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.31/Liar-1.7.1-arm.fpk"
+      }
+    }
+  },
   "Mahjong": {
     "display_name": "万能麻将",
     "platform": "all",
