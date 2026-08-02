@@ -914,6 +914,30 @@
       }
     }
   },
+  "MrRSS": {
+    "display_name": "MrRSS阅读器",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "📰MrRSS 是一款集 AI 摘要、自动翻译于一体的智能 RSS 阅读器，支持桌面客户端与 Web 服务器双模式，让您高效追更全球资讯。",
+    "labels": "原生,阅读,工具",
+    "version": "2.4.2",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "14",
+    "changelog": "初始版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.5.12.4.2-1-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.5.15/r-2.4.2-1-arm.fpk"
+      }
+    }
+  },
   "MTranServer": {
     "display_name": "MTranServer翻译服务器",
     "platform": [
