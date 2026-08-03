@@ -1,1 +1,1 @@
-<p>📚Reader 是一款开源的网络小说阅读器，提供书源管理、书架同步、WebDAV备份等功能，支持多用户模式。本项目参考飞牛社区版reader和原作文档，简化启动过程，添加完整配置参数</p><p>⭐使用说明：</p><p>可选装任意版本java-openj9显著降低内存占用（优先调用java-25-openj9），安装时按需选择运行模式，单用户无密码保护，可自行添加网页认证</p><p>💡可与🍅Tomato番茄小说下载器联动，在应用文件/Reader/storage/localStore下载更新书籍，在书仓中上架书籍并更新章节</p><a href="https://github.com/hectorqin/reader" target="_blank">源项目</a>
+<p>📚Reader3是一款开源的网络小说阅读器，提供书源管理、书架同步、WebDAV备份等功能，原作者已删库，现由社区接力维护。</p><p>⭐使用说明：可选装任意版本java-openj9显著降低内存占用（优先调用java-25-openj9）。</p><p>💡可与🍅Tomato番茄小说下载器联动，在应用文件/Reader/storage/localStore下载更新书籍，在书仓中上架书籍并更新章节。</p>
