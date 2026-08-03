@@ -1245,6 +1245,78 @@
       }
     }
   },
+  "python312": {
+    "display_name": "Python 3.12",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "🔧Python 编程语言，不含静态库文件。",
+    "labels": "原生,编程,工具",
+    "version": "3.12.13",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "25",
+    "changelog": "初始版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.3/python312-3.12.13-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.3/python312-3.12.13-arm.fpk"
+      }
+    }
+  },
+  "python313": {
+    "display_name": "Python 3.13",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "🔧Python 编程语言，不含静态库文件。",
+    "labels": "原生,编程,工具",
+    "version": "3.13.14",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "25",
+    "changelog": "初始版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.3/python312-3.13.14-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.3/python312-3.13.14-arm.fpk"
+      }
+    }
+  },
+  "python314": {
+    "display_name": "Python 3.14",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "🔧Python 编程语言，不含静态库文件。",
+    "labels": "原生,编程,工具",
+    "version": "3.14.6",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "25",
+    "changelog": "初始版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.3/python312-3.14.6-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.3/python312-3.14.6-arm.fpk"
+      }
+    }
+  },
   "qBittorrent": {
     "display_name": "qBittorrent",
     "platform": [
