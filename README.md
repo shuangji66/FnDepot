@@ -69,6 +69,9 @@
 | PhotoPrism | PhotoPrism相册 | 🖼️PhotoPrism是一款面向去中心化网络的人工智能支持的照片应用程序，内置tensorflow运行库。 |
 | Plex | Plex | 🎞️Plex 是一款媒体服务器软件，主要功能是让用户自己整理存储的电影、电视剧、音乐、照片等个人媒体文件，通过一个漂亮的界面统一管理，并能随时随地通过手机、电视、电脑等设备进行流式播放。 |
 | Podman | Podman | 🐭使用Podman管理容器、Pod和镜像，为飞牛os无痛添加另一个容器环境，不修改系统环境、目录权限。启动后以systemd服务后台运行，支持rootful有根模式与rootless无根模式同时运行与切换。 |
+| python312 | Python 3.12 | 🔧Python 编程语言，不含静态库文件。 |
+| python313 | Python 3.13 | 🔧Python 编程语言，不含静态库文件。 |
+| python314 | Python 3.14 | 🔧Python 编程语言，不含静态库文件。 |
 | qBittorrent | qBittorrent | 🧲qBittorrent标准版+内置vuetorrent面板，支持添加trackerlist订阅与自动更新，支持现代化webui启动。 |
 | qBittorrent-Enhanced | qBittorrent-Enhanced | 🧲qBittorrent增强版+内置vuetorrent面板，支持添加trackerlist订阅与自动更新，支持现代化webui启动。 |
 | Read | 轻阅读 | 📚轻阅读是一款开源的多平台阅读器，支持Android、iOS、HarmonyOS、Windows、MacOS和服务端，提供丰富的功能和灵活的部署选项。💡软件依赖Java25环境，优先调用java-25-openj9。 |
