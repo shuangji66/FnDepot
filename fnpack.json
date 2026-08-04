@@ -818,7 +818,7 @@
     ],
     "desc": "☁️LitePan是一个专注影音功能的网盘聚合工具，主要功能包括：聚合挂载、STRM刮削、目录整理、缓存管理与自动联动等，让网盘资源更顺畅地进入你的媒体库。",
     "labels": "原生,网盘,工具",
-    "version": "0.4.5-3",
+    "version": "0.4.6",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
@@ -827,10 +827,10 @@
     "changelog": "上游开发早期，快速迭代，谨慎测试",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.3/LitePan-0.4.5-3-x86.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.4/LitePan-0.4.6-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.3/LitePan-0.4.5-3-arm.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.4/LitePan-0.4.6-arm.fpk"
       }
     }
   },
