@@ -1,0 +1,2829 @@
+{
+  "schema_version": "2",
+  "source_info": {
+    "name": "shuangji66的应用源",
+    "author": "shuangji66",
+    "homepage": "https://github.com/shuangji66/FnDepot",
+    "description": "专注于原生 fpk 的打包，支持 x86、arm 双版本。"
+  },
+  "apps": {
+    "Aria2": {
+      "display_name": "Aria2",
+      "desc": "🚀Aria2c最新源码构建+AriaNG面板，支持HTTP/FTP、BT/磁力下载，内置BT-Tracker，支持DHT网络。AriaNg 是一个让 aria2 更容易使用的现代 Web 前端。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "Aria2/ICON.PNG",
+      "preview_urls": [
+        "Aria2/Preview/1.png",
+        "Aria2/Preview/2.png"
+      ],
+      "readme_url": "Aria2/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "1.0.1": {
+          "changelog": "修复内置面板不能http链接的问题；解决静态编译配置错误导致arm版缺失lib库",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.27/Aria2-1.0.1-x86.fpk",
+              "size": 18000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.27/Aria2-1.0.1-arm.fpk",
+              "size": 18000000
+            }
+          }
+        }
+      }
+    },
+    "asdf": {
+      "display_name": "asdf工具管理器",
+      "desc": "🔧asdf 是一个工具版本管理器，可方便管理Ruby、NodeJS、Java、PHP、.Net在内的几百种运行环境，不影响系统的运行环境。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "asdf/ICON.PNG",
+      "preview_urls": [
+        "asdf/Preview/1.png"
+      ],
+      "readme_url": "asdf/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "0.19.0": {
+          "changelog": "更新版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.27/asdf-0.19.0-x86.fpk",
+              "size": 1600000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.27/asdf-0.19.0-arm.fpk",
+              "size": 1600000
+            }
+          }
+        }
+      }
+    },
+    "Bitcomet": {
+      "display_name": "Bitcomet",
+      "desc": "☄️Bitcomet(比特彗星)是一款免费的BT/HTTP/FTP下载软件！功能强大速度快，操作简单的BT下载软件，BT资源下载利器！",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "Bitcomet/ICON.PNG",
+      "preview_urls": [
+        "Bitcomet/Preview/1.png",
+        "Bitcomet/Preview/2.png"
+      ],
+      "readme_url": "Bitcomet/README.md",
+      "run_as": "root",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "2.21.2": {
+          "changelog": "更新官方版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.1/Bitcomet-2.21.2-x86.fpk",
+              "size": 22000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.1/Bitcomet-2.21.2-arm.fpk",
+              "size": 17000000
+            }
+          }
+        }
+      }
+    },
+    "BitMeteor": {
+      "display_name": "BitMeteor",
+      "desc": "☄️BitMeteor是为BitComet设计的飞牛通用软件框架，运行后自动下载并安装BitComet。",
+      "platform": [
+        "all"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "BitMeteor/ICON.PNG",
+      "preview_urls": [
+        "BitMeteor/Preview/1.png",
+        "BitMeteor/Preview/2.png"
+      ],
+      "readme_url": "BitMeteor/README.md",
+      "run_as": "root",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "1.3.0": {
+          "changelog": "重构项目，改为自动下载安装，新增双入口",
+          "packages": {
+            "all": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.22/BitMeteor-1.3.0-all.fpk",
+              "size": 700000
+            }
+          }
+        }
+      }
+    },
+    "CloudDrive": {
+      "display_name": "CloudDrive2",
+      "desc": "☁️CloudDrive是一个强大的多云盘管理工具，为用户提供包含云盘本地挂载的一站式的多云盘解决方案。root运行，注意数据安全。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "CloudDrive/ICON.PNG",
+      "preview_urls": [
+        "CloudDrive/Preview/1.png"
+      ],
+      "readme_url": "CloudDrive/README.md",
+      "run_as": "root",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "1.0.13": {
+          "changelog": "上游更新版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/CloudDrive-1.0.13-x86.fpk",
+              "size": 15000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/CloudDrive-1.0.13-arm.fpk",
+              "size": 15000000
+            }
+          }
+        }
+      }
+    },
+    "Cloudimgs": {
+      "display_name": "云图",
+      "desc": "☁️ 云端一隅，拾光深藏。一个简单、开放且强大的自托管图像托管解决方案。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "Cloudimgs/ICON.PNG",
+      "preview_urls": [
+        "Cloudimgs/Preview/1.png"
+      ],
+      "readme_url": "Cloudimgs/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "1.7.27": {
+          "changelog": "初始版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.28/Cloudimgs-1.7.27-x86.fpk",
+              "size": 353000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.28/Cloudimgs-1.7.27-arm.fpk",
+              "size": 146000000
+            }
+          }
+        }
+      }
+    },
+    "cloudsaver": {
+      "display_name": "CloudSaver",
+      "desc": "☁️一个基于 Vue 3 + Express 的网盘资源搜索与转存工具，支持响应式布局，移动端与PC完美适配，可通过 Docker 一键部署",
+      "platform": [
+        "all"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "cloudsaver/ICON.PNG",
+      "preview_urls": [
+        "cloudsaver/Preview/1.png",
+        "cloudsaver/Preview/2.png"
+      ],
+      "readme_url": "cloudsaver/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": true,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "0.8.7": {
+          "changelog": "更新上游版本",
+          "packages": {
+            "all": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.24/cloudsaver-0.8.7-all.fpk",
+              "size": 200000
+            }
+          }
+        }
+      }
+    },
+    "CloudSaver": {
+      "display_name": "CloudSaver",
+      "desc": "☁️一个基于 Vue 3 + Express 的网盘资源搜索与转存工具，支持响应式布局，移动端与PC完美适配，基于原docker重新打包。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "CloudSaver/ICON.PNG",
+      "preview_urls": [
+        "CloudSaver/Preview/1.png",
+        "CloudSaver/Preview/2.png"
+      ],
+      "readme_url": "CloudSaver/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "0.8.7-2": {
+          "changelog": "使用nodejs创建前端http服务替代nginx，精简安装包",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.30/CloudSaver-0.8.7-2-x86.fpk",
+              "size": 23000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.30/CloudSaver-0.8.7-2-arm.fpk",
+              "size": 23000000
+            }
+          }
+        }
+      }
+    },
+    "DDNS-GO": {
+      "display_name": "DDNS-GO",
+      "desc": "🌐自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务。支持的域名服务商：阿里云、阿里云、ESA、腾讯云、雨云、Dnspod、Cloudflare、华为云、Callback、百度云、Porkbun、GoDaddy、Namecheap、NameSilo、Dynadot、DNSLA、时代互联、Eranet、Gcore、IBM、NS1、Connect。安装后首次登录需配置管理员账户。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "DDNS-GO/ICON.PNG",
+      "preview_urls": [
+        "DDNS-GO/Preview/1.png",
+        "DDNS-GO/Preview/2.PNG"
+      ],
+      "readme_url": "DDNS-GO/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "6.17.4": {
+          "changelog": "更新上游版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.30/DDNS-GO-6.17.4-x86.fpk",
+              "size": 4500000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.30/DDNS-GO-6.17.4-arm.fpk",
+              "size": 4500000
+            }
+          }
+        }
+      }
+    },
+    "EasyTier": {
+      "display_name": "EasyTier",
+      "desc": "🌐一个简单、安全、去中心化的异地组网方案，支持自定义用户名、三模式启动，不定期构建最新主线版本。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "EasyTier/ICON.PNG",
+      "preview_urls": [
+        "EasyTier/Preview/1.png",
+        "EasyTier/Preview/2.png"
+      ],
+      "readme_url": "EasyTier/README.md",
+      "run_as": "root",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "2.6.4-3": {
+          "changelog": "更新内核",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.23/EasyTier-2.6.4-3-x86.fpk",
+              "size": 12000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.23/EasyTier-2.6.4-3-arm.fpk",
+              "size": 12000000
+            }
+          }
+        }
+      }
+    },
+    "easytier": {
+      "display_name": "EasyTier",
+      "desc": "🌐EasyTier是一个简单、安全、去中心化的异地组网方案。支持自定义web控制台用户名。",
+      "platform": [
+        "all"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "easytier/ICON.PNG",
+      "preview_urls": [
+        "easytier/Preview/1.png",
+        "easytier/Preview/2.png"
+      ],
+      "readme_url": "easytier/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": true,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "2.6.4": {
+          "changelog": "更新上游版本，修正compose错误",
+          "packages": {
+            "all": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.5.12/easytier-2.6.4-all.fpk",
+              "size": 228000
+            }
+          }
+        }
+      }
+    },
+    "Ech0": {
+      "display_name": "Ech0",
+      "desc": "📱自托管个人微博客：你的时间线可以被分享、讨论，同时数据完全由你掌控。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "Ech0/ICON.PNG",
+      "preview_urls": [
+        "Ech0/Preview/1.png",
+        "Ech0/Preview/2.png"
+      ],
+      "readme_url": "Ech0/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "5.4.6": {
+          "changelog": "初始版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.28/Ech0-5.4.6-x86.fpk",
+              "size": 34000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.28/Ech0-5.4.6-arm.fpk",
+              "size": 30000000
+            }
+          }
+        }
+      }
+    },
+    "Embyserver": {
+      "display_name": "Embyserver",
+      "desc": "🎞️Emby将您的个人视频、音乐、照片以及实时电视内容整合在一起。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "影音娱乐"
+      ],
+      "icon_url": "Embyserver/ICON.PNG",
+      "preview_urls": [
+        "Embyserver/Preview/1.png",
+        "Embyserver/Preview/2.png"
+      ],
+      "readme_url": "Embyserver/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "4.9.5": {
+          "changelog": "初始版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.24/Embyserver-4.9.5-x86.fpk",
+              "size": 481000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.24/Embyserver-4.9.5-arm.fpk",
+              "size": 240000000
+            }
+          }
+        }
+      }
+    },
+    "FakeHTTP": {
+      "display_name": "FakeHTTP",
+      "desc": "🔧FakeHTTP 可以将你的所有 TCP 连接伪装为 HTTP 等协议以规避深度包检测 (DPI)，是一个基于 nftables / iptables 与 Netfilter Queue (NFQUEUE) 的网络工具。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "FakeHTTP/ICON.PNG",
+      "preview_urls": [
+        "FakeHTTP/Preview/1.PNG"
+      ],
+      "readme_url": "FakeHTTP/README.md",
+      "run_as": "root",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "0.9.18-17": {
+          "changelog": "重构项目",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.18/FakeHTTP-0.9.18-17-x86.fpk",
+              "size": 100000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.18/FakeHTTP-0.9.18-17-arm.fpk",
+              "size": 100000
+            }
+          }
+        }
+      }
+    },
+    "FakeSIP": {
+      "display_name": "FakeSIP",
+      "desc": "🔧FakeSIP 可以将你的所有 UDP 流量伪装为 SIP 等协议以规避深度包检测 (DPI)，是一个基于 nftables / iptables 与 Netfilter Queue (NFQUEUE) 的网络工具。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "FakeSIP/ICON.PNG",
+      "preview_urls": [
+        "FakeSIP/Preview/1.PNG"
+      ],
+      "readme_url": "FakeSIP/README.md",
+      "run_as": "root",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "0.9.1-5": {
+          "changelog": "重构项目",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.19/FakeSIP-0.9.1-5-x86.fpk",
+              "size": 100000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.19/FakeSIP-0.9.1-5-arm.fpk",
+              "size": 100000
+            }
+          }
+        }
+      }
+    },
+    "Filebrowser": {
+      "display_name": "Filebrowser",
+      "desc": "📂文件浏览器可以方便地上传、删除、预览和编辑飞牛所有文件，支持飞牛统一网关访问并自动登录和端口访问切换。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "Filebrowser/ICON.PNG",
+      "preview_urls": [
+        "Filebrowser/Preview/1.png"
+      ],
+      "readme_url": "Filebrowser/README.md",
+      "run_as": "root",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "2.63.23-1": {
+          "changelog": "改进启动脚本，解决意外关机导致sock残留影响启动",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.6/Filebrowser-2.63.23-1-x86.fpk",
+              "size": 14000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.6/Filebrowser-2.63.23-1-arm.fpk",
+              "size": 14000000
+            }
+          }
+        }
+      }
+    },
+    "Fluxor": {
+      "display_name": "三体甜甜圈",
+      "desc": "😉不可描述之物。经过三体人改造的赛博甜甜圈。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "Fluxor/ICON.PNG",
+      "run_as": "root",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "2.5.1": {
+          "changelog": "重新打包基准版本，老用户可忽略更新",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.26/Fluxor-2.5.1-x86.fpk",
+              "size": 73000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.26/Fluxor-2.5.1-arm.fpk",
+              "size": 30000000
+            }
+          }
+        }
+      }
+    },
+    "Git": {
+      "display_name": "Git",
+      "desc": "🔧Git是一个快速、可扩展的分布式版本控制系统，它具有异常丰富的命令集，既提供高级操作，也允许完全访问内部结构，可覆盖飞牛内置的老旧版本，支持lfs。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "编程开发"
+      ],
+      "icon_url": "Git/ICON.PNG",
+      "preview_urls": [
+        "Git/Preview/1.png"
+      ],
+      "readme_url": "Git/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "2.55.0": {
+          "changelog": "更新上游版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.23/Git-2.55.0-x86.fpk",
+              "size": 314000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.23/Git-2.55.0-arm.fpk",
+              "size": 314000000
+            }
+          }
+        }
+      }
+    },
+    "golang": {
+      "display_name": "Go",
+      "desc": "🔧Golang开发环境。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "编程开发"
+      ],
+      "icon_url": "golang/ICON.PNG",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "1.26.5": {
+          "changelog": "更新版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.27/golang-1.26.5-x86.fpk",
+              "size": 63000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.27/golang-1.26.5-arm.fpk",
+              "size": 63000000
+            }
+          }
+        }
+      }
+    },
+    "Gotify": {
+      "display_name": "Gotify",
+      "desc": "✉️一个用于发送和接收消息的简单服务器。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "Gotify/ICON.PNG",
+      "preview_urls": [
+        "Gotify/Preview/1.png"
+      ],
+      "readme_url": "Gotify/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "3.0.0": {
+          "changelog": "更新上游版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/Gotify-3.0.0-x86.fpk",
+              "size": 14000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/Gotify-3.0.0-arm.fpk",
+              "size": 14000000
+            }
+          }
+        }
+      }
+    },
+    "guandan": {
+      "display_name": "掼蛋",
+      "desc": "♣️局域网掼蛋，带薪摸鱼。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "游戏地带"
+      ],
+      "icon_url": "guandan/ICON.PNG",
+      "preview_urls": [
+        "guandan/Preview/1.png"
+      ],
+      "readme_url": "guandan/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "1.0.3": {
+          "changelog": "改进构建脚本，大幅缩小安装包体积",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.28/guandan-1.0.3-x86.fpk",
+              "size": 3600000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.28/guandan-1.0.3-arm.fpk",
+              "size": 3600000
+            }
+          }
+        }
+      }
+    },
+    "Guandan": {
+      "display_name": "掼蛋",
+      "desc": "♣️一个可直接运行的四人掼蛋单机与局域网 Web 游戏。",
+      "platform": [
+        "all"
+      ],
+      "categories": [
+        "游戏地带"
+      ],
+      "icon_url": "Guandan/ICON.PNG",
+      "preview_urls": [
+        "Guandan/Preview/1.png"
+      ],
+      "readme_url": "Guandan/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "1.3.2": {
+          "changelog": "初始版本",
+          "packages": {
+            "all": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.29/Guandan-1.3.2-all.fpk",
+              "size": 260000
+            }
+          }
+        }
+      }
+    },
+    "Homebox": {
+      "display_name": "Homebox测速",
+      "desc": "🚀对网络进行调试、检测、压测的工具集合。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "Homebox/ICON.PNG",
+      "preview_urls": [
+        "Homebox/Preview/1.png"
+      ],
+      "readme_url": "Homebox/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "0.1.1": {
+          "changelog": "初始版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.21/Homebox-0.1.1-x86.fpk",
+              "size": 3000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.21/Homebox-0.1.1-arm.fpk",
+              "size": 3000000
+            }
+          }
+        }
+      }
+    },
+    "HomePage": {
+      "display_name": "HomePage",
+      "desc": "📈一个现代、完全静态、快速、安全、完全可定制的应用程序仪表板,集成了100多种服务,并翻译成多种语言。通过YAML文件或通过文件标签发现轻松配置。",
+      "platform": [
+        "all"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "HomePage/ICON.PNG",
+      "preview_urls": [
+        "HomePage/Preview/1.png"
+      ],
+      "readme_url": "HomePage/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "1.13.1": {
+          "changelog": "初始版本",
+          "packages": {
+            "all": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.21/HomePage-1.13.1-all.fpk",
+              "size": 6000000
+            }
+          }
+        }
+      }
+    },
+    "igame": {
+      "display_name": "金太阳小游戏平台",
+      "desc": "☀️你的盐我的醋，赞颂不止！🎮整活打包html小游戏50合一，当个乐子玩。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "游戏地带"
+      ],
+      "icon_url": "igame/ICON.PNG",
+      "preview_urls": [
+        "igame/Preview/1.png"
+      ],
+      "readme_url": "igame/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "1.1.0": {
+          "changelog": "切换端口访问",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.6.6/igame-1.1.0-x86.fpk",
+              "size": 71000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.6.6/igame-1.1.0-arm.fpk",
+              "size": 71000000
+            }
+          }
+        }
+      }
+    },
+    "java-11-openj9": {
+      "display_name": "java-11-openj9",
+      "desc": "☕Java运行时环境（Java Runtime Environment）与OpenJ9 高性能 Java 虚拟机，不含Java开发环境，相比OpenJDK体积小、内存占用低，特别适用于nas环境。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "编程开发"
+      ],
+      "icon_url": "java-11-openj9/ICON.PNG",
+      "readme_url": "java-11-openj9/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "11.0.31": {
+          "changelog": "更新版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.12/java-11-openj9-11.0.31-x86.fpk",
+              "size": 52000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.12/java-11-openj9-11.0.31-arm.fpk",
+              "size": 52000000
+            }
+          }
+        }
+      }
+    },
+    "java-17-openj9": {
+      "display_name": "java-17-openj9",
+      "desc": "☕Java运行时环境（Java Runtime Environment）与OpenJ9 高性能 Java 虚拟机，不含Java开发环境，相比OpenJDK体积小、内存占用低，特别适用于nas环境。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "编程开发"
+      ],
+      "icon_url": "java-17-openj9/ICON.PNG",
+      "readme_url": "java-17-openj9/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "17.0.19": {
+          "changelog": "更新版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.12/java-17-openj9-17.0.19-x86.fpk",
+              "size": 52000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.12/java-17-openj9-17.0.19-arm.fpk",
+              "size": 52000000
+            }
+          }
+        }
+      }
+    },
+    "java-21-openj9": {
+      "display_name": "java-21-openj9",
+      "desc": "☕Java运行时环境（Java Runtime Environment）与OpenJ9 高性能 Java 虚拟机，不含Java开发环境，相比OpenJDK体积小、内存占用低，特别适用于nas环境。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "编程开发"
+      ],
+      "icon_url": "java-21-openj9/ICON.PNG",
+      "readme_url": "java-21-openj9/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "21.0.11": {
+          "changelog": "更新版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.12/java-21-openj9-21.0.11-x86.fpk",
+              "size": 56000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.12/java-21-openj9-21.0.11-arm.fpk",
+              "size": 56000000
+            }
+          }
+        }
+      }
+    },
+    "java-25-openj9": {
+      "display_name": "java-25-openj9",
+      "desc": "☕Java运行时环境（Java Runtime Environment）与OpenJ9 高性能 Java 虚拟机，不含Java开发环境，相比OpenJDK体积小、内存占用低，特别适用于nas环境。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "编程开发"
+      ],
+      "icon_url": "java-25-openj9/ICON.PNG",
+      "readme_url": "java-25-openj9/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "25.0.3": {
+          "changelog": "更新版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.12/java-25-openj9-25.0.3-x86.fpk",
+              "size": 56000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.12/java-25-openj9-25.0.3-arm.fpk",
+              "size": 56000000
+            }
+          }
+        }
+      }
+    },
+    "java-25-openjdk": {
+      "display_name": "java-25-openjdk",
+      "desc": "☕OpenJDK 25，包含Java开发环境和Java运行时环境（Java Runtime Environment），可全局调用",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "编程开发"
+      ],
+      "icon_url": "java-25-openjdk/ICON.PNG",
+      "readme_url": "java-25-openjdk/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "25.0.3": {
+          "changelog": "切换Eclipse Temurin构建版",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.12/java-25-openjdk-25.0.3-x86.fpk",
+              "size": 135000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.12/java-25-openjdk-25.0.3-arm.fpk",
+              "size": 135000000
+            }
+          }
+        }
+      }
+    },
+    "java-8-openj9": {
+      "display_name": "java-8-openj9",
+      "desc": "☕Java运行时环境（Java Runtime Environment）与OpenJ9 高性能 Java 虚拟机，不含Java开发环境，相比OpenJDK体积小、内存占用低，特别适用于nas环境。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "编程开发"
+      ],
+      "icon_url": "java-8-openj9/ICON.PNG",
+      "readme_url": "java-8-openj9/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "1.8.0_492": {
+          "changelog": "更新版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.12/java-8-openj9-1.8.0_492-x86.fpk",
+              "size": 51000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.12/java-8-openj9-1.8.0_492-arm.fpk",
+              "size": 51000000
+            }
+          }
+        }
+      }
+    },
+    "Komari": {
+      "display_name": "Komari",
+      "desc": "📈Komari是一款轻量级的自托管服务器监控工具，旨在提供简单、高效的服务器性能监控解决方案。它支持通过Web界面查看服务器状态，并通过轻量级Agent收集数据。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "Komari/ICON.PNG",
+      "preview_urls": [
+        "Komari/Preview/1.png",
+        "Komari/Preview/2.png"
+      ],
+      "readme_url": "Komari/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "1.4.0": {
+          "changelog": "上线插件功能",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.5/Komari-1.4.0-x86.fpk",
+              "size": 15000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.5/Komari-1.4.0-arm.fpk",
+              "size": 15000000
+            }
+          }
+        }
+      }
+    },
+    "Komari-Agent": {
+      "display_name": "Komari-Agent",
+      "desc": "📈通过自动发现密钥，Agent可以自动注册到Komari监控系统中。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "Komari-Agent/ICON.PNG",
+      "preview_urls": [
+        "Komari-Agent/Preview/1.png"
+      ],
+      "readme_url": "Komari-Agent/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "1.2.60": {
+          "changelog": "更新上游版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/Komari-Agent-1.2.60-x86.fpk",
+              "size": 6000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/Komari-Agent-1.2.60-arm.fpk",
+              "size": 6000000
+            }
+          }
+        }
+      }
+    },
+    "Komga": {
+      "display_name": "Komga",
+      "desc": "📘为您的漫画、漫画、BD、杂志和电子书提供媒体服务器。软件依赖Java21环境，优先调用java-21-openj9",
+      "platform": [
+        "all"
+      ],
+      "categories": [
+        "影音娱乐"
+      ],
+      "icon_url": "Komga/ICON.PNG",
+      "preview_urls": [
+        "Komga/Preview/1.png",
+        "Komga/Preview/2.PNG"
+      ],
+      "readme_url": "Komga/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "1.25.0": {
+          "changelog": "更新上游版本",
+          "packages": {
+            "all": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.1/Komga-1.25.0-all.fpk",
+              "size": 111000000
+            }
+          }
+        }
+      }
+    },
+    "Landlord": {
+      "display_name": "斗地主",
+      "desc": "♣️欢乐斗地主，支持人机对战、局域网联机、自定义模式。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "游戏地带"
+      ],
+      "icon_url": "Landlord/ICON.PNG",
+      "preview_urls": [
+        "Landlord/Preview/1.png",
+        "Landlord/Preview/2.png"
+      ],
+      "readme_url": "Landlord/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "1.2.45": {
+          "changelog": "初始版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.28/Landlord-1.2.45-x86.fpk",
+              "size": 1000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.28/Landlord-1.2.45-arm.fpk",
+              "size": 1000000
+            }
+          }
+        }
+      }
+    },
+    "Liars-Bar": {
+      "display_name": "骗子酒馆",
+      "desc": "🤡一款支持单人 AI 与局域网 2–4 人联机的吹牛卡牌游戏。每局指定 A、K 或 Q，只有 JOKER 是可充当任意指定牌的万能牌；质疑失败或谎言败露的人需要扣动左轮，最后存活者获胜。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "游戏地带"
+      ],
+      "icon_url": "Liars-Bar/ICON.PNG",
+      "preview_urls": [
+        "Liars-Bar/Preview/1.png"
+      ],
+      "readme_url": "Liars-Bar/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "1.7.1": {
+          "changelog": "更新上游版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.31/Liars-Bar-1.7.1-x86.fpk",
+              "size": 2000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.31/Liars-Bar-1.7.1-arm.fpk",
+              "size": 2000000
+            }
+          }
+        }
+      }
+    },
+    "LitePan": {
+      "display_name": "LitePan网盘聚合",
+      "desc": "☁️LitePan是一个专注影音功能的网盘聚合工具，主要功能包括：聚合挂载、STRM刮削、目录整理、缓存管理与自动联动等，让网盘资源更顺畅地进入你的媒体库。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "LitePan/ICON.PNG",
+      "preview_urls": [
+        "LitePan/Preview/1.png"
+      ],
+      "readme_url": "LitePan/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "0.4.6-1": {
+          "changelog": "上游开发早期，快速迭代，谨慎测试",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.5/LitePan-0.4.6-1-x86.fpk",
+              "size": 12000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.5/LitePan-0.4.6-1-arm.fpk",
+              "size": 12000000
+            }
+          }
+        }
+      }
+    },
+    "Mahjong": {
+      "display_name": "万能麻将",
+      "desc": "🀄一个功能完整、支持中国境内所有麻将种类的网页版麻将游戏。",
+      "platform": [
+        "all"
+      ],
+      "categories": [
+        "游戏地带"
+      ],
+      "icon_url": "Mahjong/ICON.PNG",
+      "preview_urls": [
+        "Mahjong/Preview/1.png",
+        "Mahjong/Preview/2.png",
+        "Mahjong/Preview/3.png"
+      ],
+      "readme_url": "Mahjong/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "1.0.1": {
+          "changelog": "更新联机说明",
+          "packages": {
+            "all": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.30/Mahjong-1.0.1-all.fpk",
+              "size": 290000
+            }
+          }
+        }
+      }
+    },
+    "Majiang": {
+      "display_name": "日本麻将",
+      "desc": "🀄单机版小日本麻将。",
+      "platform": [
+        "all"
+      ],
+      "categories": [
+        "游戏地带"
+      ],
+      "icon_url": "Majiang/ICON.PNG",
+      "preview_urls": [
+        "Majiang/Preview/1.png"
+      ],
+      "readme_url": "Majiang/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "2.5.1": {
+          "changelog": "初始版本",
+          "packages": {
+            "all": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.29/Majiang-2.5.1-all.fpk",
+              "size": 2000000
+            }
+          }
+        }
+      }
+    },
+    "MBTI": {
+      "display_name": "MBTI人格测试",
+      "desc": "🤵🏻MBTI测试93题版，仅供学习，请勿当真。",
+      "platform": [
+        "all"
+      ],
+      "categories": [
+        "教育学习"
+      ],
+      "icon_url": "MBTI/ICON.PNG",
+      "preview_urls": [
+        "MBTI/Preview/1.png"
+      ],
+      "readme_url": "MBTI/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "1.0.0": {
+          "changelog": "初始版本",
+          "packages": {
+            "all": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.22/MBTI-1.0.0-all.fpk",
+              "size": 600000
+            }
+          }
+        }
+      }
+    },
+    "Minesweeper": {
+      "display_name": "超级扫雷",
+      "desc": "💣再好的电脑扫雷也只有1帧。",
+      "platform": [
+        "all"
+      ],
+      "categories": [
+        "游戏地带"
+      ],
+      "icon_url": "Minesweeper/ICON.PNG",
+      "preview_urls": [
+        "Minesweeper/Preview/1.png"
+      ],
+      "readme_url": "Minesweeper/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "1.13.1": {
+          "changelog": "初始版本",
+          "packages": {
+            "all": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.30/Minesweeper-1.13.1-all.fpk",
+              "size": 370000
+            }
+          }
+        }
+      }
+    },
+    "MoveCar": {
+      "display_name": "智能挪车系统",
+      "desc": "✉️一个基于Node.js + Redis构建的现代化、高颜值、重隐私的智能挪车通知系统。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "生活服务"
+      ],
+      "icon_url": "MoveCar/ICON.PNG",
+      "preview_urls": [
+        "MoveCar/Preview/1.png"
+      ],
+      "readme_url": "MoveCar/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "2.4.2-1": {
+          "changelog": "同步上架x86、arm版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.5.15/MoveCar-2.4.2-1-x86.fpk",
+              "size": 1300000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.5.15/MoveCar-2.4.2-1-arm.fpk",
+              "size": 1300000
+            }
+          }
+        }
+      }
+    },
+    "MrRSS": {
+      "display_name": "MrRSS阅读器",
+      "desc": "📰MrRSS 是一款集 AI 摘要、自动翻译于一体的智能 RSS 阅读器，支持桌面客户端与 Web 服务器双模式，让您高效追更全球资讯。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "教育学习"
+      ],
+      "icon_url": "MrRSS/ICON.PNG",
+      "preview_urls": [
+        "MrRSS/Preview/1.png"
+      ],
+      "readme_url": "MrRSS/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "1.3.25": {
+          "changelog": "初始版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.2/MrRSS-1.3.25-x86.fpk",
+              "size": 14000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.2/MrRSS-1.3.25-arm.fpk",
+              "size": 14000000
+            }
+          }
+        }
+      }
+    },
+    "MTranServer": {
+      "display_name": "MTranServer翻译服务器",
+      "desc": "🔠一个超低资源消耗速度超快的离线翻译模型服务器，无需显卡。单个请求平均响应时间 50 毫秒。支持全世界主要语言的翻译。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "AI赋能"
+      ],
+      "icon_url": "MTranServer/ICON.PNG",
+      "preview_urls": [
+        "MTranServer/Preview/1.png"
+      ],
+      "readme_url": "MTranServer/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "4.0.33": {
+          "changelog": "初始版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.30/MTranServer-4.0.33-x86.fpk",
+              "size": 43000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.30/MTranServer-4.0.33-arm.fpk",
+              "size": 43000000
+            }
+          }
+        }
+      }
+    },
+    "Navidrome": {
+      "display_name": "Navidrome音乐播放器",
+      "desc": "🎵Navidrome是一个基于Web的开源音乐收集服务器和流媒体。它使您可以自由地从任何浏览器或移动设备收听音乐收藏，支持转码播放，支持飞牛统一网关访问并自动登录和端口访问切换。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "影音娱乐"
+      ],
+      "icon_url": "Navidrome/ICON.PNG",
+      "preview_urls": [
+        "Navidrome/Preview/1.png",
+        "Navidrome/Preview/2.png"
+      ],
+      "readme_url": "Navidrome/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "0.63.2": {
+          "changelog": "更新上游版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.11/Navidrome-0.63.2-x86.fpk",
+              "size": 20000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.11/Navidrome-0.63.2-arm.fpk",
+              "size": 20000000
+            }
+          }
+        }
+      }
+    },
+    "NextExplorer": {
+      "display_name": "NextExplorer文件管理器",
+      "desc": "📁一种现代的自托管文件浏览器，支持终端。root运行，登录功能已禁用，注意使用安全。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "NextExplorer/ICON.PNG",
+      "preview_urls": [
+        "NextExplorer/Preview/1.png"
+      ],
+      "readme_url": "NextExplorer/README.md",
+      "run_as": "root",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "2.2.7-3": {
+          "changelog": "修改语言匹配源代码，正确匹配浏览器语言，仍为英文的需清除浏览器缓存",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.31/NextExplorer-2.2.7-3-x86.fpk",
+              "size": 42000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.31/NextExplorer-2.2.7-3-arm.fpk",
+              "size": 42000000
+            }
+          }
+        }
+      }
+    },
+    "Nginx": {
+      "display_name": "Nginx",
+      "desc": "🌐Nginx是全球最受欢迎的Web服务器、高性能负载均衡器、反向代理、API网关和内容缓存。❤️本项目结合nginx和nginx-ui，为飞牛OS特化构建，支持流媒体、邮件等高级特性，可切换主线和稳定分支。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "Nginx/ICON.PNG",
+      "preview_urls": [
+        "Nginx/Preview/1.png",
+        "Nginx/Preview/2.png"
+      ],
+      "readme_url": "Nginx/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "1.3.3": {
+          "changelog": "更新nginx，修复安全漏洞",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.16/Nginx-1.3.3-x86.fpk",
+              "size": 55000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.16/Nginx-1.3.3-arm.fpk",
+              "size": 55000000
+            }
+          }
+        }
+      }
+    },
+    "nodejs_v24": {
+      "display_name": "Node.js v24",
+      "desc": "🛠️Node.js® 是一个免费、开源、跨平台的 JavaScript 运行时环境，允许开发人员创建服务器、Web 应用程序、命令行工具和脚本。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "编程开发"
+      ],
+      "icon_url": "nodejs_v24/ICON.PNG",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "24.18.0": {
+          "changelog": "初始版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.27/nodejs_v24-24.18.0-x86.fpk",
+              "size": 30000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.27/nodejs_v24-24.18.0-arm.fpk",
+              "size": 30000000
+            }
+          }
+        }
+      }
+    },
+    "Ntfy": {
+      "display_name": "Ntfy",
+      "desc": "✉️NTFY 允许你通过脚本从任何计算机向手机或桌面设备发送推送通知。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "Ntfy/ICON.PNG",
+      "preview_urls": [
+        "Ntfy/Preview/1.png"
+      ],
+      "readme_url": "Ntfy/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "2.26.3": {
+          "changelog": "初始版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.30/Ntfy-2.26.3-x86.fpk",
+              "size": 30000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.30/Ntfy-2.26.3-arm.fpk",
+              "size": 30000000
+            }
+          }
+        }
+      }
+    },
+    "OMS": {
+      "display_name": "OpenResty管理器",
+      "desc": "🕊️内置OpenResty并提供的强大web的管理界面，具有服务器状态监控、安全防护、免费SSL证书、主机管理、应用商店、CDN集群等功能。❗️强制https访问，初次配置请使用浏览器打开，无视ssl错误风险打开，不要用飞牛app打开。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "OMS/ICON.PNG",
+      "preview_urls": [
+        "OMS/Preview/1.png"
+      ],
+      "readme_url": "OMS/README.md",
+      "run_as": "root",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "1.0.1": {
+          "changelog": "更新内核和面板",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/OMS-1.0.1-x86.fpk",
+              "size": 85000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/OMS-1.0.1-arm.fpk",
+              "size": 82000000
+            }
+          }
+        }
+      }
+    },
+    "Openlist": {
+      "display_name": "Openlist",
+      "desc": "📂一个支持多种存储的文件列表程序，同时支持飞牛统一网关与端口访问。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "Openlist/ICON.PNG",
+      "preview_urls": [
+        "Openlist/Preview/1.png"
+      ],
+      "readme_url": "Openlist/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "4.2.4": {
+          "changelog": "更新上游版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/Openlist-4.2.4-x86.fpk",
+              "size": 43000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/Openlist-4.2.4-arm.fpk",
+              "size": 42000000
+            }
+          }
+        }
+      }
+    },
+    "Openlist-beta": {
+      "display_name": "Openlist-Beta",
+      "desc": "📂一个支持多种存储的文件列表程序，同时支持飞牛统一网关与端口访问。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "Openlist-beta/ICON.PNG",
+      "preview_urls": [
+        "Openlist-beta/Preview/1.png"
+      ],
+      "readme_url": "Openlist-beta/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "2026.8.5": {
+          "changelog": "更新测试版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.5/Openlist-beta-2026.8.5-x86.fpk",
+              "size": 66000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.5/Openlist-beta-2026.8.5-arm.fpk",
+              "size": 63000000
+            }
+          }
+        }
+      }
+    },
+    "PeerBanHelper": {
+      "display_name": "PeerBanHelper",
+      "desc": "🛡️BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持qB/qBEE/Deluge/BiglyBT/BitComet。💡依赖Java25环境，优先调用java-25-openj9。",
+      "platform": [
+        "all"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "PeerBanHelper/ICON.PNG",
+      "preview_urls": [
+        "PeerBanHelper/Preview/1.png"
+      ],
+      "readme_url": "PeerBanHelper/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "9.4.3": {
+          "changelog": "更新上游版本",
+          "packages": {
+            "all": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.4/PeerBanHelper-9.4.3-all.fpk",
+              "size": 69000000
+            }
+          }
+        }
+      }
+    },
+    "PhotoPrism": {
+      "display_name": "PhotoPrism相册",
+      "desc": "🖼️PhotoPrism是一款面向去中心化网络的人工智能支持的照片应用程序，内置tensorflow运行库。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "影音娱乐"
+      ],
+      "icon_url": "PhotoPrism/ICON.PNG",
+      "preview_urls": [
+        "PhotoPrism/Preview/1.png"
+      ],
+      "readme_url": "PhotoPrism/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "26.6.1": {
+          "changelog": "更新上游版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/PhotoPrism-26.6.1-x86.fpk",
+              "size": 386000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/PhotoPrism-26.6.1-arm.fpk",
+              "size": 364000000
+            }
+          }
+        }
+      }
+    },
+    "Plex": {
+      "display_name": "Plex",
+      "desc": "🎞️Plex 是一款媒体服务器软件，主要功能是让用户自己整理存储的电影、电视剧、音乐、照片等个人媒体文件，通过一个漂亮的界面统一管理，并能随时随地通过手机、电视、电脑等设备进行流式播放。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "影音娱乐"
+      ],
+      "icon_url": "Plex/ICON.PNG",
+      "preview_urls": [
+        "Plex/Preview/1.png"
+      ],
+      "readme_url": "Plex/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "1.43.3": {
+          "changelog": "更新上游版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/Plex-1.43.3-x86.fpk",
+              "size": 104000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/Plex-1.43.3-arm.fpk",
+              "size": 97000000
+            }
+          }
+        }
+      }
+    },
+    "Podman": {
+      "display_name": "Podman",
+      "desc": "🐭使用Podman管理容器、Pod和镜像，为飞牛os无痛添加另一个容器环境，不修改系统环境、目录权限。启动后以systemd服务后台运行，支持rootful有根模式与rootless无根模式同时运行与切换。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "Podman/ICON.PNG",
+      "preview_urls": [
+        "Podman/Preview/1.png",
+        "Podman/Preview/2.png"
+      ],
+      "readme_url": "Podman/README.md",
+      "run_as": "root",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "5.8.2-2": {
+          "changelog": "重构项目：改进运行文件映射结构，修改数据存储路径，添加运行模式切换，改进启停脚本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.26/Podman-5.8.2-2-x86.fpk",
+              "size": 32000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.26/Podman-5.8.2-2-arm.fpk",
+              "size": 32000000
+            }
+          }
+        }
+      }
+    },
+    "python312": {
+      "display_name": "Python 3.12",
+      "desc": "🔧Python 编程语言，不含静态库文件。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "编程开发"
+      ],
+      "icon_url": "python312/ICON.PNG",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "3.12.13": {
+          "changelog": "初始版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.3/python312-3.12.13-x86.fpk",
+              "size": 25000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.3/python312-3.12.13-arm.fpk",
+              "size": 25000000
+            }
+          }
+        }
+      }
+    },
+    "python313": {
+      "display_name": "Python 3.13",
+      "desc": "🔧Python 编程语言，不含静态库文件。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "编程开发"
+      ],
+      "icon_url": "python313/ICON.PNG",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "3.13.14": {
+          "changelog": "初始版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.3/python312-3.13.14-x86.fpk",
+              "size": 25000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.3/python312-3.13.14-arm.fpk",
+              "size": 25000000
+            }
+          }
+        }
+      }
+    },
+    "python314": {
+      "display_name": "Python 3.14",
+      "desc": "🔧Python 编程语言，不含静态库文件。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "编程开发"
+      ],
+      "icon_url": "python314/ICON.PNG",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "3.14.6": {
+          "changelog": "初始版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.3/python312-3.14.6-x86.fpk",
+              "size": 25000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.3/python312-3.14.6-arm.fpk",
+              "size": 25000000
+            }
+          }
+        }
+      }
+    },
+    "qBittorrent": {
+      "display_name": "qBittorrent",
+      "desc": "🧲qBittorrent标准版+内置vuetorrent面板，支持添加trackerlist订阅与自动更新，支持现代化webui启动，支持切换libtorrent版本。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "qBittorrent/ICON.PNG",
+      "preview_urls": [
+        "qBittorrent/Preview/1.png",
+        "qBittorrent/Preview/2.png"
+      ],
+      "readme_url": "qBittorrent/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "5.2.3": {
+          "changelog": "更新核心",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/qBittorrent-5.2.3-x86.fpk",
+              "size": 47000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/qBittorrent-5.2.3-arm.fpk",
+              "size": 47000000
+            }
+          }
+        }
+      }
+    },
+    "qBittorrent-Enhanced": {
+      "display_name": "qBittorrent-Enhanced",
+      "desc": "🧲qBittorrent增强版+内置vuetorrent面板，支持添加trackerlist订阅与自动更新，支持现代化webui启动。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "qBittorrent-Enhanced/ICON.PNG",
+      "preview_urls": [
+        "qBittorrent-Enhanced/Preview/1.png",
+        "qBittorrent-Enhanced/Preview/2.png"
+      ],
+      "readme_url": "qBittorrent-Enhanced/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "5.2.3": {
+          "changelog": "更新版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/qBittorrent-Enhanced-5.2.3-x86.fpk",
+              "size": 28000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/qBittorrent-Enhanced-5.2.3-arm.fpk",
+              "size": 28000000
+            }
+          }
+        }
+      }
+    },
+    "Read": {
+      "display_name": "轻阅读",
+      "desc": "📚轻阅读是一款开源的多平台阅读器，支持Android、iOS、HarmonyOS、Windows、MacOS和服务端，提供丰富的功能和灵活的部署选项。💡软件依赖Java25环境，优先调用java-25-openj9。",
+      "platform": [
+        "all"
+      ],
+      "categories": [
+        "教育学习"
+      ],
+      "icon_url": "Read/ICON.PNG",
+      "preview_urls": [
+        "Read/Preview/1.png"
+      ],
+      "readme_url": "Read/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "3.4.6-2": {
+          "changelog": "更新上游版本",
+          "packages": {
+            "all": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.5.15/Read-3.4.6-2-all.fpk",
+              "size": 103000000
+            }
+          }
+        }
+      }
+    },
+    "Reader": {
+      "display_name": "Reader",
+      "desc": "📚Reader3是一款开源的网络小说阅读器，提供书源管理、书架同步、WebDAV备份等功能，原作者已删库，现由社区接力维护。",
+      "platform": [
+        "all"
+      ],
+      "categories": [
+        "教育学习"
+      ],
+      "icon_url": "Reader/ICON.PNG",
+      "preview_urls": [
+        "Reader/Preview/1.png"
+      ],
+      "readme_url": "Reader/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "4.0.7": {
+          "changelog": "更新社区维护版本",
+          "packages": {
+            "all": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.3/Reader-4.0.7-all.fpk",
+              "size": 68000000
+            }
+          }
+        }
+      }
+    },
+    "Reader-Rust": {
+      "display_name": "Reader-Rust",
+      "desc": "📚基于reader重构的Rust版书源阅读服务端，支持自定义书源、多格式解析。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "教育学习"
+      ],
+      "icon_url": "Reader-Rust/ICON.PNG",
+      "preview_urls": [
+        "Reader-Rust/Preview/1.png",
+        "Reader-Rust/Preview/2.png"
+      ],
+      "readme_url": "Reader-Rust/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "1.0.8-1": {
+          "changelog": "修复arm版构建时错误提取x86二进制文件",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.6.24/Reader-Rust-1.0.8-1-x86.fpk",
+              "size": 10000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.6.24/Reader-Rust-1.0.8-1-arm.fpk",
+              "size": 10000000
+            }
+          }
+        }
+      }
+    },
+    "SBTI": {
+      "display_name": "SBTI人格测试",
+      "desc": "🌿卧槽，没一个诗人。",
+      "platform": [
+        "all"
+      ],
+      "categories": [
+        "教育学习"
+      ],
+      "icon_url": "SBTI/ICON.PNG",
+      "preview_urls": [
+        "SBTI/Preview/1.png"
+      ],
+      "readme_url": "SBTI/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "1.0.0": {
+          "changelog": "初始版本",
+          "packages": {
+            "all": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.20/SBTI-1.0.0-all.fpk",
+              "size": 4700000
+            }
+          }
+        }
+      }
+    },
+    "Syncthing": {
+      "display_name": "Syncthing",
+      "desc": "📂Syncthing 是一种持续性的文件同步程序。它能够实时地将文件同步到两台或更多的计算机上，同时完全保护数据不被他人窥探。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "Syncthing/ICON.PNG",
+      "preview_urls": [
+        "Syncthing/Preview/1.png",
+        "Syncthing/Preview/2.png"
+      ],
+      "readme_url": "Syncthing/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "2.1.2": {
+          "changelog": "更新上游版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/Syncthing-2.1.2-x86.fpk",
+              "size": 11000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/Syncthing-2.1.2-arm.fpk",
+              "size": 11000000
+            }
+          }
+        }
+      }
+    },
+    "Teamspeaker": {
+      "display_name": "Teamspeaker",
+      "desc": "👬Teamspeaker是全球流行的团队语音通讯工具软件，常用于游戏、会议团队语音沟通，并提供文字聊天、文件共享功能，所有数据加密传输。管理密钥等信息生成在应用文件/Teamspeaker/info.log，请妥善保存。",
+      "platform": [
+        "x86"
+      ],
+      "categories": [
+        "影音娱乐"
+      ],
+      "icon_url": "Teamspeaker/ICON.PNG",
+      "preview_urls": [
+        "Teamspeaker/Preview/1.png"
+      ],
+      "readme_url": "Teamspeaker/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "3.13.7": {
+          "changelog": "初始版本，看readme介绍",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.19/Teamspeaker-3.13.7-x86.fpk",
+              "size": 10000000
+            }
+          }
+        }
+      }
+    },
+    "Tomato": {
+      "display_name": "番茄小说下载器",
+      "desc": "🍅番茄小说下载器不精简版本，支持在线更新。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "教育学习"
+      ],
+      "icon_url": "Tomato/ICON.PNG",
+      "preview_urls": [
+        "Tomato/Preview/1.png",
+        "Tomato/Preview/2.png",
+        "Tomato/Preview/3.png"
+      ],
+      "readme_url": "Tomato/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "2.4.13": {
+          "changelog": "更新上游版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.6.27/Tomato-2.4.13-x86.fpk",
+              "size": 4000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.6.27/Tomato-2.4.13-arm.fpk",
+              "size": 4000000
+            }
+          }
+        }
+      }
+    },
+    "Transmission": {
+      "display_name": "Transmission",
+      "desc": "🧲Transmission是一款简单快速的BitTorrent客户端。内置TrguiNG第三方汉化webui，支持监听种子目录'应用文件/Transmission/Download/watch'",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "Transmission/ICON.PNG",
+      "preview_urls": [
+        "Transmission/Preview/1.png"
+      ],
+      "readme_url": "Transmission/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "4.1.3": {
+          "changelog": "更新上游版本，添加日志开关",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.4/Transmission-4.1.3-x86.fpk",
+              "size": 8000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.4/Transmission-4.1.3-arm.fpk",
+              "size": 8000000
+            }
+          }
+        }
+      }
+    },
+    "Tvheadend": {
+      "display_name": "Tvheadend",
+      "desc": "📺Tvheadend 是领先的 Linux 电视流媒体服务器和数字录像机，可录制流媒体保存至本地。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "Tvheadend/ICON.PNG",
+      "preview_urls": [
+        "Tvheadend/Preview/1.png"
+      ],
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "4.3.0": {
+          "changelog": "初始版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.4.18/Tvheadend-4.3.0-x86.fpk",
+              "size": 31000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.4.18/Tvheadend-4.3.0-arm.fpk",
+              "size": 31000000
+            }
+          }
+        }
+      }
+    },
+    "UnlockMusic": {
+      "display_name": "UnlockMusic",
+      "desc": "🎶在浏览器中解锁加密的音乐文件（QQ音乐*、酷狗/酷我、网易云音乐、虾米），原作源码已全网暴毙，且用且珍惜",
+      "platform": [
+        "all"
+      ],
+      "categories": [
+        "影音娱乐"
+      ],
+      "icon_url": "UnlockMusic/ICON.PNG",
+      "preview_urls": [
+        "UnlockMusic/Preview/1.png"
+      ],
+      "readme_url": "UnlockMusic/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "1.10.8-2": {
+          "changelog": "初始版本",
+          "packages": {
+            "all": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.21/UnlockMusic-1.10.8-2-all.fpk",
+              "size": 2400000
+            }
+          }
+        }
+      }
+    },
+    "uptime-kuma": {
+      "display_name": "uptime-kuma",
+      "desc": "📈uptime-kuma面板，监控网站/API/端口/docker是否在线，支持 Telegram/邮件告警、漂亮的响应时间图表。安装时间较长，耐心等待进度条。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "uptime-kuma/ICON.PNG",
+      "preview_urls": [
+        "uptime-kuma/Preview/1.png"
+      ],
+      "readme_url": "uptime-kuma/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "2.5.0": {
+          "changelog": "更新上游版本，改进构建脚本，缩短安装时间，转移数据目录",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.1/uptime-kuma-2.5.0-x86.fpk",
+              "size": 45000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.1/uptime-kuma-2.5.0-arm.fpk",
+              "size": 45000000
+            }
+          }
+        }
+      }
+    },
+    "Vaultwarden": {
+      "display_name": "Vaultwarden密钥管理器",
+      "desc": "🔑Vaultwarden 是一个使用 Rust 编写的非官方 Bitwarden 服务器实现，它与官方 Bitwarden 客户端兼容，对于不希望使用官方的占用大量资源的自托管部署而言，它是理想的选择。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "Vaultwarden/ICON.PNG",
+      "preview_urls": [
+        "Vaultwarden/Preview/1.PNG"
+      ],
+      "readme_url": "Vaultwarden/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "1.37.0": {
+          "changelog": "更新最新构建版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/Vaultwarden-1.37.0-x86.fpk",
+              "size": 41000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.26/Vaultwarden-1.37.0-arm.fpk",
+              "size": 41000000
+            }
+          }
+        }
+      }
+    },
+    "VerySync": {
+      "display_name": "微力同步",
+      "desc": "📂简单易用的多平台文件同步软件，惊人的传输速度是不同于其他产品的最大优势，微力同步的智能P2P技术加速同步，会将文件分割成若干份仅KB的数据同步，而文件都会进行AES加密处理。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "VerySync/ICON.PNG",
+      "preview_urls": [
+        "VerySync/Preview/1.png",
+        "VerySync/Preview/2.png"
+      ],
+      "readme_url": "VerySync/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "2.21.3": {
+          "changelog": "初始版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.24/VerySync-2.21.3-x86.fpk",
+              "size": 15000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.24/VerySync-2.21.3-arm.fpk",
+              "size": 15000000
+            }
+          }
+        }
+      }
+    },
+    "Wol": {
+      "display_name": "网络唤醒",
+      "desc": "🚀专为飞牛os打造的局域网唤醒工具。支持设备扫描、实时状态监测、多设备分组、远程关机。参考官方商店@Max Li的项目源码，基于vue3重制，支持飞牛统一网关访问。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "Wol/ICON.PNG",
+      "preview_urls": [
+        "Wol/Preview/1.png"
+      ],
+      "readme_url": "Wol/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "1.0.0": {
+          "changelog": "初始版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.29/Wol-1.0.0-x86.fpk",
+              "size": 3000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.29/Wol-1.0.0-arm.fpk",
+              "size": 3000000
+            }
+          }
+        }
+      }
+    },
+    "Xboard": {
+      "display_name": "Xboard面板",
+      "desc": "🐱赛博甜甜圈附加组件。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "Xboard/ICON.PNG",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "2.0.0": {
+          "changelog": "重构项目",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.6.15/Xboard-2.0.0-x86.fpk",
+              "size": 6000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.6.15/Xboard-2.0.0-arm.fpk",
+              "size": 6000000
+            }
+          }
+        }
+      }
+    },
+    "XiangQi": {
+      "display_name": "中国象棋",
+      "desc": "🀄中国象棋网页游戏，支持单机双人对战、人机对战和局域网联机对战。",
+      "platform": [
+        "all"
+      ],
+      "categories": [
+        "游戏地带"
+      ],
+      "icon_url": "XiangQi/ICON.PNG",
+      "preview_urls": [
+        "XiangQi/Preview/1.png"
+      ],
+      "readme_url": "XiangQi/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "1.1.0": {
+          "changelog": "初始版本",
+          "packages": {
+            "all": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.7.29/XiangQi-1.1.0-all.fpk",
+              "size": 220000
+            }
+          }
+        }
+      }
+    },
+    "Yarr": {
+      "display_name": "Yarr阅读器",
+      "desc": "📰基于Web的RSS阅读器，可作桌面应用或自托管服务器使用。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "教育学习"
+      ],
+      "icon_url": "Yarr/ICON.PNG",
+      "preview_urls": [
+        "Yarr/Preview/1.png"
+      ],
+      "readme_url": "Yarr/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "2.8.0": {
+          "changelog": "初始版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.1/Yarr-2.8.0-x86.fpk",
+              "size": 6000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.1/Yarr-2.8.0-arm.fpk",
+              "size": 6000000
+            }
+          }
+        }
+      }
+    },
+    "Zdir": {
+      "display_name": "Zdir",
+      "desc": "📂一款集文件索引、在线预览与分享于一体的多功能私有存储程序，支持图床、音乐播放器，WebDAV、离线下载、第三方挂载等高级功能需订阅。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "Zdir/ICON.PNG",
+      "preview_urls": [
+        "Zdir/Preview/1.png",
+        "Zdir/Preview/2.png",
+        "Zdir/Preview/3.png"
+      ],
+      "readme_url": "Zdir/README.md",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "releases": {
+        "4.6.2": {
+          "changelog": "初始版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.22/Zdir-4.6.2-x86.fpk",
+              "size": 33000000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.22/Zdir-4.6.2-arm.fpk",
+              "size": 28000000
+            }
+          }
+        }
+      }
+    }
+  }
+}
