@@ -834,6 +834,30 @@
       }
     }
   },
+  "LocalSend-Web": {
+    "display_name": "LocalSend-Web",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "🗂️一款集成WebRTC和WebSockets的网页应用程序,可与其他LocalSend等节点共享文件。",
+    "labels": "原生,文件,网络",
+    "version": "1.0.0",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "2",
+    "changelog": "初始版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.10/LocalSend-Web-1.0.0-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.10/LocalSend-Web-1.0.0-arm.fpk"
+      }
+    }
+  },
   "Mahjong": {
     "display_name": "万能麻将",
     "platform": "all",
