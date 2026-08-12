@@ -17,6 +17,7 @@
 | asdf | asdf工具管理器 | 🔧asdf 是一个工具版本管理器，可方便管理Ruby、NodeJS、Java、PHP、.Net在内的几百种运行环境，不影响系统的运行环境。 |
 | BitComet | BitComet | ☄️BitComet(比特彗星)是一款免费的BT/HTTP/FTP下载软件！功能强大速度快，操作简单的BT下载软件，BT资源下载利器！ |
 | BitMeteor | BitMeteor | ☄️BitMeteor是为BitComet设计的飞牛通用软件框架，运行后自动下载并安装BitComet。 |
+| Bond | 家庭游戏平台 | 🎮游戏也是一种情感纽带。 |
 | CloudDrive | CloudDrive2 | ☁️CloudDrive是一个强大的多云盘管理工具，为用户提供包含云盘本地挂载的一站式的多云盘解决方案。本项目root运行。 |
 | Cloudimgs | 云图 | ☁️ 云端一隅，拾光深藏。一个简单、开放且强大的自托管图像托管解决方案。 |
 | cloudsaver | CloudSaver | ☁️一个基于 Vue 3 + Express 的网盘资源搜索与转存工具，支持响应式布局，移动端与PC完美适配，可通过 Docker 一键部署 |
