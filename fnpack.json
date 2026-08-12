@@ -86,6 +86,20 @@
     "size": "0.7",
     "changelog": "重构项目，改为自动下载安装，新增双入口"
   },
+  "Bond": {
+    "display_name": "家庭游戏平台",
+    "platform": "all",
+    "desc": "🎮游戏也是一种情感纽带。",
+    "labels": "原生,游戏,平台",
+    "version": "1.0.0",
+    "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.12/Bond-1.0.0-all.fpk",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "5",
+    "changelog": "初始版本"
+  },
   "CloudDrive": {
     "display_name": "CloudDrive2",
     "platform": [
