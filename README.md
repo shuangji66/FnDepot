@@ -40,11 +40,15 @@
 | HomePage | HomePage | 📈一个现代、完全静态、快速、安全、完全可定制的应用程序仪表板,集成了100多种服务,并翻译成多种语言。通过YAML文件或通过文件标签发现轻松配置。 |
 | igame | 金太阳小游戏平台 | ☀️你的盐我的醋，赞颂不止！🎮整活打包html小游戏50合一，部分游戏不太好用，但是有捕鱼达人，那还说啥，移动端可能显示操作不正常，当个乐子玩。 |
 | java-11-openj9 | java-11-openj9 | ☕Java运行时环境（Java Runtime Environment）与OpenJ9 高性能 Java 虚拟机，不含Java开发环境，相比OpenJDK体积小、内存占用低，特别适用于nas环境。 |
+| java-11-openjdk | java-11-openjdk | ☕OpenJDK 11，包含开发环境和运行时，可全局调用。 |
 | java-17-openj9 | java-17-openj9 | ☕Java运行时环境（Java Runtime Environment）与OpenJ9 高性能 Java 虚拟机，不含Java开发环境，相比OpenJDK体积小、内存占用低，特别适用于nas环境。 |
+| java-17-openjdk | java-17-openjdk | ☕OpenJDK 17，包含开发环境和运行时，可全局调用。 |
 | java-21-openj9 | java-21-openj9 | ☕Java运行时环境（Java Runtime Environment）与OpenJ9 高性能 Java 虚拟机，不含Java开发环境，相比OpenJDK体积小、内存占用低，特别适用于nas环境。 |
+| java-21-openjdk | java-21-openjdk | ☕OpenJDK 21，包含开发环境和运行时，可全局调用。 |
 | java-25-openj9 | java-25-openj9 | ☕Java运行时环境（Java Runtime Environment）与OpenJ9 高性能 Java 虚拟机，不含Java开发环境，相比OpenJDK体积小、内存占用低，特别适用于nas环境。 |
-| java-25-openjdk | java-25-openjdk | ☕OpenJDK version 25.0.2，包含Java开发环境和Java运行时环境（Java Runtime Environment），可全局调用 |
+| java-25-openjdk | java-25-openjdk | ☕OpenJDK 25，包含开发环境和运行时，可全局调用。 |
 | java-8-openj9 | java-8-openj9 | ☕Java运行时环境（Java Runtime Environment）与OpenJ9 高性能 Java 虚拟机，不含Java开发环境，相比OpenJDK体积小、内存占用低，特别适用于nas环境。 |
+| java-8-openjdk | java-8-openjdk | ☕OpenJDK 8，包含开发环境和运行时，可全局调用。 |
 | Komari | Komari | 📈Komari是一款轻量级的自托管服务器监控工具，旨在提供简单、高效的服务器性能监控解决方案。它支持通过Web界面查看服务器状态，并通过轻量级Agent收集数据。 |
 | Komari-Agent | Komari-Agent | 📈通过自动发现密钥，Agent可以自动注册到Komari监控系统中。 |
 | Komga | Komga | 📘为您的漫画、漫画、BD、杂志和电子书提供媒体服务器。软件依赖Java21环境，优先调用java-21-openj9 |
