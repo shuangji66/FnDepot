@@ -594,6 +594,31 @@
       }
     }
   },
+  "java-11-openjdk": {
+    "display_name": "java-11-openjdk",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "☕OpenJDK 11，包含开发环境和运行时，可全局调用。",
+    "labels": "原生,环境,JAVA",
+    "version": "11.0.32",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "186",
+    "changelog": "初始版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.12/java-11-openjdk-11.0.32-x86.fpk"
+      },
+      "arm": {
+        "size": "183",
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.12/java-11-openjdk-11.0.32-arm.fpk"
+      }
+    }
+  },
   "java-17-openj9": {
     "display_name": "java-17-openj9",
     "platform": [
@@ -618,6 +643,31 @@
       }
     }
   },
+  "java-17-openjdk": {
+    "display_name": "java-17-openjdk",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "☕OpenJDK 17，包含开发环境和运行时，可全局调用。",
+    "labels": "原生,环境,JAVA",
+    "version": "17.0.20",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "184",
+    "changelog": "初始版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.12/java-17-openjdk-17.0.20-x86.fpk"
+      },
+      "arm": {
+        "size": "182",
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.12/java-17-openjdk-17.0.20-arm.fpk"
+      }
+    }
+  },
   "java-21-openj9": {
     "display_name": "java-21-openj9",
     "platform": [
@@ -639,6 +689,31 @@
       },
       "arm": {
         "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.12/java-21-openj9-21.0.11-arm.fpk"
+      }
+    }
+  },
+  "java-21-openjdk": {
+    "display_name": "java-21-openjdk",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "☕OpenJDK 21，包含开发环境和运行时，可全局调用。",
+    "labels": "原生,环境,JAVA",
+    "version": "21.0.12",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "197",
+    "changelog": "初始版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.12/java-21-openjdk-21.0.12-x86.fpk"
+      },
+      "arm": {
+        "size": "195",
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.12/java-21-openjdk-21.0.12-arm.fpk"
       }
     }
   },
@@ -672,21 +747,22 @@
       "x86",
       "arm"
     ],
-    "desc": "☕OpenJDK 25，包含Java开发环境和Java运行时环境（Java Runtime Environment），可全局调用",
+    "desc": "☕OpenJDK 25，包含开发环境和运行时，可全局调用。",
     "labels": "原生,环境,JAVA",
-    "version": "25.0.3",
+    "version": "25.0.4",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "135",
-    "changelog": "切换Eclipse Temurin构建版",
+    "size": "134",
+    "changelog": "更新版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.12/java-25-openjdk-25.0.3-x86.fpk"
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.12/java-25-openjdk-25.0.4-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.12/java-25-openjdk-25.0.3-arm.fpk"
+        "size": "133",
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.12/java-25-openjdk-25.0.4-arm.fpk"
       }
     }
   },
@@ -711,6 +787,30 @@
       },
       "arm": {
         "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.5.12/java-8-openj9-1.8.0_492-arm.fpk"
+      }
+    }
+  },
+  "java-8-openjdk": {
+    "display_name": "java-8-openjdk",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "☕OpenJDK 8，包含开发环境和运行时，可全局调用。",
+    "labels": "原生,环境,JAVA",
+    "version": "1.8.0_502",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "98",
+    "changelog": "初始版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.12/java-8-openjdk-1.8.0_502-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.12/java-8-openjdk-1.8.0_502-arm.fpk"
       }
     }
   },
