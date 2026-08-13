@@ -1100,6 +1100,30 @@
       }
     }
   },
+  "MySQL8": {
+    "display_name": "MySQL8",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "📅MySQL是一个关系型数据库管理系统。",
+    "labels": "原生,系统,工具",
+    "version": "8.4.11",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "95",
+    "changelog": "初始版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.13/MySQL8-8.4.11-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.13/MySQL8-8.4.11-arm.fpk"
+      }
+    }
+  },
   "Navidrome": {
     "display_name": "Navidrome音乐播放器",
     "platform": [
