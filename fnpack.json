@@ -516,20 +516,20 @@
     ],
     "desc": "🐋DeepSeek Harness懒人包。",
     "labels": "原生,AI,工具",
-    "version": "0.1.0-2",
+    "version": "0.1.0-3",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "411",
-    "changelog": "修改HOME路径，添加自签名证书访问",
+    "changelog": "补齐沙盒环境、",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.15/Harness-0.1.0-2-x86.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.15/Harness-0.1.0-3-x86.fpk"
       },
       "arm": {
         "size": "396",
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.15/Harness-0.1.0-2-arm.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.15/Harness-0.1.0-3-arm.fpk"
       }
     }
   },
