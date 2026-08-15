@@ -522,7 +522,7 @@
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "411",
-    "changelog": "补齐沙盒环境、",
+    "changelog": "补齐沙盒环境",
     "arch_diff": {
       "x86": {
         "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.15/Harness-0.1.0-3-x86.fpk"
