@@ -31,6 +31,7 @@
 | FakeSIP | FakeSIP | 🔧FakeSIP 可以将你的所有 UDP 流量伪装为 SIP 等协议以规避深度包检测 (DPI)，是一个基于 nftables / iptables 与 Netfilter Queue (NFQUEUE) 的网络工具。 |
 | Filebrowser | Filebrowser | 📂文件浏览器可以方便地上传、删除、预览和编辑飞牛所有文件，支持飞牛统一网关访问并自动登录和端口访问切换。 |
 | Fluxor | 三体甜甜圈 | 😉不可描述之物。经过三体人改造的赛博甜甜圈。 |
+| fnpack-editor | fnpack编辑器 | 📄FnDepot 外部应用源（fnpack.json）V2 编辑器。支持拖拽排序应用、管理历史版本、校验必填与固定分类，并可调用飞牛文件管理授权目录读取/新建/保存 fnpack.json；对 GitHub release 下载链接可自动获取 sha256 与文件大小。 |
 | Git | Git | 🔧Git是一个快速、可扩展的分布式版本控制系统，它具有异常丰富的命令集，既提供高级操作，也允许完全访问内部结构，可覆盖飞牛内置的老旧版本，支持lfs。 |
 | golang | Go | 🔧Golang开发环境。 |
 | Gotify | Gotify | ✉️一个用于发送和接收消息的简单服务器。 |
