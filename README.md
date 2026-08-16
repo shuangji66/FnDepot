@@ -40,6 +40,7 @@
 | Homebox | Homebox | 🚀对网络进行调试、检测、压测的工具集合。 |
 | HomePage | HomePage | 📈一个现代、完全静态、快速、安全、完全可定制的应用程序仪表板,集成了100多种服务,并翻译成多种语言。通过YAML文件或通过文件标签发现轻松配置。 |
 | igame | 金太阳小游戏平台 | ☀️你的盐我的醋，赞颂不止！🎮整活打包html小游戏50合一，部分游戏不太好用，但是有捕鱼达人，那还说啥，移动端可能显示操作不正常，当个乐子玩。 |
+| iVentoy | iVentoy | 💿iVentoy是一个增强版的 PXE/HTTPBoot 服务器。使用iVentoy 你可以通过网络同时给多台机器启动、安装操作系统。Arm版仅试用。 |
 | java-11-openj9 | java-11-openj9 | ☕Java运行时环境（Java Runtime Environment）与OpenJ9 高性能 Java 虚拟机，不含Java开发环境，相比OpenJDK体积小、内存占用低，特别适用于nas环境。 |
 | java-11-openjdk | java-11-openjdk | ☕OpenJDK 11，包含开发环境和运行时，可全局调用。 |
 | java-17-openj9 | java-17-openj9 | ☕Java运行时环境（Java Runtime Environment）与OpenJ9 高性能 Java 虚拟机，不含Java开发环境，相比OpenJDK体积小、内存占用低，特别适用于nas环境。 |
