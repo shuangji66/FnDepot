@@ -1017,6 +1017,16 @@
       "is_docker": false,
       "service_port": "25600",
       "releases": {
+        "1.26.3": {
+          "changelog": "更新上游版本",
+          "packages": {
+            "all": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.13/Komga-1.26.3-all.fpk",
+              "sha256": "505ee33c13b27007dbccf76cae583f65a113aade91e58bb491a1a32bc020fb1c",
+              "size": 116600405
+            }
+          }
+        },
         "1.25.0": {
           "changelog": "更新上游版本",
           "packages": {
@@ -1826,6 +1836,21 @@
       "is_docker": false,
       "service_port": "5255",
       "releases": {
+        "2026.8.15": {
+          "changelog": "更新测试版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.15/Openlist-beta-2026.8.15-x86.fpk",
+              "sha256": "075a9f4bb2789518004ecf7446fc415b1648e009eb39524bf1316d255b4b80dc",
+              "size": 74918803
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.15/Openlist-beta-2026.8.15-arm.fpk",
+              "sha256": "d811fa608f2b65f7aec4abeaf71ea1ce2c95882a11f528c6a013e3279159eb62",
+              "size": 70651564
+            }
+          }
+        },
         "2026.8.8": {
           "changelog": "更新测试版本",
           "packages": {
