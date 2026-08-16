@@ -398,6 +398,30 @@
       }
     }
   },
+  "fnpack-editor": {
+    "display_name": "fnpack编辑器",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "📄FnDepot 外部应用源（fnpack.json）V2 编辑器。支持拖拽排序应用、管理历史版本、校验必填与固定分类，并可调用飞牛文件管理授权目录读取/新建/保存 fnpack.json；对 GitHub release 下载链接可自动获取 sha256 与文件大小。",
+    "labels": "原生,编辑,工具",
+    "version": "1.1.0",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "3",
+    "changelog": "初始版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.16/fnpack-editor-1.1.0-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.16/fnpack-editor-1.1.0-arm.fpk"
+      }
+    }
+  },
   "Git": {
     "display_name": "Git",
     "platform": [
