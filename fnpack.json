@@ -595,6 +595,30 @@
       }
     }
   },
+  "iVentoy": {
+    "display_name": "iVentoy",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "💿iVentoy是一个增强版的 PXE/HTTPBoot 服务器。使用iVentoy 你可以通过网络同时给多台机器启动、安装操作系统。Arm版仅试用。",
+    "labels": "原生,系统,工具",
+    "version": "1.0.39",
+    "distributor": "shuangji66",
+    "distributor_url": "https://github.com/shuangji66/FnDepot",
+    "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "22",
+    "changelog": "初始版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.16/iVentoy-1.0.39-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.16/iVentoy-1.0.39-arm.fpk"
+      }
+    }
+  },
   "java-11-openj9": {
     "display_name": "java-11-openj9",
     "platform": [
