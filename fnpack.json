@@ -538,7 +538,7 @@
       "x86",
       "arm"
     ],
-    "desc": "🐋DeepSeek Harness懒人包。",
+    "desc": "🐋DeepSeek Harness懒人包，内置插件市场，可一键安装插件。",
     "labels": "原生,AI,工具",
     "version": "0.1.0-4",
     "distributor": "shuangji66",
