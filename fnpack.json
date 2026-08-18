@@ -540,20 +540,20 @@
     ],
     "desc": "🐋DeepSeek Harness懒人包，内置插件市场，可一键安装插件。",
     "labels": "原生,AI,工具",
-    "version": "0.1.0-4",
+    "version": "0.1.0-5",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "411",
-    "changelog": "更新源码，内置插件市场",
+    "changelog": "方案A构建方法，裁剪开发环境，大幅缩小安装包，如遇奇怪的环境缺失问题可回退旧版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.17/Harness-0.1.0-4-x86.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.18/Harness-0.1.0-5-x86.fpk"
       },
       "arm": {
         "size": "396",
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.17/Harness-0.1.0-4-arm.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.18/Harness-0.1.0-5-arm.fpk"
       }
     }
   },
