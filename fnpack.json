@@ -545,14 +545,13 @@
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "411",
+    "size": "53",
     "changelog": "方案A构建方法，裁剪开发环境，大幅缩小安装包，如遇奇怪的环境缺失问题可回退旧版本",
     "arch_diff": {
       "x86": {
         "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.18/Harness-0.1.0-5-x86.fpk"
       },
       "arm": {
-        "size": "396",
         "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.18/Harness-0.1.0-5-arm.fpk"
       }
     }
