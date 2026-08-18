@@ -213,7 +213,7 @@
     }
   },
   "deepseek.harness": {
-    "display_name": "DeepSeek Harness",
+    "display_name": "DeepSeek Harness 懒人包",
     "desc": "DeepSeek Harness 管理应用，支持管理 Harness 服务的启动、停止、重启、源码构建与升级。\n <br>2个版本区别：\n <br>源码版：仅包含项目源码，首次安装启动时在本地自动下载依赖并执行构建。\n <br>预构建版：内置前端产物、后端编译文件及运行时依赖，无需等待构建，安装后直接启动服务。",
     "labels": "工具,DeepSeek",
     "platform": [
