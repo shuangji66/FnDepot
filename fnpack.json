@@ -221,7 +221,7 @@
       "arm"
     ],
     "version": "0.2.3-1",
-    "distributor": "yuexps",
+    "distributor": "预构建版",
     "distributor_url": "https://github.com/yuexps/deepseek.harness.fnos",
     "bug_report_url": "https://github.com/yuexps/deepseek.harness.fnos/issues",
     "install_type": "系统空间",
