@@ -538,14 +538,14 @@
       "x86",
       "arm"
     ],
-    "desc": "🐋DeepSeek Harness懒人包，内置插件市场，可一键安装插件。",
+    "desc": "🐋DeepSeek Harness懒人包，支持局域网http访问，内置插件市场。",
     "labels": "原生,AI,工具",
-    "version": "0.1.0-7",
+    "version": "0.1.0-6",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "53",
+    "size": "48",
     "changelog": "更新源码，改进proxy脚本，支持http访问、登录鉴权。PS：大肥鱼做的爱马仕，爱马仕修的大肥鱼",
     "arch_diff": {
       "x86": {
