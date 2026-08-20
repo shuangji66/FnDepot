@@ -212,29 +212,6 @@
       }
     }
   },
-  "deepseek.harness": {
-    "display_name": "DeepSeek Harness",
-    "desc": "DeepSeek Harness 管理应用，支持管理 Harness 服务的启动、停止、重启、源码构建与升级。\n <br>2个版本区别：\n <br>源码版：仅包含项目源码，首次安装启动时在本地自动下载依赖并执行构建。\n <br>预构建版：内置前端产物、后端编译文件及运行时依赖，无需等待构建，安装后直接启动服务。",
-    "labels": "工具,DeepSeek",
-    "platform": [
-      "x86",
-      "arm"
-    ],
-    "version": "0.2.5",
-    "distributor": "预构建版",
-    "distributor_url": "https://github.com/yuexps/deepseek.harness.fnos",
-    "bug_report_url": "https://github.com/yuexps/deepseek.harness.fnos/issues",
-    "install_type": "系统空间",
-    "size": "78.5",
-    "arch_diff": {
-      "x86": {
-        "download_url": "https://github.com/yuexps/deepseek.harness.fnos/releases/download/v0.2.5/deepseek.harness-x86-prebuilt.fpk"
-      },
-      "arm": {
-        "download_url": "https://github.com/yuexps/deepseek.harness.fnos/releases/download/v0.2.5/deepseek.harness-arm-prebuilt.fpk"
-      }
-    }
-  },
   "EasyTier": {
     "display_name": "EasyTier",
     "platform": [
