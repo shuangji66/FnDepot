@@ -540,19 +540,19 @@
     ],
     "desc": "🐋DeepSeek Harness懒人包，支持局域网http访问，内置插件市场。",
     "labels": "原生,AI,工具",
-    "version": "0.1.0-8",
+    "version": "0.1.1",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "48",
-    "changelog": "采用方案C构建法，基于npm包构建，修改显示名规避侵权",
+    "changelog": "更新官方版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.20/Harness-0.1.0-8-x86.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.21/Harness-0.1.1-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.20/Harness-0.1.0-8-arm.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.21/Harness-0.1.1-arm.fpk"
       }
     }
   },
