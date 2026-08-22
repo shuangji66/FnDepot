@@ -1398,7 +1398,7 @@
     ],
     "desc": "📂一个支持多种存储的文件列表程序，同时支持飞牛统一网关与端口访问。",
     "labels": "原生,文件,网盘",
-    "version": "2026.8.15",
+    "version": "2026.8.22",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
@@ -1407,11 +1407,11 @@
     "changelog": "更新测试版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.15/Openlist-beta-2026.8.15-x86.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.22/Openlist-beta-2026.8.22-x86.fpk"
       },
       "arm": {
         "size": "63",
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.15/Openlist-beta-2026.8.15-arm.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.22/Openlist-beta-2026.8.22-arm.fpk"
       }
     }
   },
