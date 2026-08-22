@@ -1821,19 +1821,19 @@
     ],
     "desc": "📈uptime-kuma面板，监控网站/API/端口/docker是否在线，支持 Telegram/邮件告警、漂亮的响应时间图表。安装时间较长，耐心等待进度条。",
     "labels": "原生,nodejs,监控",
-    "version": "2.5.0",
+    "version": "2.5.2",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "45",
-    "changelog": "更新上游版本，改进构建脚本，缩短安装时间，转移数据目录",
+    "changelog": "更新上游版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.1/uptime-kuma-2.5.0-x86.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.22/uptime-kuma-2.5.2-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.1/uptime-kuma-2.5.0-arm.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.22/uptime-kuma-2.5.2-arm.fpk"
       }
     }
   },
