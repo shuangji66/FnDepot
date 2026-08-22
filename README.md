@@ -37,7 +37,7 @@
 | Gotify | Gotify | ✉️一个用于发送和接收消息的简单服务器。 |
 | guandan | 掼蛋 | ♣️局域网掼蛋，带薪摸鱼。 |
 | Guandan | 掼蛋 | ♣️一个可直接运行的四人掼蛋单机与局域网 Web 游戏。 |
-| Harness | DeepSeek Harness | 🐋DeepSeek Harness懒人包。 |
+| Harness | DeepSeek Harness | 🐋DeepSeek Harness懒人包，含控制面板，面板支持本地终端、授权飞牛目录，支持局域网http访问，内置插件市场。 |
 | Hermes | Hermes | 🐴面向 Hermes Agent 的本地运行时和 Web 控制台。Agent 对话、可视化工作流、模型与 Profile 管理、网页浏览、Coding Agent 和本地运行环境都在一个界面中完成。 |
 | Homebox | Homebox | 🚀对网络进行调试、检测、压测的工具集合。 |
 | HomePage | HomePage | 📈一个现代、完全静态、快速、安全、完全可定制的应用程序仪表板,集成了100多种服务,并翻译成多种语言。通过YAML文件或通过文件标签发现轻松配置。 |
