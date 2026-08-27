@@ -220,19 +220,19 @@
     ],
     "desc": "🌐一个简单、安全、去中心化的异地组网方案，支持自定义用户名、三模式启动，不定期构建最新主线版本。",
     "labels": "原生,网络,工具",
-    "version": "2.6.4-3",
+    "version": "2.6.4-4",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "12",
-    "changelog": "更新内核",
+    "changelog": "更新最新主线核心",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.23/EasyTier-2.6.4-3-x86.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.27/EasyTier-2.6.4-4-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.7.23/EasyTier-2.6.4-3-arm.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.27/EasyTier-2.6.4-4-arm.fpk"
       }
     }
   },
