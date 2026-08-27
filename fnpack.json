@@ -564,19 +564,19 @@
     ],
     "desc": "🐴面向 Hermes Agent 的本地运行时和 Web 控制台。Agent 对话、可视化工作流、模型与 Profile 管理、网页浏览、Coding Agent 和本地运行环境都在一个界面中完成。",
     "labels": "原生,AI,工具",
-    "version": "0.6.46",
+    "version": "0.6.47",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "353",
-    "changelog": "更新hermes-web-ui版本",
+    "changelog": "更新上游版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.23/Hermes-0.6.46-x86.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.27/Hermes-0.6.47-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.23/Hermes-0.6.46-arm.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.8.27/Hermes-0.6.47-arm.fpk"
       }
     }
   },
