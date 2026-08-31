@@ -545,7 +545,7 @@
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "48",
+    "size": "53",
     "changelog": "适配新版dsh，新版dsh改动大，启动失败可在控制台卸载不兼容的插件",
     "arch_diff": {
       "x86": {
