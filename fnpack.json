@@ -538,7 +538,7 @@
       "x86",
       "arm"
     ],
-    "desc": "🐋DeepSeek Harness懒人包，含制台支持本地终端、插件管理、授权飞牛目录、自动修补node-pty环境，支持局域网http访问，内置插件市场。",
+    "desc": "🐋DeepSeek Harness懒人包，控制台支持本地终端、插件管理、授权飞牛目录、自动修补node-pty环境，支持局域网http访问，内置插件市场。",
     "labels": "原生,AI,工具",
     "version": "0.1.2",
     "distributor": "shuangji66",
