@@ -1735,19 +1735,19 @@
     ],
     "desc": "🍅番茄小说下载器不精简版本，支持在线更新。",
     "labels": "原生,下载,阅读",
-    "version": "2.4.14",
+    "version": "2.4.15",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "4",
-    "changelog": "更新上游版本",
+    "changelog": "上游修复bug",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.1/Tomato-2.4.14-x86.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.2/Tomato-2.4.15-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.1/Tomato-2.4.14-arm.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.2/Tomato-2.4.15-arm.fpk"
       }
     }
   },
