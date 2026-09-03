@@ -540,19 +540,19 @@
     ],
     "desc": "🐋DeepSeek Harness懒人包，控制台支持本地终端、插件管理、授权飞牛目录、自动修补node-pty环境，支持局域网http访问，内置插件市场。",
     "labels": "原生,AI,工具",
-    "version": "0.1.2-5",
+    "version": "0.9.0",
     "distributor": "shuangji66",
     "distributor_url": "https://github.com/shuangji66/FnDepot",
     "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
     "install_type": "存储空间",
     "size": "53",
-    "changelog": "改进控制台体验",
+    "changelog": "控制台添加内置更新，改进备份回滚，优化细节；更新dsh版本",
     "arch_diff": {
       "x86": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.2/Harness-0.1.2-5-x86.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.3/Harness-0.9.0-x86.fpk"
       },
       "arm": {
-        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.2/Harness-0.1.2-5-arm.fpk"
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.3/Harness-0.9.0-arm.fpk"
       }
     }
   },
