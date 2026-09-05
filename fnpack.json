@@ -3934,6 +3934,21 @@
               "size": 6195322
             }
           }
+        },
+        "1.0.1": {
+          "changelog": "测试",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.5/testv2-1.0.1-x86.fpk",
+              "sha256": "c8de04a10ac68bc519327d8e8d66036268ab014f36be557f02f437fbd2ff1c94",
+              "size": 37120
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.5/testv2-1.0.1-arm.fpk",
+              "sha256": "fd0627fa949862f568e3b9cc38a6131c16baac8fccad492896e890d411010549",
+              "size": 37121
+            }
+          }
         }
       }
     },
