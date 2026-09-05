@@ -3894,6 +3894,49 @@
         }
       }
     },
+    "testv2": {
+      "display_name": "v2规范action脚本测试",
+      "desc": "v2规范action脚本测试",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "教育学习",
+        "生活服务"
+      ],
+      "icon_url": "testv2/ICON.PNG",
+      "preview_urls": [
+        "testv2/Preview/1.png"
+      ],
+      "readme_url": "testv2/README.md",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "maintainer": "11111",
+      "maintainer_url": "111111",
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "service_port": "1111",
+      "releases": {
+        "1.0.0": {
+          "changelog": "初始版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.1.1/Yarr-2.8.0-x86.fpk",
+              "sha256": "ddd0005905eae7a375662812369cb4cac400a7a70710a2b58e1bfb735df19759",
+              "size": 6643682
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.1.1/Yarr-2.8.0-arm.fpk",
+              "sha256": "fa8563aa974bdef1fdf45f006fcd4f4d76953d8b40048bacb6390ecddfeadefb",
+              "size": 6195322
+            }
+          }
+        }
+      }
+    },
     "Zdir": {
       "display_name": "Zdir",
       "desc": "📂一款集文件索引、在线预览与分享于一体的多功能私有存储程序，支持图床、音乐播放器，WebDAV、离线下载、第三方挂载等高级功能需订阅。",
