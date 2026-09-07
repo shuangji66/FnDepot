@@ -3453,6 +3453,21 @@
       "is_docker": false,
       "service_port": "9987",
       "releases": {
+        "6.0.0": {
+          "changelog": "初始版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.7/Teamspeaker6-6.0.0-x86.fpk",
+              "sha256": "10ad89071ec567392cf4b150e1b3de5080ee1abf3b1273f310a3061cc35cc06d",
+              "size": 28290434
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.7/Teamspeaker6-6.0.0-arm.fpk",
+              "sha256": "363646427784d2e40ec25d9d24bd963daed057a9d044156cc12e8e94e6a92f52",
+              "size": 28995874
+            }
+          }
+        }
       }
     },
     "Tomato": {
