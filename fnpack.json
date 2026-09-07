@@ -4015,5 +4015,17 @@
         }
       }
     }
+  },
+  "Hermes": {
+    "version": "0.7.18",
+    "changelog": "更新hermes-web-ui",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.7/Hermes-0.7.18-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.7/Hermes-0.7.18-arm.fpk"
+      }
+    }
   }
 }
