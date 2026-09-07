@@ -4028,5 +4028,17 @@
         }
       }
     }
+  },
+  "Harness": {
+    "version": "0.9.1",
+    "changelog": "更新dsh版本，增强控制台体验",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.7/Harness-0.9.1-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.7/Harness-0.9.1-arm.fpk"
+      }
+    }
   }
 }
