@@ -1065,7 +1065,10 @@
       ],
       "icon_url": "Harness/ICON.PNG",
       "preview_urls": [
-        "Harness/Preview/1.png"
+        "Harness/Preview/1.png",
+        "Harness/Preview/2.png",
+        "Harness/Preview/3.png",
+        "Harness/Preview/4.png",
       ],
       "readme_url": "Harness/README.md",
       "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
