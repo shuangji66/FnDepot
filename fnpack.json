@@ -1092,6 +1092,21 @@
               "size": 55594424
             }
           }
+        },
+        "0.9.1": {
+          "changelog": "更新dsh版本，增强控制台体验",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.7/Harness-0.9.1-x86.fpk",
+              "sha256": "551ee8c288effcae5f12a3345e5e2806c4d594cb7f4537e290b88865ba8b9a71",
+              "size": 57859362
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.7/Harness-0.9.1-arm.fpk",
+              "sha256": "4372eb65dd18a27c68ac0e9e24ed76828ac88767233e1d46778c989825405039",
+              "size": 57416186
+            }
+          }
         }
       }
     },
