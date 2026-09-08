@@ -1187,6 +1187,21 @@
               "size": 388444222
             }
           }
+        },
+        "0.7.18-1": {
+          "changelog": "修改构建方式；更新Hermes-Agent；建议在Agent管理中关闭Ekko和Hermes不需要的MCP服务降低内存占用",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.8/Hermes-0.7.18-1-x86.fpk",
+              "sha256": "db389ce42d932c783d78cf377b478d443d2ca0a5f4ef2dd9d7e4e1f1e4c16150",
+              "size": 389850582
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.8/Hermes-0.7.18-1-arm.fpk",
+              "sha256": "35862c68c0d16eccf7b2d194c03c14ba454caf0f5ddc657a1bb77e2e7112de9b",
+              "size": 389562811
+            }
+          }
         }
       }
     },
