@@ -2592,7 +2592,7 @@
       "maintainer_url": "https://nodejs.org/",
       "distributor": "shuangji66",
       "distributor_url": "https://github.com/shuangji66/FnDepot",
-      "run_as": "package",
+      "run_as": "root",
       "install_type": "",
       "is_docker": false,
       "releases": {
@@ -2622,6 +2622,44 @@
               "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.15/nodejs_v24-24.19.0-arm.fpk",
               "sha256": "4b2b77474bb7337ea6144466b5211db82b4aeda78ef82c23e27416ab90cb0fa5",
               "size": 30605721
+            }
+          }
+        }
+      }
+    },
+    "nodejs_v26": {
+      "display_name": "Node.js v26",
+      "desc": "🛠️Node.js® 是一个免费、开源、跨平台的 JavaScript 运行时环境，允许开发人员创建服务器、Web 应用程序、命令行工具和脚本。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具",
+        "编程开发"
+      ],
+      "icon_url": "nodejs_v26/ICON.PNG",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "maintainer": "nodejs",
+      "maintainer_url": "https://nodejs.org/",
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "run_as": "root",
+      "install_type": "",
+      "is_docker": false,
+      "releases": {
+        "26.8.1": {
+          "changelog": "初始版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.9.9/nodejs_v26-26.8.1-x86.fpk",
+              "sha256": "d5294e96b5e45f941ba14a2d585f7796ad59b6a65d482e85d3bb66f679619b42",
+              "size": 33758455
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.9.9/nodejs_v26-26.8.1-arm.fpk",
+              "sha256": "978f4c3fd5987cedaa7a44024015c8a52459fe8422da42f548264091ed0c6fa2",
+              "size": 32762664
             }
           }
         }
