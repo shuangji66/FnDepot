@@ -4109,8 +4109,6 @@
       "is_docker": false,
       "service_port": "20128",
       "releases": {
-          }
-        }
       }
     }
   }
