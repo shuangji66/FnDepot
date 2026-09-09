@@ -4109,6 +4109,21 @@
       "is_docker": false,
       "service_port": "20128",
       "releases": {
+        "0.5.69": {
+          "changelog": "初始版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.9/9router-0.5.69-x86.fpk",
+              "sha256": "66034690cc704bfe88df62a6b3c8cef4295a04d6ca13ba4ee2bd1998a120971a",
+              "size": 37389441
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.9/9router-0.5.69-arm.fpk",
+              "sha256": "01487e8308281f2c3866196ef4273ac60c4641050dff271bf2313180f4d4b22b",
+              "size": 37352291
+            }
+          }
+        }
       }
     }
   }
