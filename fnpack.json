@@ -3565,7 +3565,23 @@
       "run_as": "root",
       "install_type": "",
       "is_docker": false,
-      "releases": {}
+      "releases": {
+        "1.0.0": {
+          "changelog": "初始版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.10/Terminal-1.0.0-x86.fpk",
+              "sha256": "ee54c0e043c247a1b4223301310e01aefcce63071a793e83eb997c2a74836fd0",
+              "size": 2922859
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.10/Terminal-1.0.0-arm.fpk",
+              "sha256": "a304e3578d49b09d2e0b25873c96a238e3e7742460e40c45d649869eead9d7ab",
+              "size": 2671769
+            }
+          }
+        }
+      }
     },
     "Tomato": {
       "display_name": "番茄小说下载器",
