@@ -12,6 +12,9 @@
 以下根据 `fnpack.json` 列出所有已打包应用，方便快速查阅包名、显示名与功能简介：<br>
 🎉🎉🎉✅️2026.1.16-2026.8.1完成字母表集齐成就（历时198天）🎊🎊🎊<br>
 
+<details>
+<summary><b>A–F</b>（19 个应用，点击展开）</summary>
+
 | 包名 | 显示名 | 描述 |
 |------|--------|------|
 | Aria2 | Aria2 | 🚀Aria2c最新源码构建+AriaNG面板，支持HTTP/FTP、BT/磁力下载，内置BT-Tracker，支持DHT网络。AriaNg 是一个让 aria2 更容易使用的现代 Web 前端。 |
@@ -33,6 +36,14 @@
 | Filebrowser | Filebrowser | 📂文件浏览器可以方便地上传、删除、预览和编辑飞牛所有文件，支持飞牛统一网关访问并自动登录和端口访问切换。 |
 | Fluxor | 三体甜甜圈 | 😉不可描述之物。经过三体人改造的赛博甜甜圈。 |
 | fnpack-editor | fnpack编辑器 | 📄FnDepot 外部应用源（fnpack.json）V2 编辑器。支持拖拽排序应用、管理历史版本、校验必填与固定分类，并可调用飞牛文件管理授权目录读取/新建/保存 fnpack.json；对 GitHub release 下载链接可自动获取 sha256 与文件大小。 |
+
+</details>
+
+<details>
+<summary><b>G–L</b>（28 个应用，点击展开）</summary>
+
+| 包名 | 显示名 | 描述 |
+|------|--------|------|
 | Git | Git | 🔧Git是一个快速、可扩展的分布式版本控制系统，它具有异常丰富的命令集，既提供高级操作，也允许完全访问内部结构，可覆盖飞牛内置的老旧版本，支持lfs。 |
 | golang | Go | 🔧Golang开发环境。 |
 | Gotify | Gotify | ✉️一个用于发送和接收消息的简单服务器。 |
@@ -61,6 +72,14 @@
 | Liars-Bar | 骗子酒馆 | 🤡一款支持单人 AI 与局域网 2–4 人联机的吹牛卡牌游戏。每局指定 A、K 或 Q，只有 JOKER 是可充当任意指定牌的万能牌；质疑失败或谎言败露的人需要扣动左轮，最后存活者获胜。 |
 | LitePan | LitePan网盘聚合 | ☁️LitePan是一个专注影音功能的网盘聚合工具，主要功能包括：聚合挂载、STRM刮削、目录整理、缓存管理与自动联动等，让网盘资源更顺畅地进入你的媒体库。 |
 | LocalSend-Web | LocalSend-Web | 🗂️一款集成WebRTC和WebSockets的网页应用程序,可与其他LocalSend等节点共享文件。 |
+
+</details>
+
+<details>
+<summary><b>M–R</b>（29 个应用，点击展开）</summary>
+
+| 包名 | 显示名 | 描述 |
+|------|--------|------|
 | Mahjong | 万能麻将 | 🀄一个功能完整、支持中国境内所有麻将种类的网页版麻将游戏。 |
 | Majiang | 日本麻将 | 🀄单机版小日本麻将。 |
 | MBTI | MBTI人格测试 | 🤵🏻MBTI测试93题版，仅供学习，请勿当真。 |
@@ -90,6 +109,14 @@
 | Read | 轻阅读 | 📚轻阅读是一款开源的多平台阅读器，支持Android、iOS、HarmonyOS、Windows、MacOS和服务端，提供丰富的功能和灵活的部署选项。💡软件依赖Java25环境，优先调用java-25-openj9。 |
 | Reader | Reader | 📚Reader 是一款开源的网络小说阅读器，提供书源管理、书架同步、WebDAV备份等功能，支持多用户模式。本项目参考飞牛社区版reader和原作文档，简化启动过程，添加完整配置参数 |
 | Reader-Rust | Reader-Rust | 📚基于reader重构的 Rust 版书源阅读服务端，支持自定义书源、多格式解析。 |
+
+</details>
+
+<details>
+<summary><b>S–Z</b>（17 个应用，点击展开）</summary>
+
+| 包名 | 显示名 | 描述 |
+|------|--------|------|
 | SBTI | SBTI人格测试 | 🌿卧槽，没一个诗人。 |
 | Syncthing | Syncthing | 📂Syncthing 是一种持续性的文件同步程序。它能够实时地将文件同步到两台或更多的计算机上，同时完全保护数据不被他人窥探。 |
 | Teamspeaker | Teamspeaker | 👬Teamspeaker是全球流行的团队语音通讯工具软件，常用于游戏、会议团队语音沟通，并提供文字聊天、文件共享功能，所有数据加密传输。管理密钥等信息生成在应用文件/Teamspeaker/info.log，请妥善保存。 |
@@ -107,3 +134,5 @@
 | XiangQi | 中国象棋 | 🀄中国象棋网页游戏，支持单机双人对战、人机对战和局域网联机对战。 |
 | Yarr | Yarr阅读器 | 📰基于Web的RSS阅读器，可作桌面应用或自托管服务器使用。 |
 | Zdir | Zdir | 📂一款集文件索引、在线预览与分享于一体的多功能私有存储程序，支持图床、音乐播放器，WebDAV、离线下载、第三方挂载等高级功能需订阅。 |
+
+</details>
