@@ -72,6 +72,7 @@
 | NextExplorer | NextExplorer文件管理器 | 📁一种现代的自托管文件浏览器，支持终端。 |
 | Nginx | Nginx | 🌐Nginx是全球最受欢迎的Web服务器、高性能负载均衡器、反向代理、API网关和内容缓存。❤️本项目结合nginx和nginx-ui，为飞牛OS特化构建，支持流媒体、邮件等高级特性，可切换主线和稳定分支。 |
 | nodejs_v24 | Node.js v24 | 🛠️Node.js® 是一个免费、开源、跨平台的 JavaScript 运行时环境，允许开发人员创建服务器、Web 应用程序、命令行工具和脚本。 |
+| nodejs_v26 | Node.js v26 | 🛠️Node.js® 是一个免费、开源、跨平台的 JavaScript 运行时环境，允许开发人员创建服务器、Web 应用程序、命令行工具和脚本。 |
 | Ntfy | Ntfy | ✉️NTFY 允许你通过脚本从任何计算机向手机或桌面设备发送推送通知。 |
 | OMS | OpenResty管理器 | 🕊️内置OpenResty并提供的强大web的管理界面，具有服务器状态监控、安全防护、免费SSL证书、主机管理、应用商店、CDN集群等功能。 |
 | Openlist | Openlist | 📂一个支持多种存储的文件列表程序，同时支持飞牛统一网关与端口访问。 |
@@ -91,6 +92,8 @@
 | SBTI | SBTI人格测试 | 🌿卧槽，没一个诗人。 |
 | Syncthing | Syncthing | 📂Syncthing 是一种持续性的文件同步程序。它能够实时地将文件同步到两台或更多的计算机上，同时完全保护数据不被他人窥探。 |
 | Teamspeaker | Teamspeaker | 👬Teamspeaker是全球流行的团队语音通讯工具软件，常用于游戏、会议团队语音沟通，并提供文字聊天、文件共享功能，所有数据加密传输。管理密钥等信息生成在应用文件/Teamspeaker/info.log，请妥善保存。 |
+| Teamspeaker6 | Teamspeaker6 | 📞Teamspeaker是全球流行的团队语音通讯工具软件，常用于游戏、会议团队语音沟通，并提供文字聊天、文件共享功能，所有数据加密传输。 |
+| Terminal | Terminal | 💻纯粹的本地终端。支持用户切换、标签页显示、快捷指令。 |
 | Tomato | 番茄小说下载器 | 🍅番茄小说下载器不精简版本，支持在线更新。 |
 | Transmission | Transmission | 🧲Transmission是一款简单快速的BitTorrent客户端。内置TrguiNG第三方汉化webui，支持监听种子目录'应用文件/Transmission/Download/watch' |
 | Tvheadend | Tvheadend | 📺Tvheadend 是领先的 Linux 电视流媒体服务器和数字录像机，可录制流媒体保存至本地。 |
