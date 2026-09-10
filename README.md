@@ -1,9 +1,10 @@
 # FnDepot - 飞牛 OS 应用商店
 
-👧 孩子不会写代码，但是孩子会 shell，专注于原生 fpk 的打包，顺便翻新官方商店的老旧软件，做着玩的<br>
+👧 孩子不会写代码，但是孩子会 shell+AI，专注于原生 fpk 的打包，顺便翻新官方商店的老旧软件，做着玩的<br>
 ❤️ 大部分项目都是二进制 + webui，已支持 FnDepot 商店 x86、arm 双版本源<br>
 🐮 逐步将部分项目转向 action 构建，感兴趣的可以参考：https://github.com/shuangji66/buildbot<br>
-👬 点击链接加入群聊，反馈 bug【FnDepot】：https://qm.qq.com/q/urCWH0aRYm<br>
+👬 点击链接加入群聊【FnDepot唠嗑①群】：https://qm.qq.com/q/hDyucEoB0c<br>
+👬 点击链接加入群聊【FnDepot唠嗑②群】：https://qm.qq.com/q/nIcq5UDbNe<br>
 ⭐ FnDepot 作者源有效列表：https://github.com/710850609/FnDepot/blob/main/repo_list.txt<br>
 <a href="https://pan.baidu.com/s/10MSoAqqhxB8q-9nSlQm0jQ?pwd=nrec" target="_blank">☁️百度网盘分流</a><br>
 <a href="https://pan.quark.cn/s/faef9924fcfb" target="_blank">💡夸克网盘分流</a>🔑提取码：1YWh
