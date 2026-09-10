@@ -3541,6 +3541,32 @@
         }
       }
     },
+    "Terminal": {
+      "display_name": "Terminal",
+      "desc": "💻纯粹的本地终端。支持用户切换、标签页显示、快捷指令。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "Terminal/ICON.PNG",
+      "preview_urls": [
+        "Terminal/Preview/1.png",
+        "Terminal/Preview/2.png"
+      ],
+      "readme_url": "Terminal/README.md",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "maintainer": "shuangji66",
+      "maintainer_url": "https://github.com/shuangji66/FnDepot",
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "run_as": "root",
+      "install_type": "",
+      "is_docker": false,
+      "releases": {}
+    },
     "Tomato": {
       "display_name": "番茄小说下载器",
       "desc": "🍅番茄小说下载器不精简版本，支持在线更新。",
