@@ -2104,6 +2104,21 @@
               "size": 23602160
             }
           }
+        },
+        "0.5.5": {
+          "changelog": "更新上游版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.12/LitePan-0.5.5-x86.fpk",
+              "sha256": "e0863984ef3b51175710c519931edd7e113ade0bedb268f6700af1b0d817e27a",
+              "size": 24000755
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.12/LitePan-0.5.5-arm.fpk",
+              "sha256": "478c0e0be4346a721a4647993f1e1d1cb797fcde06e8b77169c3a13f940b8207",
+              "size": 23022307
+            }
+          }
         }
       }
     },
