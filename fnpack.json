@@ -1277,6 +1277,21 @@
               "size": 390093615
             }
           }
+        },
+        "0.7.21": {
+          "changelog": "Hermes-web-ui新增支持dsh管理；更新Hermes-Agent",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.12/Hermes-0.7.21-x86.fpk",
+              "sha256": "7f695e0c347222eea328735d7c5b7d4c021d4a2d3088be74a142065c16bcbae4",
+              "size": 393610885
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.12/Hermes-0.7.21-arm.fpk",
+              "sha256": "5c181057dcc6223e0466e94e9d27526dd8c4710806d044c4eed15585b4f9548a",
+              "size": 393289554
+            }
+          }
         }
       }
     },
