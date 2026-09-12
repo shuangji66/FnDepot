@@ -305,6 +305,21 @@
               "size": 152685076
             }
           }
+        },
+        "1.7.28": {
+          "changelog": "更新上游版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.12/Cloudimgs-1.7.28-x86.fpk",
+              "sha256": "a43d40b4196b7f065a79d4da2d6371129af950f866d26b9843ebd2a4b914cbb0",
+              "size": 369941213
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.12/Cloudimgs-1.7.28-arm.fpk",
+              "sha256": "9411309bb6ae948fc50e882b1eedc9901d5e0bc58315d7f745ee9b1c4ed2233c",
+              "size": 152667547
+            }
+          }
         }
       }
     },
