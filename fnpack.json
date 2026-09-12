@@ -4213,5 +4213,17 @@
         }
       }
     }
+  },
+  "Openlist-beta": {
+    "version": "2026.9.12",
+    "changelog": "更新测试版本",
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.12/Openlist-beta-2026.9.12-x86.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.12/Openlist-beta-2026.9.12-arm.fpk"
+      }
+    }
   }
 }
