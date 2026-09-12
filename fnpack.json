@@ -3715,6 +3715,21 @@
               "size": 2671769
             }
           }
+        },
+        "1.0.1": {
+          "changelog": "更新go库；修改深色模式色号；快捷指令支持调整顺序",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.12/Terminal-1.0.1-x86.fpk",
+              "sha256": "b89afcf115ab834c905b8f53447672c378cc906909598c819863717584085172",
+              "size": 3171981
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.12/Terminal-1.0.1-arm.fpk",
+              "sha256": "e08d6558653ec1dad603056d6c5157592cf75b221c175e28b5fa56dde405cf55",
+              "size": 2895413
+            }
+          }
         }
       }
     },
