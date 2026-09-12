@@ -532,6 +532,21 @@
               "size": 11619131
             }
           }
+        },
+        "2.7.0-beta": {
+          "changelog": "2.7.0前瞻",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.12/EasyTier-2.7.0-beta-x86.fpk",
+              "sha256": "0c31642c78d86d23562125352119542923aa48f7b3b45095e32584a433d5ccd3",
+              "size": 13612838
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.12/EasyTier-2.7.0-beta-arm.fpk",
+              "sha256": "b2043abe35f0982d650ae7d0ac59a5d414475acff6da670ea50f6097bca3a7ce",
+              "size": 11301762
+            }
+          }
         }
       }
     },
