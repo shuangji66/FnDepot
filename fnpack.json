@@ -939,6 +939,21 @@
               "size": 63715932
             }
           }
+        },
+        "1.27.1": {
+          "changelog": "更新上游版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.12/golang-1.27.1-x86.fpk",
+              "sha256": "b65389386b162ce373e40a35983dfdc3c526d05b80660e38847f70bc67a475cf",
+              "size": 69983341
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.12/golang-1.27.1-arm.fpk",
+              "sha256": "0d80de751bfb3113faa6a9c5265d73c7373b75ef637bea8834c89f924b5ff24a",
+              "size": 66450653
+            }
+          }
         }
       }
     },
