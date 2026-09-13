@@ -2592,6 +2592,21 @@
               "size": 23089795
             }
           }
+        },
+        "0.64.0": {
+          "changelog": "新版引入Jellyfin Music API",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.13/Navidrome-0.64.0-x86.fpk",
+              "sha256": "c3e7287192c8f0f7947a9e947fb740c2a8ba2f46e55899d5423f26cc61826486",
+              "size": 25338965
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.13/Navidrome-0.64.0-arm.fpk",
+              "sha256": "6258fe77665f0604faf38a2e2989450a686e513cc242bc10a5693009a096434b",
+              "size": 23816208
+            }
+          }
         }
       }
     },
