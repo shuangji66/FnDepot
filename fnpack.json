@@ -4117,6 +4117,35 @@
         }
       }
     },
+    "wb2api": {
+      "display_name": "wb2api",
+      "desc": "🤖WorkBuddy2API是一个自托管的OpenAI兼容反向代理网关，将腾讯 CodeBuddy账号包装为统一的/v1/chat/completions服务，不保证未来可用性与账户安全，介意勿用。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "AI赋能",
+        "系统工具"
+      ],
+      "icon_url": "wb2api/ICON.PNG",
+      "preview_urls": [
+        "wb2api/Preview/1.png",
+        "wb2api/Preview/2.png",
+        "wb2api/Preview/3.png"
+      ],
+      "readme_url": "wb2api",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "maintainer": "linguo2625469",
+      "maintainer_url": "https://github.com/linguo2625469/workbuddy2api-panel",
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "service_port": "7863",
+      "releases": {}
+    },
     "Wol": {
       "display_name": "网络唤醒",
       "desc": "🚀专为飞牛os打造的局域网唤醒工具。支持设备扫描、实时状态监测、多设备分组、远程关机。参考官方商店@Max Li的项目源码，基于vue3重制，支持飞牛统一网关访问。",
