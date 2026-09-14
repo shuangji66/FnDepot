@@ -4144,7 +4144,23 @@
       "install_type": "",
       "is_docker": false,
       "service_port": "7863",
-      "releases": {}
+      "releases": {
+        "1.6.3": {
+          "changelog": "初始版本",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.14/wb2api-1.6.3-x86.fpk",
+              "sha256": "1028e1a88ac55cef7eaaa55b5f8598a2af7b9c5ebebd1b68bf9db394214b59de",
+              "size": 11896449
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.14/wb2api-1.6.3-arm.fpk",
+              "sha256": "b86eb00dba0143db1884659c608153ea0345d564fa4a367cb902a53fb9073c3c",
+              "size": 10828465
+            }
+          }
+        }
+      }
     },
     "Wol": {
       "display_name": "网络唤醒",
