@@ -4189,6 +4189,22 @@
               "size": 10828465
             }
           }
+        },
+        "1.8.1": {
+          "changelog": "上游支持国际版账号，更新详情见官方日志",
+          "updated_at": "2026-09-15T07:18:28Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.15/wb2api-1.8.1-x86.fpk",
+              "sha256": "5be642d8ab5b89a88db3a3c095aa29877be165d14dd36adf009e6318d2eaecc0",
+              "size": 11973401
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.15/wb2api-1.8.1-arm.fpk",
+              "sha256": "1768c0f765e0c09b9a3c1b734056bb5ded8be831c3a55e74539e976c3a92cee2",
+              "size": 10896938
+            }
+          }
         }
       }
     },
