@@ -3775,6 +3775,21 @@
               "size": 2895943
             }
           }
+        },
+        "1.0.4": {
+          "changelog": "新增应用用户进入终端",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.15/Terminal-1.0.4-x86.fpk",
+              "sha256": "3ee9082101a157420be985c71c6e86a32ddee3eeca7ddfed3be27b8d41f9371d",
+              "size": 3299028
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.15/Terminal-1.0.4-arm.fpk",
+              "sha256": "a39f779045ccc13950ade725ddd88d5c236beeb2d3de46fb5321f8fa8a4d972e",
+              "size": 3008658
+            }
+          }
         }
       }
     },
