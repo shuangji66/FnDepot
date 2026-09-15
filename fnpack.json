@@ -4237,6 +4237,22 @@
               "size": 10924638
             }
           }
+        },
+        "1.9.1": {
+          "changelog": "上游修复积分条显示bug",
+          "updated_at": "2026-09-15T16:40:24Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.15/wb2api-1.9.1-x86.fpk",
+              "sha256": "ec944690ab307930664360c927be414f510a51c88bc7552f5585d90c9a852ba9",
+              "size": 12001921
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.15/wb2api-1.9.1-arm.fpk",
+              "sha256": "aa0bc3c69315924c70a4f1163ae89b69ce6f80659c532b03e57df47a7c8b00f4",
+              "size": 10925090
+            }
+          }
         }
       }
     },
