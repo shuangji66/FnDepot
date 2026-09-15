@@ -1170,6 +1170,22 @@
               "size": 57569278
             }
           }
+        },
+        "0.9.3": {
+          "changelog": "新增Firefox和苹果设备兼容性修复，修复会话历史无法加载的问题；改进自我更新和终端体验；新增实验性node26体验",
+          "updated_at": "2026-09-15T17:17:23Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.15/Harness-0.9.3-x86.fpk",
+              "sha256": "0ec6abefa663624d04db51d0aea087e1f2122feb3a4acb3d23bd4b7501355c00",
+              "size": 58249019
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.15/Harness-0.9.3-arm.fpk",
+              "sha256": "2c213edfc37b9d20dc366e74d9f1a5a10f3bea7778b338a1d1be2b0fe6b770d7",
+              "size": 57718853
+            }
+          }
         }
       }
     },
