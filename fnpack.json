@@ -3760,6 +3760,21 @@
               "size": 2895413
             }
           }
+        },
+        "1.0.2": {
+          "changelog": "改善终端闪烁",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.15/Terminal-1.0.2-x86.fpk",
+              "sha256": "c9dd5089360880171815134f2005839ae7b38fa300e308fe987133b82aa9b425",
+              "size": 3172531
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.15/Terminal-1.0.2-arm.fpk",
+              "sha256": "441a50da5f07b83f9c9e2be7b26c34885b1a4982ba52d2ebe4bedf73ae18a1f9",
+              "size": 2895943
+            }
+          }
         }
       }
     },
