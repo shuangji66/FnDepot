@@ -1186,6 +1186,22 @@
               "size": 57718853
             }
           }
+        },
+        "0.9.4": {
+          "changelog": "构建时注入修复无存储空间权限导致上传附件失败；新增Firefox和苹果设备兼容性修复，修复会话历史无法加载的问题；改进自我更新和终端体验；新增实验性node26体验",
+          "updated_at": "2026-09-15T19:12:10Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.15/Harness-0.9.4-x86.fpk",
+              "sha256": "934f7798538784751813a0aff5b3951e5b1b05dc1d69f5edf03d91032598cf36",
+              "size": 58261087
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.15/Harness-0.9.4-arm.fpk",
+              "sha256": "5f8814a7d4e0210033cba6f8b8d1963bd66cbf20c403ebfe427e69be9f1d7aab",
+              "size": 57763781
+            }
+          }
         }
       }
     },
