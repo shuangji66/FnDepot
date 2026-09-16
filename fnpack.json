@@ -1964,6 +1964,22 @@
               "size": 16685421
             }
           }
+        },
+        "1.5.0": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-09-16T07:39:33Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.16/Komari-1.5.0-x86.fpk",
+              "sha256": "5c7949d0bcd09b8bac3dac3a83e3d511a40369fae4110821494402d3a40f6a7e",
+              "size": 17210620
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.16/Komari-1.5.0-arm.fpk",
+              "sha256": "80e0d8f3cacc526f4b55dc6c606df5782fe9421f642dd87de921441866cb3bfd",
+              "size": 16095734
+            }
+          }
         }
       }
     },
