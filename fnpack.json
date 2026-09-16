@@ -3752,6 +3752,22 @@
               "size": 11216361
             }
           }
+        },
+        "2.1.5": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-09-16T08:17:49Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.16/Syncthing-2.1.5-x86.fpk",
+              "sha256": "ac2605e830c6ccf1ac04720f81a24835312c529a329c566fd37e37704de28213",
+              "size": 136515
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.16/Syncthing-2.1.5-arm.fpk",
+              "sha256": "2671bb77f30fff89d3f2fd60e5ea34b0d32b2c1a55b18ca65ff3c3ceacb10fa6",
+              "size": 136513
+            }
+          }
         }
       }
     },
