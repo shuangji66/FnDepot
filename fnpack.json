@@ -3950,6 +3950,22 @@
               "size": 3008658
             }
           }
+        },
+        "1.0.5": {
+          "changelog": "增强移动端显示兼容性",
+          "updated_at": "2026-09-16T16:55:47Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.16/Terminal-1.0.5-x86.fpk",
+              "sha256": "a7f4618ff0ce7cf371b5845a23084d3abc8400eb9e6e85eecf76e05db2fe3779",
+              "size": 3299139
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.16/Terminal-1.0.5-arm.fpk",
+              "sha256": "06c89ef1dcdc07a20d07c6eae300dfed1f242e06dd5afe84c3d51bedea9b715d",
+              "size": 3008649
+            }
+          }
         }
       }
     },
