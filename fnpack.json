@@ -2022,6 +2022,22 @@
               "size": 6548468
             }
           }
+        },
+        "1.5.10": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-09-16T07:39:49Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.16/Komari-Agent-1.5.10-x86.fpk",
+              "sha256": "4722dfbe0ca1ff712e0be73eaa274b44ebf9ffd9d411f63d2f7edf9a5c0b95aa",
+              "size": 7158544
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.16/Komari-Agent-1.5.10-arm.fpk",
+              "sha256": "73a2051460279a9cd65ce1ad19f9dba3622000382350269a1ace1b0847d6724b",
+              "size": 6677206
+            }
+          }
         }
       }
     },
