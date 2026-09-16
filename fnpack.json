@@ -4522,6 +4522,22 @@
               "size": 6195322
             }
           }
+        },
+        "2.9.0": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-09-16T07:55:07Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.16/Yarr-2.9.0-x86.fpk",
+              "sha256": "6dc2b96d4262f2cdd4a066aa9eb64e86ce6ed3c165e22bfffea44a642b2a507c",
+              "size": 6775384
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.16/Yarr-2.9.0-arm.fpk",
+              "sha256": "48b28660af0b9829036e6627e65da9202d1f481c8c8b00692551e4f1c48d01c8",
+              "size": 6303644
+            }
+          }
         }
       }
     },
