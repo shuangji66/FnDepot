@@ -4009,6 +4009,22 @@
               "size": 3008649
             }
           }
+        },
+        "1.0.6": {
+          "changelog": "修复ios端底栏和终端区域被键盘遮挡；增强移动端兼容性；修复http访问无法添加快捷指令；扩展快捷指令弹窗高度",
+          "updated_at": "2026-09-18T12:38:02Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.18/Terminal-1.0.6-x86.fpk",
+              "sha256": "49cd562f1f18b7eff7ac9c27bbc40fe9c21b58f6e37c683d0effd57390677791",
+              "size": 3300315
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.18/Terminal-1.0.6-arm.fpk",
+              "sha256": "2db22519d8eb2727903672ab3eb28ee4d56e37935bdc8698d69221241d9268ea",
+              "size": 3009930
+            }
+          }
         }
       }
     },
