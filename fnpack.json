@@ -4443,7 +4443,7 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "service_port": "8100",
+      "service_port": "28100",
       "releases": {
         "1.37.0": {
           "changelog": "更新最新构建版本",
