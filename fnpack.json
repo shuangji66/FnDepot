@@ -2953,7 +2953,24 @@
       "run_as": "root",
       "install_type": "",
       "is_docker": false,
-      "releases": {}
+      "releases": {
+        "22.23.2": {
+          "changelog": "初始版本",
+          "updated_at": "2026-09-18T16:29:20Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.18/nodejs_v22-22.23.2-x86.fpk",
+              "sha256": "e2ba9eb87dace11fa987ddd260790a90d11bbf869403d6c880fd43c662d6f089",
+              "size": 31111484
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.18/nodejs_v22-22.23.2-arm.fpk",
+              "sha256": "04e159ebca7c96a8038c03488e80d7f2c10a5fa95b989bae5cb76e4515dc79ce",
+              "size": 30298587
+            }
+          }
+        }
+      }
     },
     "nodejs_v24": {
       "display_name": "Node.js v24",
