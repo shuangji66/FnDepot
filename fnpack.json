@@ -1234,6 +1234,22 @@
               "size": 57763781
             }
           }
+        },
+        "0.9.5": {
+          "changelog": "适配新版dsh，移除失效的反代注入，修复http访问无法添加快捷指令",
+          "updated_at": "2026-09-18T03:39:46Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.18/Harness-0.9.5-x86.fpk",
+              "sha256": "891207a52371e181a4ed137ab820da72a61968b6cdf7d20d916925e216432c85",
+              "size": 117058000
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.18/Harness-0.9.5-arm.fpk",
+              "sha256": "832c4294b443510ffb26f47ac0c3e9301a950a67b37b980fa4041d9e3a5df0e5",
+              "size": 116533982
+            }
+          }
         }
       }
     },
