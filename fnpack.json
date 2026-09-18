@@ -2982,6 +2982,22 @@
               "size": 30605721
             }
           }
+        },
+        "24.21.0": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-09-18T15:34:03Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.18/nodejs_v24-24.21.0-x86.fpk",
+              "sha256": "a11b41f29ecc7e12c42ecd875c3fa89ac9c56cbe553d40826be476ab20bdfda8",
+              "size": 31943798
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.18/nodejs_v24-24.21.0-arm.fpk",
+              "sha256": "a645ebdaf36d1258daf854e4c0320f01b57a73839697567e4aade889a048346b",
+              "size": 30894613
+            }
+          }
         }
       }
     },
