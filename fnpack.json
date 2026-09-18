@@ -225,18 +225,7 @@
       "install_type": "",
       "is_docker": false,
       "service_port": "3318",
-      "releases": {
-        "1.0.1": {
-          "changelog": "修复停止函数故障",
-          "packages": {
-            "all": {
-              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.15/Bond-1.0.1-all.fpk",
-              "sha256": "ac7cb067aec3c2009e44628d79b954d047c668b30ca98dbb3cef52ec8a6a8598",
-              "size": 5172170
-            }
-          }
-        }
-      }
+      "releases": {}
     },
     "CloudDrive": {
       "display_name": "CloudDrive2",
