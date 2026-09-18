@@ -4459,6 +4459,22 @@
               "size": 53475359
             }
           }
+        },
+        "1.37.3": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-09-18T17:02:34Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.18/Vaultwarden-1.37.3-x86.fpk",
+              "sha256": "ade774be0f25a574cf14dc96996d04a16115b03aaf3a01ffba04c25ccf1f0445",
+              "size": 53875875
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.18/Vaultwarden-1.37.3-arm.fpk",
+              "sha256": "10161f6c16d57abf6177673f7251300ae069faa7ed3f793c70828bb275a61053",
+              "size": 53712078
+            }
+          }
         }
       }
     },
