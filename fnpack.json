@@ -2933,6 +2933,28 @@
         }
       }
     },
+    "nodejs_v22": {
+      "display_name": "Node.js v22",
+      "desc": "🛠️Node.js® 是一个免费、开源、跨平台的 JavaScript 运行时环境，允许开发人员创建服务器、Web 应用程序、命令行工具和脚本。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具",
+        "编程开发"
+      ],
+      "icon_url": "nodejs_v22/ICON.PNG",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "maintainer": "nodejs",
+      "maintainer_url": "https://nodejs.org/",
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "run_as": "root",
+      "install_type": "",
+      "is_docker": false,
+      "releases": {}
+    },
     "nodejs_v24": {
       "display_name": "Node.js v24",
       "desc": "🛠️Node.js® 是一个免费、开源、跨平台的 JavaScript 运行时环境，允许开发人员创建服务器、Web 应用程序、命令行工具和脚本。",
