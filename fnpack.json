@@ -89,6 +89,22 @@
               "size": 1609584
             }
           }
+        },
+        "0.20.0": {
+          "changelog": "更新版本和使用说明",
+          "updated_at": "2026-09-18T15:11:27Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.18/asdf-0.20.0-x86.fpk",
+              "sha256": "0137473b23840ea34cb262e80a17c9dde6d4ca22624e1f90c4e43c738d47dcc2",
+              "size": 1828655
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.18/asdf-0.20.0-arm.fpk",
+              "sha256": "42bb24df8c7dc3bef995560144ba483bd6d759e75c9a46f103338a096f13de5d",
+              "size": 1662450
+            }
+          }
         }
       }
     },
