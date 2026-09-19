@@ -3933,7 +3933,19 @@
       "install_type": "",
       "is_docker": false,
       "service_port": "21678",
-      "releases": {}
+      "releases": {
+        "2.39.9": {
+          "changelog": "初始版本",
+          "updated_at": "2026-09-19T07:16:37Z",
+          "packages": {
+            "all": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.19/Sub-Store-2.39.9-all.fpk",
+              "sha256": "bf7f597269d9bf86c2f07f2f23b1d7927face993b3bcbffc5e1e7ec687ce1605",
+              "size": 3443539
+            }
+          }
+        }
+      }
     },
     "Syncthing": {
       "display_name": "Syncthing",
