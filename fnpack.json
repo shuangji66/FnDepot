@@ -1271,6 +1271,22 @@
               "size": 116533982
             }
           }
+        },
+        "0.9.6": {
+          "changelog": "新增插件市场更新；强化生命周期管理；改进反代部署流程修复dsh未就绪时无法访问；移除node代理环境变量；优化快捷访问",
+          "updated_at": "2026-09-20T19:54:53Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.20/Harness-0.9.6-x86.fpk",
+              "sha256": "388d2435e92bed045b020d28c66bc527881d280f1a400f2b27fbd509e3b31f7d",
+              "size": 117157755
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.20/Harness-0.9.6-arm.fpk",
+              "sha256": "f2d53433ad24569ed878511de003a737fa1fdddcdd1f0bd55ccb872b688ec099",
+              "size": 116644288
+            }
+          }
         }
       }
     },
