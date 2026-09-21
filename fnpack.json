@@ -263,7 +263,24 @@
       "run_as": "root",
       "install_type": "",
       "is_docker": false,
-      "releases": {}
+      "releases": {
+        "1.4.2": {
+          "changelog": "初始版本",
+          "updated_at": "2026-09-21T05:45:00Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.21/bunjs-1.4.2-x86.fpk",
+              "sha256": "a4d539701e449e323910164025bfcac81b95a7b1e335dea1a5943c6d055eca47",
+              "size": 37484441
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.21/bunjs-1.4.2-arm.fpk",
+              "sha256": "157e59f3f8ee65833354de1369a762f1648f28e4f618ab709075444a30c79869",
+              "size": 38090237
+            }
+          }
+        }
+      }
     },
     "CloudDrive": {
       "display_name": "CloudDrive2",
