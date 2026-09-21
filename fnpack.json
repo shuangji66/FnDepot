@@ -243,6 +243,28 @@
       "service_port": "3318",
       "releases": {}
     },
+    "bunjs": {
+      "display_name": "Bun",
+      "desc": "🔧Bun 是一个快速、现代、跨平台的 JavaScript 运行时环境，允许开发人员创建服务器、Web 应用程序、命令行工具和脚本。链接至系统环境，可全局调用。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具",
+        "编程开发"
+      ],
+      "icon_url": "bunjs/ICON.PNG",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "maintainer": "oven-sh",
+      "maintainer_url": "https://bun.com/",
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "run_as": "root",
+      "install_type": "",
+      "is_docker": false,
+      "releases": {}
+    },
     "CloudDrive": {
       "display_name": "CloudDrive2",
       "desc": "☁️CloudDrive是一个强大的多云盘管理工具，为用户提供包含云盘本地挂载的一站式的多云盘解决方案。root运行，注意数据安全。",
