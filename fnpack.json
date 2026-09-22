@@ -2422,6 +2422,22 @@
               "size": 23022307
             }
           }
+        },
+        "0.5.5-1": {
+          "changelog": "更新源码",
+          "updated_at": "2026-09-22T15:24:29Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.22/LitePan-0.5.5-1-x86.fpk",
+              "sha256": "c73fcc948d873b38f7ebe9639a2db52254566e5fb860d3e52c0facab3487a18f",
+              "size": 17600560
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.22/LitePan-0.5.5-1-arm.fpk",
+              "sha256": "e45681e954e2c3a9a453496924f123b58eb6f1d52012458e38a33272c5ec19e7",
+              "size": 16570015
+            }
+          }
         }
       }
     },
