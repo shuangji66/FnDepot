@@ -1496,6 +1496,22 @@
               "size": 391619480
             }
           }
+        },
+        "0.7.24": {
+          "changelog": "更新Hermes-web-ui和Hermes-agent",
+          "updated_at": "2026-09-22T17:19:17Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.22/Hermes-0.7.24-x86.fpk",
+              "sha256": "e1c61cbfeeb1f77eb758f70a84f4d2e5ddb0ab293a0663610e8d69a2002e714e",
+              "size": 398609022
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.22/Hermes-0.7.24-arm.fpk",
+              "sha256": "cf62aa21ba33b538bfc62a59d80bfa584188978f2f95ae3a478195e9015b4112",
+              "size": 399546832
+            }
+          }
         }
       }
     },
