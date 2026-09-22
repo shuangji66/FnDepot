@@ -1326,6 +1326,22 @@
               "size": 116644288
             }
           }
+        },
+        "0.9.6-2": {
+          "changelog": "破坏性更新：0.1.7-alpha.1会造成大量插件失效，包括插件市场1.55.0版；前瞻尝鲜：0.1.7-alpha.1支持前端子路径访问，适配飞牛网关访问，保留端口访问；改进移动端使用体验；插件市场修复后更新0.9.7",
+          "updated_at": "2026-09-22T15:16:27Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.22/Harness-0.9.6-2-x86.fpk",
+              "sha256": "a69ddf4a488454f57e7aebd628e494581d1b9dd56e6fd77281103b01297b5745",
+              "size": 130831257
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.22/Harness-0.9.6-2-arm.fpk",
+              "sha256": "4f590b29a0a7ec107ceeec68aa2443393ed103b47c2f8745f1d7b3cbe52479ba",
+              "size": 133000237
+            }
+          }
         }
       }
     },
