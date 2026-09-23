@@ -3332,6 +3332,22 @@
               "size": 32929926
             }
           }
+        },
+        "26.10.0": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-09-23T18:55:33Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.23/nodejs_v26-26.10.0-x86.fpk",
+              "sha256": "0a51cc7c303fb555ae0ade212ce825191d4363beb247a67c5ce5efb6528fd27d",
+              "size": 33989453
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.23/nodejs_v26-26.10.0-arm.fpk",
+              "sha256": "b6b81be476ab0e178c6501ae0a39e676296806ed833e87d1252a40fae3d1cad8",
+              "size": 32990854
+            }
+          }
         }
       }
     },
