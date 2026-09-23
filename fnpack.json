@@ -1575,6 +1575,22 @@
               "size": 399546832
             }
           }
+        },
+        "0.7.24-1": {
+          "changelog": "修复自定义端口未生效；Hermes-web-ui已品牌升级Ekko Studio，按需搭配agent，与本项目同步更新",
+          "updated_at": "2026-09-23T18:16:55Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.23/Hermes-0.7.24-1-x86.fpk",
+              "sha256": "3648e156a8cdc40924b885b84fde0568ad0b07d5eefae3a5752bea7472c5cafd",
+              "size": 398682171
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.23/Hermes-0.7.24-1-arm.fpk",
+              "sha256": "62e21aba8e925d8db6f2d8b4b9ceef128d8e2ce85343ab1700f2e297fe705112",
+              "size": 399535957
+            }
+          }
         }
       }
     },
