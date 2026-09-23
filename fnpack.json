@@ -751,24 +751,7 @@
       "install_type": "",
       "is_docker": false,
       "service_port": "8758",
-      "releases": {
-        "0.7.24": {
-          "changelog": "初始版本",
-          "updated_at": "2026-09-23T18:19:29Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.23/Ekko-0.7.24-x86.fpk",
-              "sha256": "65a124d9aeca38900716f2daae0016b41b278912599462c6d2593c2fa58fac7a",
-              "size": 127924582
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.23/Ekko-0.7.24-arm.fpk",
-              "sha256": "cf3006659f021e913470d60f4ed684aa2cf6faf4a5f516632fe3829c6b9c1a70",
-              "size": 130467868
-            }
-          }
-        }
-      }
+      "releases": {}
     },
     "Embyserver": {
       "display_name": "Embyserver",
