@@ -1358,6 +1358,22 @@
               "size": 133025009
             }
           }
+        },
+        "0.9.8": {
+          "changelog": "更新0.1.7-rc.1；修复苹果移动端不能切换模型和推理等级",
+          "updated_at": "2026-09-23T14:10:58Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.23/Harness-0.9.8-x86.fpk",
+              "sha256": "1eff32763cc928b3de41e63538a08f3644343aecca92a9e539464a2b05ecbe80",
+              "size": 131021930
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.23/Harness-0.9.8-arm.fpk",
+              "sha256": "17a0d937abccab55b3dae82e4bf13513604924f44f0fca02923c980c6afd1c5c",
+              "size": 133110279
+            }
+          }
         }
       }
     },
