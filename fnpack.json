@@ -724,7 +724,7 @@
     },
     "Ekko": {
       "display_name": "Ekko Studio",
-      "desc": "👨🏻‍💻Hermes Studio的品牌升级，不内置Hermes-agent，可按需安装各家agent组成工作空间。Ekko Studio 是汇聚多种 AI 智能体的统一工作空间，覆盖桌面端、移动端与 Web 端。与不同智能体对话，让它们协作完成任务，搭建可视化工作流、管理模型和配置，并在不同设备间延续你的工作。",
+      "desc": "👨🏻‍💻Hermes Studio的品牌升级，不内置Hermes-agent，可按需安装各家agent组成工作空间，与Hermes Studio二选一安装即可。Ekko Studio 是汇聚多种 AI 智能体的统一工作空间，覆盖桌面端、移动端与 Web 端。与不同智能体对话，让它们协作完成任务，搭建可视化工作流、管理模型和配置，并在不同设备间延续你的工作。",
       "platform": [
         "x86",
         "arm"
@@ -1266,99 +1266,6 @@
       "is_docker": false,
       "service_port": "3079",
       "releases": {
-        "0.9.0": {
-          "changelog": "控制台添加内置更新，改进备份回滚，优化细节；更新dsh版本",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.9.3/Harness-0.9.0-x86.fpk",
-              "sha256": "c0c45896eb73a9e3432d49b8a44083f2625a4c9bced003e1a53270c724be85f1",
-              "size": 56001231
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.9.3/Harness-0.9.0-arm.fpk",
-              "sha256": "ec117956a5e8f68ce061a484acbc59ef061556208aa70ce7be7d43c7e3abdf04",
-              "size": 55594424
-            }
-          }
-        },
-        "0.9.1": {
-          "changelog": "更新dsh版本，增强控制台体验",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.7/Harness-0.9.1-x86.fpk",
-              "sha256": "551ee8c288effcae5f12a3345e5e2806c4d594cb7f4537e290b88865ba8b9a71",
-              "size": 57859362
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.7/Harness-0.9.1-arm.fpk",
-              "sha256": "4372eb65dd18a27c68ac0e9e24ed76828ac88767233e1d46778c989825405039",
-              "size": 57416186
-            }
-          }
-        },
-        "0.9.2": {
-          "changelog": "更新dsh版本，增强控制台体验",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.10/Harness-0.9.2-x86.fpk",
-              "sha256": "d8e4f9ec862426f1751f7b5abac89dfcd57dfd5726cf6daafb5775f7ee43841a",
-              "size": 58021930
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.10/Harness-0.9.2-arm.fpk",
-              "sha256": "dc19f97898a48fcc9000c838732e05002b980653d1a9ba44c741958e0e7f6ef9",
-              "size": 57569278
-            }
-          }
-        },
-        "0.9.3": {
-          "changelog": "新增Firefox和苹果设备兼容性修复，修复会话历史无法加载的问题；改进自我更新和终端体验；新增实验性node26体验",
-          "updated_at": "2026-09-15T17:17:23Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.15/Harness-0.9.3-x86.fpk",
-              "sha256": "0ec6abefa663624d04db51d0aea087e1f2122feb3a4acb3d23bd4b7501355c00",
-              "size": 58249019
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.15/Harness-0.9.3-arm.fpk",
-              "sha256": "2c213edfc37b9d20dc366e74d9f1a5a10f3bea7778b338a1d1be2b0fe6b770d7",
-              "size": 57718853
-            }
-          }
-        },
-        "0.9.4": {
-          "changelog": "构建时注入修复无存储空间权限导致上传附件失败；新增Firefox和苹果设备兼容性修复，修复会话历史无法加载的问题；改进自我更新和终端体验；新增实验性node26体验",
-          "updated_at": "2026-09-15T19:12:10Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.15/Harness-0.9.4-x86.fpk",
-              "sha256": "934f7798538784751813a0aff5b3951e5b1b05dc1d69f5edf03d91032598cf36",
-              "size": 58261087
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.15/Harness-0.9.4-arm.fpk",
-              "sha256": "5f8814a7d4e0210033cba6f8b8d1963bd66cbf20c403ebfe427e69be9f1d7aab",
-              "size": 57763781
-            }
-          }
-        },
-        "0.9.5": {
-          "changelog": "适配新版dsh，移除失效的反代注入，修复http访问无法添加快捷指令",
-          "updated_at": "2026-09-18T03:39:46Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.18/Harness-0.9.5-x86.fpk",
-              "sha256": "891207a52371e181a4ed137ab820da72a61968b6cdf7d20d916925e216432c85",
-              "size": 117058000
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.18/Harness-0.9.5-arm.fpk",
-              "sha256": "832c4294b443510ffb26f47ac0c3e9301a950a67b37b980fa4041d9e3a5df0e5",
-              "size": 116533982
-            }
-          }
-        },
         "0.9.6": {
           "changelog": "新增插件市场更新；强化生命周期管理；改进反代部署流程修复dsh未就绪时无法访问；移除node代理环境变量；优化快捷访问",
           "updated_at": "2026-09-20T19:54:53Z",
@@ -1427,7 +1334,7 @@
     },
     "Hermes": {
       "display_name": "Hermes Studio",
-      "desc": "🐴面向 Hermes Agent 的本地运行时和 Web 控制台。Agent 对话、可视化工作流、模型与 Profile 管理、网页浏览、Coding Agent 和本地运行环境都在一个界面中完成。",
+      "desc": "🐴内置最新Hermes Agent的Ekko Studio。Hermes Studio已品牌升级Ekko Studio，构建方法与Ekko Studio相同，内置node24可按需安装各家agent组成工作空间，与Ekko Studio二选一安装即可。汇聚多种 AI 智能体的统一工作空间，覆盖桌面端、移动端与 Web 端。与不同智能体对话，让它们协作完成任务，搭建可视化工作流、管理模型和配置，并在不同设备间延续你的工作。",
       "platform": [
         "x86",
         "arm"
@@ -1455,112 +1362,6 @@
       "is_docker": false,
       "service_port": "8648",
       "releases": {
-        "0.7.17": {
-          "changelog": "更新hermes-web-ui版本",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.4/Hermes-0.7.17-x86.fpk",
-              "sha256": "f629284153ec504ab0fc6ec0600e03cce2b10ed03c8e618387375c6f8f1fce7a",
-              "size": 388501180
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.4/Hermes-0.7.17-arm.fpk",
-              "sha256": "a967508eeb0b14a98d06a3fd10741c2475a91bab205273c71b1a602d5576f316",
-              "size": 388239328
-            }
-          }
-        },
-        "0.7.15": {
-          "changelog": "更新上游版本，改进构建方式",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.9.1/Hermes-0.7.15-x86.fpk",
-              "sha256": "0c396b135af0e217a228fc994a4af9c4755f3794c94ab28a92b56190a9372e69",
-              "size": 388400550
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.9.1/Hermes-0.7.15-arm.fpk",
-              "sha256": "fc4766f1e9663438ec6b80096828f8de460869cca4e410098a933b021891f869",
-              "size": 388045185
-            }
-          }
-        },
-        "0.7.18": {
-          "changelog": "更新hermes-web-ui",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.7/Hermes-0.7.18-x86.fpk",
-              "sha256": "506e3aba54b2a29463485ab49b1ee7964dd34057294451381beef4e04f316789",
-              "size": 388723092
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.7/Hermes-0.7.18-arm.fpk",
-              "sha256": "f21d557ed08cd907de3c8105a392be200e05a76f4d232d16f4e7d1dc72b08e5f",
-              "size": 388444222
-            }
-          }
-        },
-        "0.7.18-1": {
-          "changelog": "修改构建方式；更新Hermes-Agent；建议在Agent管理中关闭Ekko和Hermes不需要的MCP服务降低内存占用",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.8/Hermes-0.7.18-1-x86.fpk",
-              "sha256": "db389ce42d932c783d78cf377b478d443d2ca0a5f4ef2dd9d7e4e1f1e4c16150",
-              "size": 389850582
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.8/Hermes-0.7.18-1-arm.fpk",
-              "sha256": "35862c68c0d16eccf7b2d194c03c14ba454caf0f5ddc657a1bb77e2e7112de9b",
-              "size": 389562811
-            }
-          }
-        },
-        "0.7.19": {
-          "changelog": "更新Hermes-web-ui",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.11/Hermes-0.7.19-x86.fpk",
-              "sha256": "48ae9aa670cdfc5bb7157f0a4673e4dcecdfb9f3f41cba6bef7223849dfea6bb",
-              "size": 390403986
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.11/Hermes-0.7.19-arm.fpk",
-              "sha256": "a78adbbcd156d8c540dd2dbd84bf5d8f23e186224929ec55784f3e88507f9372",
-              "size": 390093615
-            }
-          }
-        },
-        "0.7.21": {
-          "changelog": "Hermes-web-ui新增支持dsh管理；更新Hermes-Agent",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.12/Hermes-0.7.21-x86.fpk",
-              "sha256": "7f695e0c347222eea328735d7c5b7d4c021d4a2d3088be74a142065c16bcbae4",
-              "size": 393610885
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.12/Hermes-0.7.21-arm.fpk",
-              "sha256": "5c181057dcc6223e0466e94e9d27526dd8c4710806d044c4eed15585b4f9548a",
-              "size": 393289554
-            }
-          }
-        },
-        "0.7.22": {
-          "changelog": "更新hermes-web-ui和hermes-agent",
-          "updated_at": "2026-09-16T03:24:41Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.16/Hermes-0.7.22-x86.fpk",
-              "sha256": "b445e09fae875c4a9061d83a5e61d597fef55e70ec26a4c4e9613d0153a42e7c",
-              "size": 399228124
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.16/Hermes-0.7.22-arm.fpk",
-              "sha256": "1f74430c2ba7fc6ebbc30feea104da0202497643e5ece868e2587678cc22434a",
-              "size": 400187890
-            }
-          }
-        },
         "0.7.23": {
           "changelog": "更新hermes-web-ui版本",
           "updated_at": "2026-09-19T03:56:39Z",
@@ -4900,117 +4701,6 @@
       "is_docker": false,
       "service_port": "7863",
       "releases": {
-        "1.6.3": {
-          "changelog": "初始版本",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.14/wb2api-1.6.3-x86.fpk",
-              "sha256": "1028e1a88ac55cef7eaaa55b5f8598a2af7b9c5ebebd1b68bf9db394214b59de",
-              "size": 11896449
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.14/wb2api-1.6.3-arm.fpk",
-              "sha256": "b86eb00dba0143db1884659c608153ea0345d564fa4a367cb902a53fb9073c3c",
-              "size": 10828465
-            }
-          }
-        },
-        "1.8.1": {
-          "changelog": "上游支持国际版账号，更新详情见官方日志",
-          "updated_at": "2026-09-15T07:18:28Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.15/wb2api-1.8.1-x86.fpk",
-              "sha256": "5be642d8ab5b89a88db3a3c095aa29877be165d14dd36adf009e6318d2eaecc0",
-              "size": 11973401
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.15/wb2api-1.8.1-arm.fpk",
-              "sha256": "1768c0f765e0c09b9a3c1b734056bb5ded8be831c3a55e74539e976c3a92cee2",
-              "size": 10896938
-            }
-          }
-        },
-        "1.9.0": {
-          "changelog": "上游改进视图效果",
-          "updated_at": "2026-09-15T16:29:13Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.15/wb2api-1.9.0-x86.fpk",
-              "sha256": "f087224a8c749aa4dea80e08fcb4bf2031bc52dbbaff1a619d058bd75c3b95d2",
-              "size": 12001885
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.15/wb2api-1.9.0-arm.fpk",
-              "sha256": "1261a332c230cf7a676f019a774b35fdc5347c66945fd1293b9cca4877a960d5",
-              "size": 10924638
-            }
-          }
-        },
-        "1.9.1": {
-          "changelog": "上游修复积分条显示bug",
-          "updated_at": "2026-09-15T16:40:24Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.15/wb2api-1.9.1-x86.fpk",
-              "sha256": "ec944690ab307930664360c927be414f510a51c88bc7552f5585d90c9a852ba9",
-              "size": 12001921
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.15/wb2api-1.9.1-arm.fpk",
-              "sha256": "aa0bc3c69315924c70a4f1163ae89b69ce6f80659c532b03e57df47a7c8b00f4",
-              "size": 10925090
-            }
-          }
-        },
-        "1.9.2": {
-          "changelog": "更新上游版本",
-          "updated_at": "2026-09-16T06:13:40Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.16/wb2api-1.9.2-x86.fpk",
-              "sha256": "35c9ca7cc3f5812df6e372735615ada8e54a7fa5493649962355265a587c1e63",
-              "size": 12013273
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.16/wb2api-1.9.2-arm.fpk",
-              "sha256": "245e63b3e8895bd41cc1bc4760f9096a1f8328ad390788c128a31b2192ce29b8",
-              "size": 10935485
-            }
-          }
-        },
-        "1.10.0": {
-          "changelog": "上游快速迭代中，常检查更新",
-          "updated_at": "2026-09-16T16:28:01Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.16/wb2api-1.10.0-x86.fpk",
-              "sha256": "1ec7eaa365a218c61d637fe998cb34d231c8a339e3db71085ec784c284778eaf",
-              "size": 12082279
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.16/wb2api-1.10.0-arm.fpk",
-              "sha256": "da82deafd46e0ee30e87c5e19b46d1a78cb164b504dd4a89c4e4922da67d6f7a",
-              "size": 10999728
-            }
-          }
-        },
-        "1.11.0": {
-          "changelog": "更新上游版本",
-          "updated_at": "2026-09-19T16:51:01Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.19/wb2api-1.11.0-x86.fpk",
-              "sha256": "c5f8116e09d0e29878eb4d43c683021fa5b4e0bcd0fd96236dbedc1b621cafcc",
-              "size": 12108584
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.19/wb2api-1.11.0-arm.fpk",
-              "sha256": "6259ebeab1df382ac4c6c9b19770118e48e041120fd0bf386585bbf2bcd787f7",
-              "size": 11022154
-            }
-          }
-        },
         "1.11.1": {
           "changelog": "上游修复任务执行bug",
           "updated_at": "2026-09-20T02:50:47Z",
