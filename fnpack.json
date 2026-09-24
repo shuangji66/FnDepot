@@ -4459,6 +4459,22 @@
               "size": 31935534
             }
           }
+        },
+        "26.9.24": {
+          "changelog": "改进构建方式；单数月1号自动构建发布",
+          "updated_at": "2026-09-24T07:02:17Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.24/Tvheadend-26.9.24-x86.fpk",
+              "sha256": "ebc777195273b1fcbf798d205932f1b0c24893094a8b1c9d60a5c866c1f68f5c",
+              "size": 33626674
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.24/Tvheadend-26.9.24-arm.fpk",
+              "sha256": "9978d6b215a699c443908506592e20c1945dcdb633f98de0d247e02e481cda6e",
+              "size": 32729136
+            }
+          }
         }
       }
     },
