@@ -47,6 +47,22 @@
               "size": 19315492
             }
           }
+        },
+        "1.0.2": {
+          "changelog": "改用aria2-next内核，更新配置文件",
+          "updated_at": "2026-09-24T09:46:57Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.24/Aria2-1.0.2-x86.fpk",
+              "sha256": "de9dcc0e486579ec132473b946710ef48b68e549216669bbcaa9b174fd985f05",
+              "size": 9214684
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.24/Aria2-1.0.2-arm.fpk",
+              "sha256": "2bd58e1afced064d22cf17af4fcf07840d26f1c45935be181cf815f482439308",
+              "size": 9592893
+            }
+          }
         }
       }
     },
