@@ -4300,6 +4300,22 @@
               "size": 3009930
             }
           }
+        },
+        "1.0.7": {
+          "changelog": "解决桌面输入法输入中文会重复；增加自定义模式应用列表缓存；飞牛iframe窗口改DOM渲染解决拖动闪烁",
+          "updated_at": "2026-09-24T07:22:02Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.24/Terminal-1.0.7-x86.fpk",
+              "sha256": "d97b99ab873b4c6bee0e661c6667b871d92ead5d55130d3319bf6c9cbf359aab",
+              "size": 3301499
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.24/Terminal-1.0.7-arm.fpk",
+              "sha256": "05e2ef85b90b870bb93de5376d9e0b52efbc645173d1f077ac8c5426edbdfac5",
+              "size": 3010908
+            }
+          }
         }
       }
     },
