@@ -1409,6 +1409,22 @@
               "size": 399535957
             }
           }
+        },
+        "0.7.24-2": {
+          "changelog": "修改构建方式，内置node24，可按需添加agent，与Ekko Studio二选一安装",
+          "updated_at": "2026-09-24T04:58:31Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.24/Hermes-0.7.24-2-x86.fpk",
+              "sha256": "6381ae9ce2c911663dc3c400cb02571ef66f35e4e00562aa828045b4b8cb4516",
+              "size": 430588898
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.24/Hermes-0.7.24-2-arm.fpk",
+              "sha256": "b89b3e5b068adff746f50844d9b4979545ce3a8dfcc290454712fa76f308da06",
+              "size": 430405466
+            }
+          }
         }
       }
     },
