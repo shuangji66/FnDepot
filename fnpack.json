@@ -4364,6 +4364,22 @@
               "size": 3010908
             }
           }
+        },
+        "1.1.0": {
+          "changelog": "会话可跨设备接管、界面与弹窗焕新、终端内置 Maple Mono 字体，并重做移动端辅助键条，另修复一批交互问题。",
+          "updated_at": "2026-09-25T20:37:07Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.25/Terminal-1.1.0-x86.fpk",
+              "sha256": "f59967c3683638891999062cff9413be575008103265d4073c4adfd9543b1971",
+              "size": 12633787
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.25/Terminal-1.1.0-arm.fpk",
+              "sha256": "f5ab06cec9a29387c7db8d1d0ad7213fe3dcc50a9e435603f7d5cf0051bcdc1a",
+              "size": 12344784
+            }
+          }
         }
       }
     },
