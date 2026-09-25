@@ -2874,6 +2874,22 @@
               "size": 23863547
             }
           }
+        },
+        "0.64.2": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-09-25T02:32:49Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.25/Navidrome-0.64.2-x86.fpk",
+              "sha256": "68e440f29398dd9eb83efa9520aea5c6116e748c25314b15e68e86b474f9f838",
+              "size": 25393444
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.25/Navidrome-0.64.2-arm.fpk",
+              "sha256": "852c68b184b63d4b83c4667093a59ef70f068b1219c471f305a064560ba9ae03",
+              "size": 23865642
+            }
+          }
         }
       }
     },
