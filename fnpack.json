@@ -986,6 +986,22 @@
               "size": 31962328
             }
           }
+        },
+        "2.6.0": {
+          "changelog": "前端升级全套技术栈，后端按功能域模块化重构、配置改为多文件原子持久化；新增订阅「自定义模式」、「自定义规则」与「流量隧道」、TProxy 与 TUN 的 IPv6 接管、TUN Mips 协议栈；改进前端细节，修复重启内核卡加载、质量排序丢失、保存旧快照覆盖规则、DNS 查询无大小限制、检查更新受冷却影响、配置页字体发虚等问题。",
+          "updated_at": "2026-09-25T09:12:48Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.25/Fluxor-2.6.0-x86.fpk",
+              "sha256": "acf0de921018e3f91e169b49cbfa749a2c857f46b9149d07a44b0aa1accfbdb8",
+              "size": 95580600
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.25/Fluxor-2.6.0-arm.fpk",
+              "sha256": "5e16ea2d971cddef044f30fe5bf5a1854490de097c10f862d4636e3ae617a61e",
+              "size": 38460493
+            }
+          }
         }
       }
     },
