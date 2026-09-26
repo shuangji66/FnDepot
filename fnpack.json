@@ -1361,6 +1361,22 @@
               "size": 133110279
             }
           }
+        },
+        "1.0.0": {
+          "changelog": "重做控制台界面并统一终端页布局与视觉表现；后端日志与更新链路整体重构，新增更新包完整性校验，并调整内存默认设置；另修复目录授权打开等已知问题；更新dsh-0.1.7-rc.2。",
+          "updated_at": "2026-09-26T18:16:37Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.26/Harness-1.0.0-x86.fpk",
+              "sha256": "987bf6c4830ea2758308434ca0fe5011671ebf438f5659bb501b50b1d241158b",
+              "size": 127897739
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.26/Harness-1.0.0-arm.fpk",
+              "sha256": "7e947c0a4e6083963d50eef56093ae6946de6f5868c341e66f8c13bdb8895b07",
+              "size": 130026656
+            }
+          }
         }
       }
     },
