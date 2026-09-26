@@ -4908,6 +4908,22 @@
               "size": 11064642
             }
           }
+        },
+        "1.11.7": {
+          "changelog": "更新上游版本，修改构建方式",
+          "updated_at": "2026-09-26T17:59:16Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.26/wb2api-1.11.7-x86.fpk",
+              "sha256": "9577985ac295d900f190866a914d48ce5febe4ed614473a5f32adaf5ee4d7da2",
+              "size": 3664681
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.26/wb2api-1.11.7-arm.fpk",
+              "sha256": "ab950fd4e08efcaa7e60dc6fb6d990c4fda534304b9d58fdce4410a7f7a47974",
+              "size": 3412287
+            }
+          }
         }
       }
     },
