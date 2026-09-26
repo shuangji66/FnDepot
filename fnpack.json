@@ -4396,6 +4396,22 @@
               "size": 12344784
             }
           }
+        },
+        "1.1.1": {
+          "changelog": "移除addon-image支持；快捷指令紧凑化设计",
+          "updated_at": "2026-09-26T07:50:53Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.26/Terminal-1.1.1-x86.fpk",
+              "sha256": "662bae6a5a0a2c08f22b5f7a27e948b355ca3b8d9ff36d25d59c3fef4104aa33",
+              "size": 12633774
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.26/Terminal-1.1.1-arm.fpk",
+              "sha256": "48caaf039ca036b05f2a70097f612cb5e2cde58658687668c361811f39815cd8",
+              "size": 12344640
+            }
+          }
         }
       }
     },
