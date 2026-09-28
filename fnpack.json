@@ -2680,7 +2680,24 @@
       "install_type": "",
       "is_docker": false,
       "service_port": "36528",
-      "releases": {}
+      "releases": {
+        "0.9.1": {
+          "changelog": "初始版本",
+          "updated_at": "2026-09-28T09:08:09Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.28/mi-paiai-0.9.1-x86.fpk",
+              "sha256": "3a13cc58b4424324957b628568246f6bb2a80362b4cc191ee6b84d34f7b56a23",
+              "size": 29391598
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.28/mi-paiai-0.9.1-arm.fpk",
+              "sha256": "0cfd7acf8b41f9cb819f45e5550bc4112f969a97057062be5b31514e299e55ce",
+              "size": 28459731
+            }
+          }
+        }
+      }
     },
     "MoveCar": {
       "display_name": "智能挪车系统",
