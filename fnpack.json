@@ -2655,6 +2655,33 @@
         }
       }
     },
+    "mi-paiai": {
+      "display_name": "小爱音箱控制台",
+      "desc": "🤖让小爱音箱接入你选择的大模型。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "AI赋能",
+        "系统工具"
+      ],
+      "icon_url": "mi-paiai/ICON.PNG",
+      "preview_urls": [
+        "mi-paiai/Preview/1.png"
+      ],
+      "readme_url": "mi-paiai/README.md",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "maintainer": "clawpai",
+      "maintainer_url": "https://github.com/clawpai/mi-paiai",
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "service_port": "36528",
+      "releases": {}
+    },
     "MoveCar": {
       "display_name": "智能挪车系统",
       "desc": "✉️一个基于Node.js + Redis构建的现代化、高颜值、重隐私的智能挪车通知系统。",
