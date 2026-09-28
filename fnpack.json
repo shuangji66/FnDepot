@@ -107,7 +107,24 @@
       "install_type": "",
       "is_docker": false,
       "service_port": "3065",
-      "releases": {}
+      "releases": {
+        "2.8.0": {
+          "changelog": "初始版本",
+          "updated_at": "2026-09-28T07:09:41Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.28/Agent2API-2.8.0-x86.fpk",
+              "sha256": "4aa133e83f2cccdf0764d92a894e4a88eede283785b08b793e926a1dc0e866c2",
+              "size": 5784718
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.28/Agent2API-2.8.0-arm.fpk",
+              "sha256": "0c1987e4bd8f7c59f26408b1be80120de41e62d299e9e9a866b42e0dcae095b9",
+              "size": 5568714
+            }
+          }
+        }
+      }
     },
     "asdf": {
       "display_name": "asdf工具管理器",
