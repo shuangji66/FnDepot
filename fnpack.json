@@ -1524,6 +1524,22 @@
               "size": 430405466
             }
           }
+        },
+        "0.7.25": {
+          "changelog": "使用LZMA2压缩减小安装体积；更新上游版本",
+          "updated_at": "2026-09-28T18:05:12Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.28/Hermes-0.7.25-x86.fpk",
+              "sha256": "f8475a5580fea905d416cb3e7d4f4be004aab442aa360d90c5770368d3f3e74d",
+              "size": 329100592
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.28/Hermes-0.7.25-arm.fpk",
+              "sha256": "fcafacb88ec93a90a5665c244c0a630e2e8103f896ed7e6acf6e2db4594daf88",
+              "size": 326707905
+            }
+          }
         }
       }
     },
