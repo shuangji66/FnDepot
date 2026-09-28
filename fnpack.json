@@ -1428,6 +1428,22 @@
               "size": 130026656
             }
           }
+        },
+        "1.0.1": {
+          "changelog": "使用LZMA2压缩减小安装体积；改进控制台前端细节，统一字体，更新图标；更新dsh-0.2.0-rc.1",
+          "updated_at": "2026-09-28T18:08:16Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.28/Harness-1.0.1-x86.fpk",
+              "sha256": "c871b6568f61cf0da071da8961f41704ef9688642cdbda43d5069792ef36925d",
+              "size": 81932918
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.28/Harness-1.0.1-arm.fpk",
+              "sha256": "c3c348da3bfedddfc1145f3d5ea3e239b6eebd8603639c52274dd77f3b2a3dff",
+              "size": 82344072
+            }
+          }
         }
       }
     },
