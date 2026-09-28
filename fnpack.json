@@ -63,6 +63,22 @@
               "size": 9592893
             }
           }
+        },
+        "2.8.3": {
+          "changelog": "更新内核",
+          "updated_at": "2026-09-28T05:48:16Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.28/Aria2-2.8.3-x86.fpk",
+              "sha256": "9c2b78c1b88da51aff98f7e6e540f349c3eff433fab3c9dc2ba9702c0752d03e",
+              "size": 9214399
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.28/Aria2-2.8.3-arm.fpk",
+              "sha256": "165550a60e33527acbdde5f209cdeae609ed12f6595cbbf750c5938c014f3912",
+              "size": 9593133
+            }
+          }
         }
       }
     },
