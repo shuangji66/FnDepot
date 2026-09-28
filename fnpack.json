@@ -9,7 +9,7 @@
   "apps": {
     "Aria2": {
       "display_name": "Aria2",
-      "desc": "🚀Aria2c最新源码构建+AriaNG面板，支持HTTP/FTP、BT/磁力下载，内置BT-Tracker，支持DHT网络。AriaNg 是一个让 aria2 更容易使用的现代 Web 前端。",
+      "desc": "🚀Aria2-next+AriaNG面板，支持HTTP/FTP、BT/磁力下载，内置BT-Tracker，支持DHT网络。AriaNg 是一个让 aria2 更容易使用的现代 Web 前端。",
       "platform": [
         "x86",
         "arm"
