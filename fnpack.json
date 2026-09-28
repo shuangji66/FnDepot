@@ -834,6 +834,22 @@
               "size": 161330031
             }
           }
+        },
+        "0.7.25": {
+          "changelog": "使用LZMA2压缩减小安装体积；更新上游版本",
+          "updated_at": "2026-09-28T18:13:10Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.28/Ekko-0.7.25-x86.fpk",
+              "sha256": "66abf3ca9c779b3d05f1afb612501108d80ec0645c3af00f06fc026c44842370",
+              "size": 110741210
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.28/Ekko-0.7.25-arm.fpk",
+              "sha256": "c282104b7f02a6e192b0f0422fa2a4a43e999fbf4aeb8b2299dd4c93379fe829",
+              "size": 112051872
+            }
+          }
         }
       }
     },
