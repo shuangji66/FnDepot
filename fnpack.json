@@ -3182,22 +3182,6 @@
               "size": 45106037
             }
           }
-        },
-        "4.0.0-beta.1": {
-          "changelog": "4.0.0预览；使用LZMA2压缩减小安装包体积",
-          "updated_at": "2026-09-30T18:53:03Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.30/NextExplorer-4.0.0-beta.1-x86.fpk",
-              "sha256": "2e5fa160f78766c74f422e4300aca9e7aacc66a69af8ca059f2cd50cdbacab4a",
-              "size": 22969535
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.30/NextExplorer-4.0.0-beta.1-arm.fpk",
-              "sha256": "1af7bf76f484a7e0e5624dc0fac2399424975ed23e3f15465ce125214abf3866",
-              "size": 22550247
-            }
-          }
         }
       }
     },
