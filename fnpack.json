@@ -1171,6 +1171,22 @@
               "size": 344362473
             }
           }
+        },
+        "2.56.0": {
+          "changelog": "更新上游版本；改进构建脚本，缩小安装包体积",
+          "updated_at": "2026-09-30T18:11:18Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.30/Git-2.56.0-x86.fpk",
+              "sha256": "cf62d9c45b5e42e0b01fca7997925e105e11f587871445312ac03d6eae1b4c62",
+              "size": 10497897
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.30/Git-2.56.0-arm.fpk",
+              "sha256": "51c9244b07ed94ba5da52a61a613189a61601713e32ff21f08681fabfa430b79",
+              "size": 9671341
+            }
+          }
         }
       }
     },
