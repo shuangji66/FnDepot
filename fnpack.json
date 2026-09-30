@@ -4068,6 +4068,22 @@
               "size": 49183650
             }
           }
+        },
+        "5.2.4": {
+          "changelog": "更新内核和面板",
+          "updated_at": "2026-09-30T18:24:25Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.30/qBittorrent-5.2.4-x86.fpk",
+              "sha256": "c94a6bfb043a818acc6178840e83be6af652de53000dc0b562443b197c5a6bf5",
+              "size": 76050720
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.30/qBittorrent-5.2.4-arm.fpk",
+              "sha256": "29f6bac72b9f9772e8e6dc14902b342d1e924ce3dcd6377f243c0fd71a5edb48",
+              "size": 75814142
+            }
+          }
         }
       }
     },
