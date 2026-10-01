@@ -31,7 +31,24 @@
       "install_type": "",
       "is_docker": false,
       "service_port": "6066",
-      "releases": {}
+      "releases": {
+        "1.0.0": {
+          "changelog": "初始版本",
+          "updated_at": "2026-10-01T12:40:01Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.1/AdGuard-1.0.0-x86.fpk",
+              "sha256": "b655bf25900f217c364469975100588a12debf78f65cea0a183b8156a0c7af59",
+              "size": 11930152
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.1/AdGuard-1.0.0-arm.fpk",
+              "sha256": "c31f6bd87ecc6ed2808d4629a3bbffc296aea57c23363524e2f1521b7edb3f8b",
+              "size": 10895174
+            }
+          }
+        }
+      }
     },
     "Aria2": {
       "display_name": "Aria2",
