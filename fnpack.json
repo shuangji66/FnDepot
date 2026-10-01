@@ -3198,6 +3198,22 @@
               "size": 34965351
             }
           }
+        },
+        "3.11.1": {
+          "changelog": "定制化源码，支持网关访问",
+          "updated_at": "2026-10-01T10:18:07Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.1/NextExplorer-3.11.1-x86.fpk",
+              "sha256": "94682226f7a605fee3e4ce72d0c9cdbea9328fc059113524904085bcf6790673",
+              "size": 35945594
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.1/NextExplorer-3.11.1-arm.fpk",
+              "sha256": "119c764e85a6353150a8c345e0b34a2c3a16a4c56e414018c9fdb5016827f83b",
+              "size": 34968434
+            }
+          }
         }
       }
     },
