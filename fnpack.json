@@ -7,6 +7,32 @@
     "description": "专注于原生 fpk 的打包，支持 x86、arm 双版本。"
   },
   "apps": {
+    "AdGuard": {
+      "display_name": "AdGuardHome",
+      "desc": "🛡️AdGuard Home 是一种基于网络的广告和跟踪器拦截解决方案。Beta版全新界面设计。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "AdGuard/ICON.PNG",
+      "preview_urls": [
+        "AdGuard/Preview/1.png"
+      ],
+      "readme_url": "AdGuard/README.md",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "maintainer": "AdguardTeam",
+      "maintainer_url": "https://github.com/AdguardTeam/AdGuardHome",
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "run_as": "root",
+      "install_type": "",
+      "is_docker": false,
+      "service_port": "6066",
+      "releases": {}
+    },
     "Aria2": {
       "display_name": "Aria2",
       "desc": "🚀Aria2-next+AriaNG面板，支持HTTP/FTP、BT/磁力下载，内置BT-Tracker，支持DHT网络。AriaNg 是一个让 aria2 更容易使用的现代 Web 前端。",
