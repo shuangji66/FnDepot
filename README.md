@@ -13,16 +13,20 @@
 🎉🎉🎉✅️2026.1.16-2026.8.1完成字母表集齐成就（历时198天）🎊🎊🎊<br>
 
 <details>
-<summary><b>A–F</b>（19 个应用，点击展开）</summary>
+<summary><b>A–F</b>（24 个应用，点击展开）</summary>
 
 | 包名 | 显示名 | 描述 |
 |------|--------|------|
-| Aria2 | Aria2 | 🚀Aria2c最新源码构建+AriaNG面板，支持HTTP/FTP、BT/磁力下载，内置BT-Tracker，支持DHT网络。AriaNg 是一个让 aria2 更容易使用的现代 Web 前端。 |
+| 9router | 9router | 💰免费的人工智能路由器及代币节省工具，通过 RTK 技术节省 20-40%的代币成本，同时还能实现自动回退功能，从而使用免费且便宜的 AI 模型。 |
+| AdGuard | AdGuardHome | 🛡️AdGuard Home 是一种基于网络的广告和跟踪器拦截解决方案。Beta版全新界面设计。 |
+| Agent2API | Agent2API | 🤖把多家 AI 桌面客户端的登录态包装成本地 OpenAI 兼容 API 网关。 |
+| Aria2 | Aria2 | 🚀Aria2-next+AriaNG面板，支持HTTP/FTP、BT/磁力下载，内置BT-Tracker，支持DHT网络。AriaNg 是一个让 aria2 更容易使用的现代 Web 前端。 |
 | asdf | asdf工具管理器 | 🔧asdf 是一个工具版本管理器，可方便管理Ruby、NodeJS、Java、PHP、.Net在内的几百种运行环境，不影响系统的运行环境。 |
-| BitComet | BitComet | ☄️BitComet(比特彗星)是一款免费的BT/HTTP/FTP下载软件！功能强大速度快，操作简单的BT下载软件，BT资源下载利器！ |
+| Bitcomet | Bitcomet | ☄️Bitcomet(比特彗星)是一款免费的BT/HTTP/FTP下载软件！功能强大速度快，操作简单的BT下载软件，BT资源下载利器！ |
 | BitMeteor | BitMeteor | ☄️BitMeteor是为BitComet设计的飞牛通用软件框架，运行后自动下载并安装BitComet。 |
 | Bond | 家庭游戏平台 | 🎮游戏也是一种情感纽带。 |
-| CloudDrive | CloudDrive2 | ☁️CloudDrive是一个强大的多云盘管理工具，为用户提供包含云盘本地挂载的一站式的多云盘解决方案。本项目root运行。 |
+| bunjs | Bun | 🔧Bun 是一个快速、现代、跨平台的 JavaScript 运行时环境，允许开发人员创建服务器、Web 应用程序、命令行工具和脚本。链接至系统环境，可全局调用。 |
+| CloudDrive | CloudDrive2 | ☁️CloudDrive是一个强大的多云盘管理工具，为用户提供包含云盘本地挂载的一站式的多云盘解决方案。root运行，注意数据安全。 |
 | Cloudimgs | 云图 | ☁️ 云端一隅，拾光深藏。一个简单、开放且强大的自托管图像托管解决方案。 |
 | cloudsaver | CloudSaver | ☁️一个基于 Vue 3 + Express 的网盘资源搜索与转存工具，支持响应式布局，移动端与PC完美适配，可通过 Docker 一键部署 |
 | CloudSaver | CloudSaver | ☁️一个基于 Vue 3 + Express 的网盘资源搜索与转存工具，支持响应式布局，移动端与PC完美适配，基于原docker重新打包。 |
@@ -30,6 +34,7 @@
 | easytier | EasyTier | 🌐EasyTier是一个简单、安全、去中心化的异地组网方案。支持自定义web控制台用户名。 |
 | EasyTier | EasyTier | 🌐一个简单、安全、去中心化的异地组网方案，支持自定义用户名、三模式启动，不定期构建最新主线版本。 |
 | Ech0 | Ech0 | 📱自托管个人微博客：你的时间线可以被分享、讨论，同时数据完全由你掌控。 |
+| Ekko | Ekko Studio | 👨🏻‍💻Hermes Studio的品牌升级，不内置Hermes-agent，可按需安装各家agent组成工作空间，与Hermes Studio二选一安装即可。Ekko Studio 是汇聚多种 AI 智能体的统一工作空间，覆盖桌面端、移动端与 Web 端。与不同智能体对话，让它们协作完成任务，搭建可视化工作流、管理模型和配置，并在不同设备间延续你的工作。 |
 | Embyserver | Embyserver | 🎞️Emby将您的个人视频、音乐、照片以及实时电视内容整合在一起。 |
 | FakeHTTP | FakeHTTP | 🔧FakeHTTP 可以将你的所有 TCP 连接伪装为 HTTP 等协议以规避深度包检测 (DPI)，是一个基于 nftables / iptables 与 Netfilter Queue (NFQUEUE) 的网络工具。 |
 | FakeSIP | FakeSIP | 🔧FakeSIP 可以将你的所有 UDP 流量伪装为 SIP 等协议以规避深度包检测 (DPI)，是一个基于 nftables / iptables 与 Netfilter Queue (NFQUEUE) 的网络工具。 |
@@ -49,11 +54,11 @@
 | Gotify | Gotify | ✉️一个用于发送和接收消息的简单服务器。 |
 | guandan | 掼蛋 | ♣️局域网掼蛋，带薪摸鱼。 |
 | Guandan | 掼蛋 | ♣️一个可直接运行的四人掼蛋单机与局域网 Web 游戏。 |
-| Harness | DeepSeek Harness | 🐋DeepSeek Harness懒人包，含控制面板，面板支持本地终端、授权飞牛目录，支持局域网http访问，内置插件市场。 |
-| Hermes | Hermes | 🐴面向 Hermes Agent 的本地运行时和 Web 控制台。Agent 对话、可视化工作流、模型与 Profile 管理、网页浏览、Coding Agent 和本地运行环境都在一个界面中完成。 |
-| Homebox | Homebox | 🚀对网络进行调试、检测、压测的工具集合。 |
+| Harness | DeepSeek Harness | 🐋DeepSeek Harness懒人包，控制台支持本地终端、插件管理、授权飞牛目录、自动修补node-pty环境，支持局域网http访问，内置插件市场。 |
+| Hermes | Hermes Studio | 🐴内置最新Hermes Agent的Ekko Studio。Hermes Studio已品牌升级Ekko Studio，构建方法与Ekko Studio相同，内置node24可按需安装各家agent组成工作空间，与Ekko Studio二选一安装即可。汇聚多种 AI 智能体的统一工作空间，覆盖桌面端、移动端与 Web 端。与不同智能体对话，让它们协作完成任务，搭建可视化工作流、管理模型和配置，并在不同设备间延续你的工作。 |
+| Homebox | Homebox测速 | 🚀对网络进行调试、检测、压测的工具集合。 |
 | HomePage | HomePage | 📈一个现代、完全静态、快速、安全、完全可定制的应用程序仪表板,集成了100多种服务,并翻译成多种语言。通过YAML文件或通过文件标签发现轻松配置。 |
-| igame | 金太阳小游戏平台 | ☀️你的盐我的醋，赞颂不止！🎮整活打包html小游戏50合一，部分游戏不太好用，但是有捕鱼达人，那还说啥，移动端可能显示操作不正常，当个乐子玩。 |
+| igame | 金太阳小游戏平台 | ☀️你的盐我的醋，赞颂不止！🎮整活打包html小游戏50合一，当个乐子玩。 |
 | iVentoy | iVentoy | 💿iVentoy是一个增强版的 PXE/HTTPBoot 服务器。使用iVentoy 你可以通过网络同时给多台机器启动、安装操作系统。Arm版仅试用。 |
 | java-11-openj9 | java-11-openj9 | ☕Java运行时环境（Java Runtime Environment）与OpenJ9 高性能 Java 虚拟机，不含Java开发环境，相比OpenJDK体积小、内存占用低，特别适用于nas环境。 |
 | java-11-openjdk | java-11-openjdk | ☕OpenJDK 11，包含开发环境和运行时，可全局调用。 |
@@ -62,7 +67,7 @@
 | java-21-openj9 | java-21-openj9 | ☕Java运行时环境（Java Runtime Environment）与OpenJ9 高性能 Java 虚拟机，不含Java开发环境，相比OpenJDK体积小、内存占用低，特别适用于nas环境。 |
 | java-21-openjdk | java-21-openjdk | ☕OpenJDK 21，包含开发环境和运行时，可全局调用。 |
 | java-25-openj9 | java-25-openj9 | ☕Java运行时环境（Java Runtime Environment）与OpenJ9 高性能 Java 虚拟机，不含Java开发环境，相比OpenJDK体积小、内存占用低，特别适用于nas环境。 |
-| java-25-openjdk | java-25-openjdk | ☕OpenJDK 25，包含开发环境和运行时，可全局调用。 |
+| java-25-openjdk | java-25-openjdk | ☕OpenJDK 25，包含Java开发环境和Java运行时环境（Java Runtime Environment），可全局调用 |
 | java-8-openj9 | java-8-openj9 | ☕Java运行时环境（Java Runtime Environment）与OpenJ9 高性能 Java 虚拟机，不含Java开发环境，相比OpenJDK体积小、内存占用低，特别适用于nas环境。 |
 | java-8-openjdk | java-8-openjdk | ☕OpenJDK 8，包含开发环境和运行时，可全局调用。 |
 | Komari | Komari | 📈Komari是一款轻量级的自托管服务器监控工具，旨在提供简单、高效的服务器性能监控解决方案。它支持通过Web界面查看服务器状态，并通过轻量级Agent收集数据。 |
@@ -76,25 +81,27 @@
 </details>
 
 <details>
-<summary><b>M–R</b>（29 个应用，点击展开）</summary>
+<summary><b>M–R</b>（31 个应用，点击展开）</summary>
 
 | 包名 | 显示名 | 描述 |
 |------|--------|------|
 | Mahjong | 万能麻将 | 🀄一个功能完整、支持中国境内所有麻将种类的网页版麻将游戏。 |
 | Majiang | 日本麻将 | 🀄单机版小日本麻将。 |
 | MBTI | MBTI人格测试 | 🤵🏻MBTI测试93题版，仅供学习，请勿当真。 |
+| mi-paiai | 小爱音箱控制台 | 🤖让小爱音箱接入你选择的大模型。 |
 | Minesweeper | 超级扫雷 | 💣再好的电脑扫雷也只有1帧。 |
 | MoveCar | 智能挪车系统 | ✉️一个基于Node.js + Redis构建的现代化、高颜值、重隐私的智能挪车通知系统。 |
 | MrRSS | MrRSS阅读器 | 📰MrRSS 是一款集 AI 摘要、自动翻译于一体的智能 RSS 阅读器，支持桌面客户端与 Web 服务器双模式，让您高效追更全球资讯。 |
 | MTranServer | MTranServer翻译服务器 | 🔠一个超低资源消耗速度超快的离线翻译模型服务器，无需显卡。单个请求平均响应时间 50 毫秒。支持全世界主要语言的翻译。 |
 | MySQL8 | MySQL8 | 📅MySQL是一个关系型数据库管理系统。 |
-| Navidrome | Navidrome音乐播放器 | 🎵Navidrome是一个基于Web的开源音乐收集服务器和流媒体。 它使您可以自由地从任何浏览器或移动设备收听音乐收藏，支持转码播放。支持飞牛统一网关访问并自动登录和端口访问切换。 |
-| NextExplorer | NextExplorer文件管理器 | 📁一种现代的自托管文件浏览器，支持终端。 |
+| Navidrome | Navidrome音乐播放器 | 🎵Navidrome是一个基于Web的开源音乐收集服务器和流媒体。它使您可以自由地从任何浏览器或移动设备收听音乐收藏，支持转码播放，支持飞牛统一网关访问并自动登录和端口访问切换。 |
+| NextExplorer | NextExplorer文件管理器 | 📁一种现代的自托管文件浏览器，支持终端。root运行，登录功能已禁用，注意使用安全。 |
 | Nginx | Nginx | 🌐Nginx是全球最受欢迎的Web服务器、高性能负载均衡器、反向代理、API网关和内容缓存。❤️本项目结合nginx和nginx-ui，为飞牛OS特化构建，支持流媒体、邮件等高级特性，可切换主线和稳定分支。 |
+| nodejs_v22 | Node.js v22 | 🛠️Node.js® 是一个免费、开源、跨平台的 JavaScript 运行时环境，允许开发人员创建服务器、Web 应用程序、命令行工具和脚本。 |
 | nodejs_v24 | Node.js v24 | 🛠️Node.js® 是一个免费、开源、跨平台的 JavaScript 运行时环境，允许开发人员创建服务器、Web 应用程序、命令行工具和脚本。 |
 | nodejs_v26 | Node.js v26 | 🛠️Node.js® 是一个免费、开源、跨平台的 JavaScript 运行时环境，允许开发人员创建服务器、Web 应用程序、命令行工具和脚本。 |
 | Ntfy | Ntfy | ✉️NTFY 允许你通过脚本从任何计算机向手机或桌面设备发送推送通知。 |
-| OMS | OpenResty管理器 | 🕊️内置OpenResty并提供的强大web的管理界面，具有服务器状态监控、安全防护、免费SSL证书、主机管理、应用商店、CDN集群等功能。 |
+| OMS | OpenResty管理器 | 🕊️内置OpenResty并提供的强大web的管理界面，具有服务器状态监控、安全防护、免费SSL证书、主机管理、应用商店、CDN集群等功能。❗️强制https访问，初次配置请使用浏览器打开，无视ssl错误风险打开，不要用飞牛app打开。 |
 | Openlist | Openlist | 📂一个支持多种存储的文件列表程序，同时支持飞牛统一网关与端口访问。 |
 | Openlist-beta | Openlist-Beta | 📂一个支持多种存储的文件列表程序，同时支持飞牛统一网关与端口访问。 |
 | PeerBanHelper | PeerBanHelper | 🛡️BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持qB/qBEE/Deluge/BiglyBT/BitComet。💡依赖Java25环境，优先调用java-25-openj9。 |
@@ -104,31 +111,34 @@
 | python312 | Python 3.12 | 🔧Python 编程语言，不含静态库文件。 |
 | python313 | Python 3.13 | 🔧Python 编程语言，不含静态库文件。 |
 | python314 | Python 3.14 | 🔧Python 编程语言，不含静态库文件。 |
-| qBittorrent | qBittorrent | 🧲qBittorrent标准版+内置vuetorrent面板，支持添加trackerlist订阅与自动更新，支持现代化webui启动。 |
+| qBittorrent | qBittorrent | 🧲qBittorrent标准版+内置vuetorrent面板，支持添加trackerlist订阅与自动更新，支持现代化webui启动，支持切换libtorrent版本。 |
 | qBittorrent-Enhanced | qBittorrent-Enhanced | 🧲qBittorrent增强版+内置vuetorrent面板，支持添加trackerlist订阅与自动更新，支持现代化webui启动。 |
 | Read | 轻阅读 | 📚轻阅读是一款开源的多平台阅读器，支持Android、iOS、HarmonyOS、Windows、MacOS和服务端，提供丰富的功能和灵活的部署选项。💡软件依赖Java25环境，优先调用java-25-openj9。 |
-| Reader | Reader | 📚Reader 是一款开源的网络小说阅读器，提供书源管理、书架同步、WebDAV备份等功能，支持多用户模式。本项目参考飞牛社区版reader和原作文档，简化启动过程，添加完整配置参数 |
-| Reader-Rust | Reader-Rust | 📚基于reader重构的 Rust 版书源阅读服务端，支持自定义书源、多格式解析。 |
+| Reader | Reader | 📚Reader3是一款开源的网络小说阅读器，提供书源管理、书架同步、WebDAV备份等功能，原作者已删库，现由社区接力维护。 |
+| Reader-Rust | Reader-Rust | 📚基于reader重构的Rust版书源阅读服务端，支持自定义书源、多格式解析。 |
 
 </details>
 
 <details>
-<summary><b>S–Z</b>（17 个应用，点击展开）</summary>
+<summary><b>S–Z</b>（20 个应用，点击展开）</summary>
 
 | 包名 | 显示名 | 描述 |
 |------|--------|------|
 | SBTI | SBTI人格测试 | 🌿卧槽，没一个诗人。 |
+| Siyuan | 思源笔记 | 📔思源笔记是一款隐私优先的个人知识管理系统，支持细粒度块级引用和 Markdown 所见即所得。 |
+| Sub-Store | Sub-Store | 🪜适用于QX、Loon、Surge、Stash、Egern和Shadowrocket的高级订阅管理器。 |
 | Syncthing | Syncthing | 📂Syncthing 是一种持续性的文件同步程序。它能够实时地将文件同步到两台或更多的计算机上，同时完全保护数据不被他人窥探。 |
-| Teamspeaker | Teamspeaker | 👬Teamspeaker是全球流行的团队语音通讯工具软件，常用于游戏、会议团队语音沟通，并提供文字聊天、文件共享功能，所有数据加密传输。管理密钥等信息生成在应用文件/Teamspeaker/info.log，请妥善保存。 |
+| Teamspeaker | Teamspeaker3 | 👬Teamspeaker是全球流行的团队语音通讯工具软件，常用于游戏、会议团队语音沟通，并提供文字聊天、文件共享功能，所有数据加密传输。管理密钥等信息生成在应用文件/Teamspeaker/info.log，请妥善保存。 |
 | Teamspeaker6 | Teamspeaker6 | 📞Teamspeaker是全球流行的团队语音通讯工具软件，常用于游戏、会议团队语音沟通，并提供文字聊天、文件共享功能，所有数据加密传输。 |
 | Terminal | Terminal | 💻纯粹的本地终端。支持用户切换、标签页显示、快捷指令。 |
 | Tomato | 番茄小说下载器 | 🍅番茄小说下载器不精简版本，支持在线更新。 |
 | Transmission | Transmission | 🧲Transmission是一款简单快速的BitTorrent客户端。内置TrguiNG第三方汉化webui，支持监听种子目录'应用文件/Transmission/Download/watch' |
 | Tvheadend | Tvheadend | 📺Tvheadend 是领先的 Linux 电视流媒体服务器和数字录像机，可录制流媒体保存至本地。 |
 | UnlockMusic | UnlockMusic | 🎶在浏览器中解锁加密的音乐文件（QQ音乐*、酷狗/酷我、网易云音乐、虾米），原作源码已全网暴毙，且用且珍惜 |
-| uptime-kuma | uptime-kuma | 📈uptime-kuma面板，监控网站/API/端口/docker是否在线，支持 Telegram/邮件告警、漂亮的响应时间图表。安装时间较长，耐心等待进度条。 |
+| uptime-kuma | uptime-kuma | 📈uptime-kuma面板，监控网站/API/端口/docker是否在线，支持 Telegram/邮件告警、漂亮的响应时间图表。 |
 | Vaultwarden | Vaultwarden密钥管理器 | 🔑Vaultwarden 是一个使用 Rust 编写的非官方 Bitwarden 服务器实现，它与官方 Bitwarden 客户端兼容，对于不希望使用官方的占用大量资源的自托管部署而言，它是理想的选择。 |
 | VerySync | 微力同步 | 📂简单易用的多平台文件同步软件，惊人的传输速度是不同于其他产品的最大优势，微力同步的智能P2P技术加速同步，会将文件分割成若干份仅KB的数据同步，而文件都会进行AES加密处理。 |
+| wb2api | wb2api | 🤖WorkBuddy2API是一个自托管的OpenAI兼容反向代理网关，将腾讯 CodeBuddy账号包装为统一的/v1/chat/completions服务，不保证未来可用性与账户安全，介意勿用。 |
 | Wol | 网络唤醒 | 🚀专为飞牛os打造的局域网唤醒工具。支持设备扫描、实时状态监测、多设备分组、远程关机。参考官方商店@Max Li的项目源码，基于vue3重制，支持飞牛统一网关访问。 |
 | Xboard | Xboard面板 | 🐱赛博甜甜圈附加组件。 |
 | XiangQi | 中国象棋 | 🀄中国象棋网页游戏，支持单机双人对战、人机对战和局域网联机对战。 |
