@@ -5600,6 +5600,22 @@
               "size": 38668803
             }
           }
+        },
+        "0.5.95": {
+          "changelog": "使用LZMA2压缩减小安装体积；更新上游版本",
+          "updated_at": "2026-10-01T04:36:41Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.1/9router-0.5.95-x86.fpk",
+              "sha256": "10d8cc4f0c308041662e8170e31b97c0cb2576bdd9cc6c5b1bd6b9d70e80a96a",
+              "size": 24877043
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.1/9router-0.5.95-arm.fpk",
+              "sha256": "da5341bb49aa12365bdb5de06c55947900ed9f7ee44ece2af1d2cb7d1e6a38db",
+              "size": 24775014
+            }
+          }
         }
       }
     }
