@@ -1695,6 +1695,22 @@
               "size": 326514556
             }
           }
+        },
+        "0.7.28": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-10-02T17:40:31Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.2/Hermes-0.7.28-x86.fpk",
+              "sha256": "26e6181f4f09925e2374aa4310056dd3dffb05dfa7029de2eb00ad2cfe3237e0",
+              "size": 329342687
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.2/Hermes-0.7.28-arm.fpk",
+              "sha256": "6fc7e32c0703bcba3870b742a79f5eab9ac8549d165b5b840da85de58533ea11",
+              "size": 326583853
+            }
+          }
         }
       }
     },
