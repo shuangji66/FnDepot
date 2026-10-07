@@ -3230,6 +3230,22 @@
               "size": 15752675
             }
           }
+        },
+        "1.3.39": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-10-07T15:32:53Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.7/MrRSS-1.3.39-x86.fpk",
+              "sha256": "0728f2d677e93cc7893b44665cff7bec900d955f0536328da551f51f3c0591d2",
+              "size": 16546296
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.7/MrRSS-1.3.39-arm.fpk",
+              "sha256": "0f0187be3c082a4fb648f42534935c78a31d8e8f772f8e18160302766bab39de",
+              "size": 15844578
+            }
+          }
         }
       }
     },
