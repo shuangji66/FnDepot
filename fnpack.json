@@ -1567,6 +1567,22 @@
               "size": 4099590
             }
           }
+        },
+        "1.1.1": {
+          "changelog": "破坏性更新：移除dsh主目录的修改和迁移功能，修改过主目录的用户在更新后需手动迁移（建议全新开始）；重新设计dsh服务和插件市场的安装更新逻辑，不再预装dsh服务，更新后需手动安装一次dsh服务和插件市场，更新fpk不会覆盖dsh服务；改进配置目录备份功能；改进控制台自我更新；审查代码",
+          "updated_at": "2026-10-08T19:14:32Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.8/Harness-1.1.1-x86.fpk",
+              "sha256": "f13cd9f5ac1bce84aadc1111dc4746e34532fd86a028c1161294693b20bd5f1b",
+              "size": 4460899
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.8/Harness-1.1.1-arm.fpk",
+              "sha256": "450571daf3ad8b0956a87e494e8a916d37117cb7988d0027296f87198cc05dfd",
+              "size": 4114746
+            }
+          }
         }
       }
     },
