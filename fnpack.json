@@ -1064,6 +1064,22 @@
               "size": 252630834
             }
           }
+        },
+        "4.10.1.0": {
+          "changelog": "更新上游版本，改进打包方式，缩小安装包体积",
+          "updated_at": "2026-10-09T17:05:55Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.9/Embyserver-4.10.1.0-x86.fpk",
+              "sha256": "aba6d302babfc7556157acf5269408d84b4a501a14c82699ffc0a6ed2300bf6c",
+              "size": 247315592
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.9/Embyserver-4.10.1.0-arm.fpk",
+              "sha256": "cc2ec0b94c724f2c2e8c3a840f4f05074d31d41dff9fa90a88a8fa8c199a6e3f",
+              "size": 97392365
+            }
+          }
         }
       }
     },
