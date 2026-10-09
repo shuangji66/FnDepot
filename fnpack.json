@@ -1854,6 +1854,22 @@
               "size": 22887718
             }
           }
+        },
+        "1.0.44": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-10-09T15:38:13Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.9/iVentoy-1.0.44-x86.fpk",
+              "sha256": "32c44079afed18e5d21c66448913df3d49b334d0c06526805b0a6c39ab37bd13",
+              "size": 24831926
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.9/iVentoy-1.0.44-arm.fpk",
+              "sha256": "7be22c63471109bc3c8c121c265db37709921c0ae487e4e0b8cb3a260eda7237",
+              "size": 24751488
+            }
+          }
         }
       }
     },
