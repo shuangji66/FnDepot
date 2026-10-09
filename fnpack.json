@@ -4057,6 +4057,22 @@
               "size": 381194693
             }
           }
+        },
+        "26.10.7": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-10-09T17:26:03Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.9/PhotoPrism-26.10.7-x86.fpk",
+              "sha256": "794d523ab93ca3fccac6732fb5d99783c67717588528287f46b93fc5077ac7ea",
+              "size": 420182283
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.9/PhotoPrism-26.10.7-arm.fpk",
+              "sha256": "ac8e2eb119b45e40a549e2bcb4623cc32a7589fd58bff83ddb1bd51098078da5",
+              "size": 395652902
+            }
+          }
         }
       }
     },
