@@ -4083,6 +4083,22 @@
               "size": 101691460
             }
           }
+        },
+        "1.43.4": {
+          "changelog": "更新上游版本，改进打包方式，缩小安装包体积",
+          "updated_at": "2026-10-09T16:11:27Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.9/Plex-1.43.4-x86.fpk",
+              "sha256": "75e3724ab3b6149b452bf69f9c9429c7a9998de939eadb4a8175b94242222b0c",
+              "size": 83310556
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.9/Plex-1.43.4-arm.fpk",
+              "sha256": "8c27259b70722b1dbc18156514307c3bbaa492f08b70404ebfb205412f100d72",
+              "size": 75379828
+            }
+          }
         }
       }
     },
