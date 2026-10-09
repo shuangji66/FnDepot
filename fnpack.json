@@ -4881,6 +4881,22 @@
               "size": 12344640
             }
           }
+        },
+        "1.1.2": {
+          "changelog": "修改登录逻辑，修复滚动条重叠，审查代码",
+          "updated_at": "2026-10-09T06:55:14Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.9/Terminal-1.1.2-x86.fpk",
+              "sha256": "a34831ad060e717db8aee021c2450e5e114de7f3557f3ba0584292c65c1d547f",
+              "size": 12650448
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.9/Terminal-1.1.2-arm.fpk",
+              "sha256": "a20bc89cc76b0b0fc1129e5c193be67eacf9fd7b116807bd9969afaa5c77ca70",
+              "size": 12358459
+            }
+          }
         }
       }
     },
