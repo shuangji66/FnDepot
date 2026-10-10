@@ -1148,6 +1148,22 @@
               "size": 97392365
             }
           }
+        },
+        "4.10.1.0-1": {
+          "changelog": "添加video用户组；添加代理设置；改进向导设置；x86可使用开心版",
+          "updated_at": "2026-10-10T13:12:03Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.10/Embyserver-4.10.1.0-1-x86.fpk",
+              "sha256": "c1abf8fe45f4f153c4ceb7dff15cb038644a47bb0e5ab484914130233b3b1395",
+              "size": 247316090
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.10/Embyserver-4.10.1.0-1-arm.fpk",
+              "sha256": "2301b8f834bf37fad39a9e4306c3d770312d6e2ead5bc46311bf18032c749003",
+              "size": 97392833
+            }
+          }
         }
       }
     },
