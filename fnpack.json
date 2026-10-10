@@ -894,6 +894,17 @@
               "size": 233730
             }
           }
+        },
+        "2.7.0": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-10-10T15:40:10Z",
+          "packages": {
+            "all": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.10/easytier-2.7.0-all.fpk",
+              "sha256": "887a8beaffc683087f3e78240297a5ad49b807628c00f5218ac06b45384d03a2",
+              "size": 233689
+            }
+          }
         }
       }
     },
