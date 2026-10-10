@@ -857,22 +857,6 @@
               "size": 11301762
             }
           }
-        },
-        "2.7.0-1": {
-          "changelog": "更新主线版本",
-          "updated_at": "2026-10-10T15:33:37Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.10/EasyTier-2.7.0-1-x86.fpk",
-              "sha256": "0fb429aef25752f90f10cf607274bf3d4dad337dc7492b7ca7ce3b9b91d2d883",
-              "size": 16990554
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.10/EasyTier-2.7.0-1-arm.fpk",
-              "sha256": "1ac0dabb36e96c6db75e2cc54c1783b391278f6701deb41f049b6e4157db2266",
-              "size": 13903254
-            }
-          }
         }
       }
     },
