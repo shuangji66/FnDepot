@@ -316,7 +316,24 @@
       "install_type": "",
       "is_docker": false,
       "service_port": "23800",
-      "releases": {}
+      "releases": {
+        "2.3.9": {
+          "changelog": "初始版本",
+          "updated_at": "2026-10-10T08:08:11Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.10/Bark-2.3.9-x86.fpk",
+              "sha256": "a5b5b7d7cdba93634daddfb5deca501d0ea23a45d098c83e5966203f05e6a2ab",
+              "size": 7375937
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.10/Bark-2.3.9-arm.fpk",
+              "sha256": "74d791af01ac160b1ee16a11d5defeb3026c840b4eba57eed414745d6da910d8",
+              "size": 6664319
+            }
+          }
+        }
+      }
     },
     "Bitcomet": {
       "display_name": "Bitcomet",
