@@ -986,70 +986,6 @@
       "is_docker": false,
       "service_port": "8758",
       "releases": {
-        "0.7.24": {
-          "changelog": "初始版本",
-          "updated_at": "2026-09-23T19:30:09Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.23/Ekko-0.7.24-x86.fpk",
-              "sha256": "668a616cd87501486f5747a08dab5693dbe55732471845460163a1d022b18afc",
-              "size": 159814114
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.23/Ekko-0.7.24-arm.fpk",
-              "sha256": "a33979d861ae541fb48a7d9a2dc38b3726c61cfcfd9acab26aa3dc1bcd3e6097",
-              "size": 161330031
-            }
-          }
-        },
-        "0.7.25": {
-          "changelog": "使用LZMA2压缩减小安装体积；更新上游版本",
-          "updated_at": "2026-09-28T18:13:10Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.28/Ekko-0.7.25-x86.fpk",
-              "sha256": "66abf3ca9c779b3d05f1afb612501108d80ec0645c3af00f06fc026c44842370",
-              "size": 110741210
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.28/Ekko-0.7.25-arm.fpk",
-              "sha256": "c282104b7f02a6e192b0f0422fa2a4a43e999fbf4aeb8b2299dd4c93379fe829",
-              "size": 112051872
-            }
-          }
-        },
-        "0.7.26": {
-          "changelog": "更新上游版本",
-          "updated_at": "2026-10-01T10:22:07Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.1/Ekko-0.7.26-x86.fpk",
-              "sha256": "687c856b958d3b17e01301104ceb8312b2348526cb0958cd4f464d111574054c",
-              "size": 110846431
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.1/Ekko-0.7.26-arm.fpk",
-              "sha256": "50c5b13e5816c9edde7cc274945317096b8262cd5d95471b9514c56f5f71216f",
-              "size": 112136735
-            }
-          }
-        },
-        "0.7.28": {
-          "changelog": "更新上游版本",
-          "updated_at": "2026-10-02T17:35:43Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.2/Ekko-0.7.28-x86.fpk",
-              "sha256": "b5b9b5f2b68b9ef8329fad705d6d7bb72ffa56e4648272d79069a2c09b8e53d1",
-              "size": 111004665
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.2/Ekko-0.7.28-arm.fpk",
-              "sha256": "268ee615cd0be341ef710f3dce0615bf74fd21bff3a49fffd87dce3dbe18cdb3",
-              "size": 112212682
-            }
-          }
-        },
         "0.7.30": {
           "changelog": "更新上游版本",
           "updated_at": "2026-10-05T09:16:28Z",
@@ -1115,6 +1051,34 @@
           }
         }
       }
+    },
+    "Emby-crack": {
+      "display_name": "Emby开心版",
+      "desc": "🎞️Emby将您的个人视频、音乐、照片以及实时电视内容整合在一起，内置开心补丁。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "影音娱乐"
+      ],
+      "icon_url": "Emby-crack/ICON.PNG",
+      "preview_urls": [
+        "Emby-crack/Preview/1.png",
+        "Emby-crack/Preview/2.png",
+        "Emby-crack/Preview/3.png"
+      ],
+      "readme_url": "Emby-crack/README.md",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "maintainer": "Emby",
+      "maintainer_url": "https://github.com/MediaBrowser/Emby.Releases",
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "service_port": "8096",
+      "releases": {}
     },
     "Embyserver": {
       "display_name": "Embyserver",
