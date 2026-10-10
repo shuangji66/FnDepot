@@ -4339,6 +4339,22 @@
               "size": 75379828
             }
           }
+        },
+        "1.43.4-1": {
+          "changelog": "添加video用户组，修复转码失效；添加代理设置",
+          "updated_at": "2026-10-10T14:21:02Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.10/Plex-1.43.4-1-x86.fpk",
+              "sha256": "8c51e48cf86f07b9a22da95abcda684efb3f7308f87fb03a3401e3c40f22fa90",
+              "size": 83310945
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.10/Plex-1.43.4-1-arm.fpk",
+              "sha256": "705c3e910d248b0705717b7d0c6f79018ba7a60f4c583443d456fddb0cb5fab0",
+              "size": 75380173
+            }
+          }
         }
       }
     },
