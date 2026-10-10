@@ -3991,6 +3991,22 @@
               "size": 73641918
             }
           }
+        },
+        "2026.10.10": {
+          "changelog": "更新测试版本",
+          "updated_at": "2026-10-10T05:22:11Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.10/Openlist-beta-2026.10.10-x86.fpk",
+              "sha256": "f0954c68371ffe70ba805139af0388bd62b8f82380eeddd17ae65c8038e62c89",
+              "size": 78469656
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.10/Openlist-beta-2026.10.10-arm.fpk",
+              "sha256": "bbfeaba6732733ac7aedc0322e4e1d67dcecb81ed24d517fed221539ead7aee5",
+              "size": 73884830
+            }
+          }
         }
       }
     },
