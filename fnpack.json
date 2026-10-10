@@ -2310,6 +2310,33 @@
         }
       }
     },
+    "Jellyfin": {
+      "display_name": "Jellyfin",
+      "desc": "🎬Jellyfin是一套完全自由的媒体服务器，用于整理与串流你的电影、剧集、音乐、照片与直播电视。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "影音娱乐"
+      ],
+      "icon_url": "Jellyfin/ICON.PNG",
+      "preview_urls": [
+        "Jellyfin/Preview/1.png",
+        "Jellyfin/Preview/2.png"
+      ],
+      "readme_url": "Jellyfin/README.md",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "maintainer": "jellyfin",
+      "maintainer_url": "https://jellyfin.org/",
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "service_port": "8096",
+      "releases": {}
+    },
     "Komari": {
       "display_name": "Komari",
       "desc": "📈Komari是一款轻量级的自托管服务器监控工具，旨在提供简单、高效的服务器性能监控解决方案。它支持通过Web界面查看服务器状态，并通过轻量级Agent收集数据。",
