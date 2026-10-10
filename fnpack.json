@@ -2335,7 +2335,24 @@
       "install_type": "",
       "is_docker": false,
       "service_port": "8096",
-      "releases": {}
+      "releases": {
+        "12.2.0": {
+          "changelog": "初始版本",
+          "updated_at": "2026-10-10T05:43:01Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.10/Jellyfin-12.2.0-x86.fpk",
+              "sha256": "fc3c5a92df068fedef988501774d85f076cd5e95e144fa1eda6af3dc3e6e9095",
+              "size": 149315831
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.10/Jellyfin-12.2.0-arm.fpk",
+              "sha256": "1f086bf216a2b237845b75aa97dccee427f3356fb6d60d6035faaf9efa8c89f6",
+              "size": 138518966
+            }
+          }
+        }
+      }
     },
     "Komari": {
       "display_name": "Komari",
