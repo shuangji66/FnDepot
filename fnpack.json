@@ -1487,6 +1487,22 @@
               "size": 66450653
             }
           }
+        },
+        "1.27.2": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-10-10T08:16:23Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.10/golang-1.27.2-x86.fpk",
+              "sha256": "1eeb1a1871b5c0cd92714dcba8c9adc659637c2f9e45d926bfc1ee92b2fd6b1c",
+              "size": 69990756
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.10/golang-1.27.2-arm.fpk",
+              "sha256": "cc1b1eb6f7752b52f0bec5a54aa654c6edefa2fca1bcb0192cb0ec1d3b85cf8e",
+              "size": 66513232
+            }
+          }
         }
       }
     },
