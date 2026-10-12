@@ -1446,6 +1446,35 @@
         }
       }
     },
+    "fpkstudio": {
+      "display_name": "Fpk Studio",
+      "desc": "🛠️飞牛fpk打包工作台。可视化浏览与编辑fpk项目目录、调用官方fnpack打包，支持多架构分别出包，适配移动端操作。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具",
+        "编程开发"
+      ],
+      "icon_url": "fpkstudio/ICON.PNG",
+      "preview_urls": [
+        "fpkstudio/Preview/1.png",
+        "fpkstudio/Preview/2.png",
+        "fpkstudio/Preview/3.png",
+        "fpkstudio/Preview/4.png"
+      ],
+      "readme_url": "fpkstudio/README.md",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "maintainer": "shuangji66",
+      "maintainer_url": "https://github.com/shuangji66/fpkstudio",
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "releases": {}
+    },
     "Git": {
       "display_name": "Git",
       "desc": "🔧Git是一个快速、可扩展的分布式版本控制系统，它具有异常丰富的命令集，既提供高级操作，也允许完全访问内部结构，可覆盖飞牛内置的老旧版本，支持lfs。",
