@@ -4045,6 +4045,22 @@
               "size": 31100317
             }
           }
+        },
+        "2.30.0": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-10-12T14:25:04Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.12/Ntfy-2.30.0-x86.fpk",
+              "sha256": "e868d2bb121c228b2b19433ea20ec6b1ebe490aa488b9cd8876de5b49b56df22",
+              "size": 32527964
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.12/Ntfy-2.30.0-arm.fpk",
+              "sha256": "ee49e75491ac92f1ac8d3f8920f10e920641f7f8545a2e15d74ff1a29b57638d",
+              "size": 31124901
+            }
+          }
         }
       }
     },
