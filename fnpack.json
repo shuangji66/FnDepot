@@ -1489,6 +1489,22 @@
               "size": 4214263
             }
           }
+        },
+        "0.9.2": {
+          "changelog": "全量改进前端界面，审查代码，修复已知问题",
+          "updated_at": "2026-10-12T22:29:42Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.12/fpkstudio-0.9.2-x86.fpk",
+              "sha256": "42bcd95b144fd9aa9b50809c9c6225bffe3a6704295c727558a27c6110928ba4",
+              "size": 4565905
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.12/fpkstudio-0.9.2-arm.fpk",
+              "sha256": "2ca1f6051a7e70ae6ffd3495128f995b443a4f70547a96b8c201bb32b603fcbd",
+              "size": 4230856
+            }
+          }
         }
       }
     },
