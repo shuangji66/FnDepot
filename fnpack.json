@@ -1473,7 +1473,24 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "releases": {}
+      "releases": {
+        "0.9.1": {
+          "changelog": "初始版本",
+          "updated_at": "2026-10-12T09:00:38Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.12/fpkstudio-0.9.1-x86.fpk",
+              "sha256": "27bc3ae7da8b9c87a94f669836ce315b336bd1408b41c2b1b1ed5c4a79977f67",
+              "size": 4551082
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.12/fpkstudio-0.9.1-arm.fpk",
+              "sha256": "7a6ee0de6ef56a0b62af3acf92b18e3a74d02d1c433e5f39260488da480a9124",
+              "size": 4214263
+            }
+          }
+        }
+      }
     },
     "Git": {
       "display_name": "Git",
