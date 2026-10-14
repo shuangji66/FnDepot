@@ -5735,7 +5735,24 @@
       "install_type": "",
       "is_docker": false,
       "service_port": "",
-      "releases": {}
+      "releases": {
+        "1.141.2": {
+          "changelog": "初始版本",
+          "updated_at": "2026-10-14T17:57:08Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.14/VScode-1.141.2-x86.fpk",
+              "sha256": "5d1ce6454a53a8c47cb8bc42a91fbb16d987233b6c1897330d18b4b8dc8d494e",
+              "size": 134078660
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.14/VScode-1.141.2-arm.fpk",
+              "sha256": "2b93a2a97ae8c1e6ae31a9e6f16cf77da8fa0a08cabe72618f1361baf5f5d2ee",
+              "size": 125124116
+            }
+          }
+        }
+      }
     },
     "wb2api": {
       "display_name": "wb2api",
