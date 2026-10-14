@@ -786,7 +786,24 @@
       "install_type": "",
       "is_docker": false,
       "service_port": "",
-      "releases": {}
+      "releases": {
+        "4.141.0": {
+          "changelog": "初始版本",
+          "updated_at": "2026-10-14T18:46:51Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.14/code-server-4.141.0-x86.fpk",
+              "sha256": "d4058a94d09d7dc312a4050905a8fd35fd178bf1e6cafa9779305ae732e5467b",
+              "size": 141376225
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.14/code-server-4.141.0-arm.fpk",
+              "sha256": "8a82e37d15a89879269647d716699115e736020d0901df8d53910f8bf07f50ee",
+              "size": 141674997
+            }
+          }
+        }
+      }
     },
     "DDNS-GO": {
       "display_name": "DDNS-GO",
