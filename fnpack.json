@@ -3868,6 +3868,22 @@
               "size": 48433233
             }
           }
+        },
+        "1.3.7": {
+          "changelog": "更新nginx和nginx-ui",
+          "updated_at": "2026-10-14T18:45:54Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.14/Nginx-1.3.7-x86.fpk",
+              "sha256": "02eff78b4eb7da2c0c169b7c87471a20955ce7ec2ea751fe4ee04d7f172cf7ab",
+              "size": 52670780
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.14/Nginx-1.3.7-arm.fpk",
+              "sha256": "452bad7f0f2b5dda7ca20f7a23ba3db78e4148909533e770ec1d9b0a9848d3bc",
+              "size": 49272792
+            }
+          }
         }
       }
     },
