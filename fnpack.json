@@ -5798,7 +5798,24 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "releases": {}
+      "releases": {
+        "0.9.0": {
+          "changelog": "初始版本",
+          "updated_at": "2026-10-14T09:55:43Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.14/WebSSH-0.9.0-x86.fpk",
+              "sha256": "d944eca2f883d2bcd58d826db835db6e847b61146b81608c2bebe9b4c9cec307",
+              "size": 13631525
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.14/WebSSH-0.9.0-arm.fpk",
+              "sha256": "d7ea93cd34592ede6f7d7049a87155735c36e4e59594627cca73c72c65fa329a",
+              "size": 13287934
+            }
+          }
+        }
+      }
     },
     "Wol": {
       "display_name": "网络唤醒",
