@@ -5258,130 +5258,6 @@
       "install_type": "",
       "is_docker": false,
       "releases": {
-        "1.0.0": {
-          "changelog": "初始版本",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.10/Terminal-1.0.0-x86.fpk",
-              "sha256": "ee54c0e043c247a1b4223301310e01aefcce63071a793e83eb997c2a74836fd0",
-              "size": 2922859
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.10/Terminal-1.0.0-arm.fpk",
-              "sha256": "a304e3578d49b09d2e0b25873c96a238e3e7742460e40c45d649869eead9d7ab",
-              "size": 2671769
-            }
-          }
-        },
-        "1.0.1": {
-          "changelog": "更新go库；修改深色模式色号；快捷指令支持调整顺序",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.12/Terminal-1.0.1-x86.fpk",
-              "sha256": "b89afcf115ab834c905b8f53447672c378cc906909598c819863717584085172",
-              "size": 3171981
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.12/Terminal-1.0.1-arm.fpk",
-              "sha256": "e08d6558653ec1dad603056d6c5157592cf75b221c175e28b5fa56dde405cf55",
-              "size": 2895413
-            }
-          }
-        },
-        "1.0.2": {
-          "changelog": "改善终端闪烁",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.15/Terminal-1.0.2-x86.fpk",
-              "sha256": "c9dd5089360880171815134f2005839ae7b38fa300e308fe987133b82aa9b425",
-              "size": 3172531
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.15/Terminal-1.0.2-arm.fpk",
-              "sha256": "441a50da5f07b83f9c9e2be7b26c34885b1a4982ba52d2ebe4bedf73ae18a1f9",
-              "size": 2895943
-            }
-          }
-        },
-        "1.0.4": {
-          "changelog": "新增应用用户进入终端",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.15/Terminal-1.0.4-x86.fpk",
-              "sha256": "3ee9082101a157420be985c71c6e86a32ddee3eeca7ddfed3be27b8d41f9371d",
-              "size": 3299028
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.15/Terminal-1.0.4-arm.fpk",
-              "sha256": "a39f779045ccc13950ade725ddd88d5c236beeb2d3de46fb5321f8fa8a4d972e",
-              "size": 3008658
-            }
-          }
-        },
-        "1.0.5": {
-          "changelog": "增强移动端显示兼容性",
-          "updated_at": "2026-09-16T16:55:47Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.16/Terminal-1.0.5-x86.fpk",
-              "sha256": "a7f4618ff0ce7cf371b5845a23084d3abc8400eb9e6e85eecf76e05db2fe3779",
-              "size": 3299139
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.16/Terminal-1.0.5-arm.fpk",
-              "sha256": "06c89ef1dcdc07a20d07c6eae300dfed1f242e06dd5afe84c3d51bedea9b715d",
-              "size": 3008649
-            }
-          }
-        },
-        "1.0.6": {
-          "changelog": "修复ios端底栏和终端区域被键盘遮挡；增强移动端兼容性；修复http访问无法添加快捷指令；扩展快捷指令弹窗高度",
-          "updated_at": "2026-09-18T12:38:02Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.18/Terminal-1.0.6-x86.fpk",
-              "sha256": "49cd562f1f18b7eff7ac9c27bbc40fe9c21b58f6e37c683d0effd57390677791",
-              "size": 3300315
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.18/Terminal-1.0.6-arm.fpk",
-              "sha256": "2db22519d8eb2727903672ab3eb28ee4d56e37935bdc8698d69221241d9268ea",
-              "size": 3009930
-            }
-          }
-        },
-        "1.0.7": {
-          "changelog": "解决桌面输入法输入中文会重复；增加自定义模式应用列表缓存；飞牛iframe窗口改DOM渲染解决拖动闪烁",
-          "updated_at": "2026-09-24T07:22:02Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.24/Terminal-1.0.7-x86.fpk",
-              "sha256": "d97b99ab873b4c6bee0e661c6667b871d92ead5d55130d3319bf6c9cbf359aab",
-              "size": 3301499
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.24/Terminal-1.0.7-arm.fpk",
-              "sha256": "05e2ef85b90b870bb93de5376d9e0b52efbc645173d1f077ac8c5426edbdfac5",
-              "size": 3010908
-            }
-          }
-        },
-        "1.1.0": {
-          "changelog": "会话可跨设备接管、界面与弹窗焕新、终端内置 Maple Mono 字体，并重做移动端辅助键条，另修复一批交互问题。",
-          "updated_at": "2026-09-25T20:37:07Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.25/Terminal-1.1.0-x86.fpk",
-              "sha256": "f59967c3683638891999062cff9413be575008103265d4073c4adfd9543b1971",
-              "size": 12633787
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.25/Terminal-1.1.0-arm.fpk",
-              "sha256": "f5ab06cec9a29387c7db8d1d0ad7213fe3dcc50a9e435603f7d5cf0051bcdc1a",
-              "size": 12344784
-            }
-          }
-        },
         "1.1.1": {
           "changelog": "移除addon-image支持；快捷指令紧凑化设计",
           "updated_at": "2026-09-26T07:50:53Z",
@@ -5862,38 +5738,6 @@
       "is_docker": false,
       "service_port": "7863",
       "releases": {
-        "1.11.10": {
-          "changelog": "更新上游版本",
-          "updated_at": "2026-09-30T11:31:14Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.30/wb2api-1.11.10-x86.fpk",
-              "sha256": "7a64b8eabaa3d625dda6425d15507ecebec4d856709a3b2805809346937108b2",
-              "size": 3730867
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.30/wb2api-1.11.10-arm.fpk",
-              "sha256": "8dcd302dc996d756ab665fffc6e4440ad58f031e793f9ff8b225c52bfec16329",
-              "size": 3473959
-            }
-          }
-        },
-        "1.11.11": {
-          "changelog": "更新上游版本",
-          "updated_at": "2026-10-01T16:05:33Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.1/wb2api-1.11.11-x86.fpk",
-              "sha256": "670283276f0fbbb208da9cebf890bedd574dbcb842b77e2f4271bee0377838b2",
-              "size": 3737990
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.1/wb2api-1.11.11-arm.fpk",
-              "sha256": "c42f49ac7c8f6cdbec238f2f873dfc7b8805e25eb129c89af8632aa8b9310c1f",
-              "size": 3482978
-            }
-          }
-        },
         "1.12.0": {
           "changelog": "更新上游版本",
           "updated_at": "2026-10-06T06:02:21Z",
@@ -5927,6 +5771,34 @@
           }
         }
       }
+    },
+    "WebSSH": {
+      "display_name": "WebSSH",
+      "desc": "🖥️标签化设计的WebSSH客户端，支持SFTP文件管理和面包屑导航，支持预览、编辑文件，内置常用快捷指令。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "WebSSH/ICON.PNG",
+      "preview_urls": [
+        "WebSSH/Preview/1.png",
+        "WebSSH/Preview/2.png",
+        "WebSSH/Preview/3.png",
+        "WebSSH/Preview/4.png"
+      ],
+      "readme_url": "WebSSH/README.md",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "maintainer": "shuangji66",
+      "maintainer_url": "https://github.com/shuangji66/webssh",
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "releases": {}
     },
     "Wol": {
       "display_name": "网络唤醒",
