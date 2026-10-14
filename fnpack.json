@@ -5710,6 +5710,33 @@
         }
       }
     },
+    "VScode": {
+      "display_name": "VScode",
+      "desc": "📋微软开发的一个现代化、轻量级的代码编辑器。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "AI赋能",
+        "编程开发"
+      ],
+      "icon_url": "VScode/ICON.PNG",
+      "preview_urls": [
+        "VScode/Preview/1.png"
+      ],
+      "readme_url": "VScode/README.md",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "maintainer": "Microsoft",
+      "maintainer_url": "https://code.visualstudio.com",
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "service_port": "",
+      "releases": {}
+    },
     "wb2api": {
       "display_name": "wb2api",
       "desc": "🤖WorkBuddy2API是一个自托管的OpenAI兼容反向代理网关，将腾讯 CodeBuddy账号包装为统一的/v1/chat/completions服务，不保证未来可用性与账户安全，介意勿用。",
@@ -5727,7 +5754,7 @@
         "wb2api/Preview/2.png",
         "wb2api/Preview/3.png"
       ],
-      "readme_url": "wb2api",
+      "readme_url": "wb2api/README.md",
       "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
       "maintainer": "linguo2625469",
       "maintainer_url": "https://github.com/linguo2625469/workbuddy2api-panel",
