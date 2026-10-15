@@ -6110,6 +6110,22 @@
               "size": 13297605
             }
           }
+        },
+        "0.9.3": {
+          "changelog": "修复同源校验导致内网ws连接失败；修复快捷访问弹窗自动聚焦输入框",
+          "updated_at": "2026-10-15T16:40:50Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.15/WebSSH-0.9.3-x86.fpk",
+              "sha256": "b012ebe3ec652b2a08ba284371ec5176b2f54282ea0870a32db9d59dc192aa26",
+              "size": 13643348
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.15/WebSSH-0.9.3-arm.fpk",
+              "sha256": "baaa38a0a64be182857d255e6d01ae8ab191cfd21b5a364c90858bbff776cc3d",
+              "size": 13297573
+            }
+          }
         }
       }
     },
