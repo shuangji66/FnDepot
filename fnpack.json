@@ -5875,6 +5875,22 @@
               "size": 125124116
             }
           }
+        },
+        "1.142.0": {
+          "changelog": "更新上游版本；内置汉化处理",
+          "updated_at": "2026-10-15T08:25:32Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.15/VScode-1.142.0-x86.fpk",
+              "sha256": "fcc87a982ac6885b658e03e0f84431ec1f2b6772f7bd99a1e17d54dcdbd462f3",
+              "size": 125287213
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.15/VScode-1.142.0-arm.fpk",
+              "sha256": "5e140757fb66262d76d6936422d062409d1784fd75f7acd8eb658befac340d77",
+              "size": 119592649
+            }
+          }
         }
       }
     },
