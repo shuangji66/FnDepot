@@ -1629,6 +1629,22 @@
               "size": 4230856
             }
           }
+        },
+        "0.9.3": {
+          "changelog": "改进功能，添加main模板",
+          "updated_at": "2026-10-15T11:29:19Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.15/fpkstudio-0.9.3-x86.fpk",
+              "sha256": "ac18a3838a732491140bc35d1887f189dd73ab84ecd324f549b9c0edaae0ceff",
+              "size": 4570124
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.15/fpkstudio-0.9.3-arm.fpk",
+              "sha256": "133dc0c2f7c3ce9ab4d87fd1f9f50fc9556f46764bd954b6e371d27b4fae900f",
+              "size": 4233424
+            }
+          }
         }
       }
     },
