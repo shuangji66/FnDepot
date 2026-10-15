@@ -6094,6 +6094,22 @@
               "size": 13287934
             }
           }
+        },
+        "0.9.1": {
+          "changelog": "加密快捷命令内容；添加目录书签功能",
+          "updated_at": "2026-10-15T15:53:33Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.15/WebSSH-0.9.1-x86.fpk",
+              "sha256": "fb8d70d9ba196c7303e525d0362883ba7f0e5ba4b2cce50f4fe24b3a997368bc",
+              "size": 13643372
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.15/WebSSH-0.9.1-arm.fpk",
+              "sha256": "ac32c13161e794950a166083c8c6d1f6f163ea33913f5028ba8f85f6d65cbb78",
+              "size": 13297605
+            }
+          }
         }
       }
     },
