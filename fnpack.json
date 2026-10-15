@@ -5493,6 +5493,22 @@
               "size": 12358459
             }
           }
+        },
+        "1.1.3": {
+          "changelog": "加密快捷命令内容",
+          "updated_at": "2026-10-15T15:51:46Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.15/Terminal-1.1.3-x86.fpk",
+              "sha256": "00df9b0d909d2185ee5218b2aa397a9be75cdacb630d672896ef084e6665cf21",
+              "size": 12664455
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.15/Terminal-1.1.3-arm.fpk",
+              "sha256": "1aadb7a80ed1a2c6040a602644233c9e3196fa7e9ede039a90ce1130a393bca5",
+              "size": 12370704
+            }
+          }
         }
       }
     },
