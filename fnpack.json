@@ -2040,6 +2040,22 @@
               "size": 4114746
             }
           }
+        },
+        "1.5.0": {
+          "changelog": "注意：1.5.0最低锚定0.2.0-rc.1，已移除部分失效的浏览器兼容修复，建议使用0.1.7的用户在控制台更新至1.4.5；更新：适配至0.2.1-alpha.5，新增官方账户登录和多账户切换管理，从WebSSH项目反哺安全功能，加密快捷命令内容和账户信息文件，改进前端细节",
+          "updated_at": "2026-10-16T15:52:32Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.16/Harness-1.5.0-x86.fpk",
+              "sha256": "baa96b511bc31a5a573a7bebc707f9d5a9effe0f5436b9de7aa18175a25ac035",
+              "size": 4548476
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.16/Harness-1.5.0-arm.fpk",
+              "sha256": "a23eb71ae7103f4841f442dcfdf5bf1d75649a5e9ef890f0bf9621469593d08b",
+              "size": 4195743
+            }
+          }
         }
       }
     },
