@@ -1962,7 +1962,7 @@
     },
     "Harness": {
       "display_name": "DeepSeek Harness",
-      "desc": "🐋DeepSeek Harness控制台，自由切换dsh版本，支持本地终端、插件管理、授权飞牛目录，支持网关访问+端口访问双入口。",
+      "desc": "🐋DeepSeek Harness控制台，可自由切换dsh版本，支持登录官方账户并多账户管理，支持本地终端、插件管理、授权飞牛目录，支持网关访问+端口访问双入口。",
       "platform": [
         "x86",
         "arm"
