@@ -6174,6 +6174,22 @@
               "size": 13297573
             }
           }
+        },
+        "0.9.5": {
+          "changelog": "文件管理新增搜索功能，合并新建功能",
+          "updated_at": "2026-10-16T14:56:20Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.16/WebSSH-0.9.5-x86.fpk",
+              "sha256": "7170c45345fccf73ceefc558e5a9a3f7aa82aac1eadad75d235147915be76306",
+              "size": 13658141
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.16/WebSSH-0.9.5-arm.fpk",
+              "sha256": "f3d3245db249e9a8c9eff7a210a5e0c7fbcddb74d7ecc287a66a37654ea46c31",
+              "size": 13311171
+            }
+          }
         }
       }
     },
