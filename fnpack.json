@@ -5712,6 +5712,22 @@
               "size": 4912456
             }
           }
+        },
+        "2.4.16": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-10-17T10:16:17Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.17/Tomato-2.4.16-x86.fpk",
+              "sha256": "772b1ee098e84111def7c7cac9bf6c6ebdd1fb951993d6e348a9ff648903dd57",
+              "size": 5002505
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.17/Tomato-2.4.16-arm.fpk",
+              "sha256": "f792e75758234fd95291af4846fb6d97e9a9c323d8ce50862a22b5c3f5627b75",
+              "size": 4905990
+            }
+          }
         }
       }
     },
