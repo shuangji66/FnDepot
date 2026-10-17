@@ -6286,6 +6286,22 @@
               "size": 13311171
             }
           }
+        },
+        "1.0.0": {
+          "changelog": "修复已知问题；改进前端",
+          "updated_at": "2026-10-17T10:18:32Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.17/WebSSH-1.0.0-x86.fpk",
+              "sha256": "c87e6c11d6293b4c217abedcb314e9fc7f5cdb85dbf244d3dbee11f8b34d5e1b",
+              "size": 13659804
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.17/WebSSH-1.0.0-arm.fpk",
+              "sha256": "c2bb28a6ef54c91ac296ef69b8e42018801e8b7af65e9b19df8659cbf23c8f8e",
+              "size": 13313857
+            }
+          }
         }
       }
     },
