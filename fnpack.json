@@ -6257,6 +6257,22 @@
               "size": 3773327
             }
           }
+        },
+        "1.13.0-2": {
+          "changelog": "切换misakano7545/workbuddy2api-panel分支临时更新",
+          "updated_at": "2026-10-20T02:09:30Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.20/wb2api-1.13.0-2-x86.fpk",
+              "sha256": "2168806531cbc39427ebd593a29851317cb5c2c044405acdc0ea7fc4ea13564e",
+              "size": 4076097
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.20/wb2api-1.13.0-2-arm.fpk",
+              "sha256": "fdad493b3664fbdb8dd90c29ce922d4d5a22c270724861d553c4919140dcd2f3",
+              "size": 3791764
+            }
+          }
         }
       }
     },
