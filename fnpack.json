@@ -5237,6 +5237,22 @@
               "size": 29640787
             }
           }
+        },
+        "5.2.4": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-10-20T15:57:46Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.20/qBittorrent-Enhanced-5.2.4-x86.fpk",
+              "sha256": "b82d691b5e6975170a6089704c5e8958da14265aa05f4a61989564f7c60470e8",
+              "size": 29791418
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.20/qBittorrent-Enhanced-5.2.4-arm.fpk",
+              "sha256": "510fb11e71e2270fe1f5da9f6bb2968773513578281f179cbf86debb06c53a70",
+              "size": 29649752
+            }
+          }
         }
       }
     },
