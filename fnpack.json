@@ -6273,6 +6273,22 @@
               "size": 3791764
             }
           }
+        },
+        "1.13.0-3": {
+          "changelog": "切换misakano7545来源临时更新",
+          "updated_at": "2026-10-20T05:18:23Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.20/wb2api-1.13.0-3-x86.fpk",
+              "sha256": "0c9dc0987077c3496f27deec52a88bdc28e925983b4b62a6622211644a754b38",
+              "size": 4097863
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.20/wb2api-1.13.0-3-arm.fpk",
+              "sha256": "f5de6de2c56984b115f9ff1dbd3d40a0be6e0839d4e8e9c77752346712960831",
+              "size": 3810366
+            }
+          }
         }
       }
     },
