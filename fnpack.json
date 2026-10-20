@@ -1773,6 +1773,22 @@
               "size": 4235566
             }
           }
+        },
+        "1.1.0": {
+          "changelog": "修复大小图标尺寸设置错误；修复导入小尺寸图片无法铺满画布；改进界面交互、模版等体验",
+          "updated_at": "2026-10-20T17:29:18Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.20/fpkstudio-1.1.0-x86.fpk",
+              "sha256": "8cdee3ccd8889db8650fe5cd772d05b93961b42ffb4f2b826b00e35ff6a3019a",
+              "size": 4579838
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.20/fpkstudio-1.1.0-arm.fpk",
+              "sha256": "2bb8a4dd0568f2f3945558a1edff6a1b2a7b7c25b57079bc3cda83dc25c9b579",
+              "size": 4244925
+            }
+          }
         }
       }
     },
