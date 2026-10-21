@@ -1667,6 +1667,22 @@
               "size": 38460493
             }
           }
+        },
+        "2.6.1": {
+          "changelog": "面板和上游内核紧急修复go标准库高危漏洞；修复节点归属地网址命中规则集导致直连；全局禁用文本复制",
+          "updated_at": "2026-10-21T17:31:35Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.21/Fluxor-2.6.1-x86.fpk",
+              "sha256": "394496a4fc2d1e399de4686196df87de737fd35079b5b86cf5c1a7814a3eee43",
+              "size": 95865233
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.21/Fluxor-2.6.1-arm.fpk",
+              "sha256": "f759555ded791d89583779c2b15e59abb8abf8cd24b79f6a0e39a2ed526c2f7b",
+              "size": 38591268
+            }
+          }
         }
       }
     },
