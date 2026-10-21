@@ -2330,18 +2330,18 @@
           }
         },
         "0.7.38": {
-          "changelog": "更新hermes-web-ui版本",
-          "updated_at": "2026-10-21T04:45:10Z",
+          "changelog": "node高危漏洞紧急修复",
+          "updated_at": "2026-10-21T15:39:07Z",
           "packages": {
             "x86": {
               "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.21/Hermes-0.7.38-x86.fpk",
-              "sha256": "b5e7876bce1b5c59c836b8d18c24220613e9261c86d9154a1fb116f286e78af7",
-              "size": 362369113
+              "sha256": "3e0569ef9c36c3a1b6755a718e3d78123010323bacc13a1f2ef228b495ff57a5",
+              "size": 374125370
             },
             "arm": {
               "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.21/Hermes-0.7.38-arm.fpk",
-              "sha256": "37d3447c05f67494f1c154d3fa17acc845c087b286801d467281287f262ed0eb",
-              "size": 354190608
+              "sha256": "f836086c4c06743583eff871c17f5f9ce753dce3b495f380c02acc65c22996ec",
+              "size": 365229697
             }
           }
         }
