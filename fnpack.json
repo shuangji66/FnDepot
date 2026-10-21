@@ -4232,6 +4232,22 @@
               "size": 49272792
             }
           }
+        },
+        "1.3.8": {
+          "changelog": "主线紧急修复高危漏洞",
+          "updated_at": "2026-10-21T16:49:08Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.21/Nginx-1.3.8-x86.fpk",
+              "sha256": "66648916d75550dca3dd229496ffc9f4884743a21b7a9880cb0be7b5c5f2dace",
+              "size": 53200014
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.21/Nginx-1.3.8-arm.fpk",
+              "sha256": "4a61fe96ee1803ec8a2742cc4871ff69a7951a4667e534d2e27a8542d1fa8c4f",
+              "size": 49775483
+            }
+          }
         }
       }
     },
