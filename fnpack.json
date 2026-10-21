@@ -5197,17 +5197,17 @@
         },
         "5.3.0": {
           "changelog": "更新上游版本",
-          "updated_at": "2026-10-20T15:28:20Z",
+          "updated_at": "2026-10-21T04:11:36Z",
           "packages": {
             "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.20/qBittorrent-5.3.0-x86.fpk",
-              "sha256": "34d154118a90d33d3a3915f2b0cecbaa14bf5e1d9ab30abb1f76f86e225eaa0e",
-              "size": 77018787
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.21/qBittorrent-5.3.0-x86.fpk",
+              "sha256": "09fb5752c94021a868448d3fdd6be1b6e702e17fd5fd1fb59ea37bfbc527cae6",
+              "size": 78494214
             },
             "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.20/qBittorrent-5.3.0-arm.fpk",
-              "sha256": "91549d65982e94405715cda219e82ec907837893c4eb2973a9b22c0d2eaf5723",
-              "size": 76692688
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.21/qBittorrent-5.3.0-arm.fpk",
+              "sha256": "83e19177b870eadc19cfa4db29e419cffac39ae5b77662d69201ba20ff85e325",
+              "size": 78058367
             }
           }
         }
