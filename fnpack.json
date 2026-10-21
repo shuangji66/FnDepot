@@ -1948,6 +1948,22 @@
               "size": 66513232
             }
           }
+        },
+        "1.27.3": {
+          "changelog": "高危漏洞紧急修复",
+          "updated_at": "2026-10-21T16:50:35Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.21/golang-1.27.3-x86.fpk",
+              "sha256": "80a8b33c357a58203cd0686c2098430ba165aefef42773100ed863d44724fb32",
+              "size": 69985099
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.21/golang-1.27.3-arm.fpk",
+              "sha256": "786cbf2957578f6e92b3c977b74adc6ad4b30c862e6bd284b2b2a2d186229058",
+              "size": 66502354
+            }
+          }
         }
       }
     },
