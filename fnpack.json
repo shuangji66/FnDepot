@@ -6329,8 +6329,8 @@
       ],
       "readme_url": "wb2api/README.md",
       "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
-      "maintainer": "linguo2625469",
-      "maintainer_url": "https://github.com/linguo2625469/workbuddy2api-panel",
+      "maintainer": "misakano7545",
+      "maintainer_url": "https://github.com/misakano7545/workbuddy2api-panel",
       "distributor": "shuangji66",
       "distributor_url": "https://github.com/shuangji66/FnDepot",
       "run_as": "package",
@@ -6338,86 +6338,6 @@
       "is_docker": false,
       "service_port": "7863",
       "releases": {
-        "1.12.0": {
-          "changelog": "更新上游版本",
-          "updated_at": "2026-10-06T06:02:21Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.6/wb2api-1.12.0-x86.fpk",
-              "sha256": "d2028af0c985a54f605b5ddb6f2057b1f2ddea36d4734a21eaa3fe14cc8bc8d3",
-              "size": 3754397
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.6/wb2api-1.12.0-arm.fpk",
-              "sha256": "2b8bb1d5a0414744d858dc19bcd966704a49d040069e057bb37185c13c4b6d9a",
-              "size": 3496967
-            }
-          }
-        },
-        "1.13.0": {
-          "changelog": "更新上游版本",
-          "updated_at": "2026-10-08T01:53:23Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.8/wb2api-1.13.0-x86.fpk",
-              "sha256": "e50ea4c788a888389d19bf5d78bc0471eec116bf94ab8a03d784d5dd550aab3b",
-              "size": 3762681
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.8/wb2api-1.13.0-arm.fpk",
-              "sha256": "4a5affaa89a543a1d72662c297532ffc7101e17867ddf7bbe3e75893f57c93d7",
-              "size": 3503814
-            }
-          }
-        },
-        "1.13.0-1": {
-          "changelog": "切换misakano7545/workbuddy2api-panel分支临时更新",
-          "updated_at": "2026-10-18T06:41:47Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.18/wb2api-1.13.0-1-x86.fpk",
-              "sha256": "c6b2bf8cbca03771b40cb1ee80cbbc8fb764d7e445ea498305bbf67f18cb8bd1",
-              "size": 4059371
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.18/wb2api-1.13.0-1-arm.fpk",
-              "sha256": "07b086a00b798ccdc2a6658779ad0e15dcd2a2eb11de0881201b52c7bda1c255",
-              "size": 3773327
-            }
-          }
-        },
-        "1.13.0-2": {
-          "changelog": "切换misakano7545/workbuddy2api-panel分支临时更新",
-          "updated_at": "2026-10-20T02:09:30Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.20/wb2api-1.13.0-2-x86.fpk",
-              "sha256": "2168806531cbc39427ebd593a29851317cb5c2c044405acdc0ea7fc4ea13564e",
-              "size": 4076097
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.20/wb2api-1.13.0-2-arm.fpk",
-              "sha256": "fdad493b3664fbdb8dd90c29ce922d4d5a22c270724861d553c4919140dcd2f3",
-              "size": 3791764
-            }
-          }
-        },
-        "1.13.0-3": {
-          "changelog": "切换misakano7545来源临时更新",
-          "updated_at": "2026-10-20T05:18:23Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.20/wb2api-1.13.0-3-x86.fpk",
-              "sha256": "0c9dc0987077c3496f27deec52a88bdc28e925983b4b62a6622211644a754b38",
-              "size": 4097863
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.20/wb2api-1.13.0-3-arm.fpk",
-              "sha256": "f5de6de2c56984b115f9ff1dbd3d40a0be6e0839d4e8e9c77752346712960831",
-              "size": 3810366
-            }
-          }
-        },
         "1.13.0-4": {
           "changelog": "官方限制收紧，反代随时失效",
           "updated_at": "2026-10-21T03:53:45Z",
@@ -6479,38 +6399,6 @@
       "install_type": "",
       "is_docker": false,
       "releases": {
-        "0.9.0": {
-          "changelog": "初始版本",
-          "updated_at": "2026-10-14T09:55:43Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.14/WebSSH-0.9.0-x86.fpk",
-              "sha256": "d944eca2f883d2bcd58d826db835db6e847b61146b81608c2bebe9b4c9cec307",
-              "size": 13631525
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.14/WebSSH-0.9.0-arm.fpk",
-              "sha256": "d7ea93cd34592ede6f7d7049a87155735c36e4e59594627cca73c72c65fa329a",
-              "size": 13287934
-            }
-          }
-        },
-        "0.9.1": {
-          "changelog": "加密快捷命令内容；添加目录书签功能",
-          "updated_at": "2026-10-15T15:53:33Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.15/WebSSH-0.9.1-x86.fpk",
-              "sha256": "fb8d70d9ba196c7303e525d0362883ba7f0e5ba4b2cce50f4fe24b3a997368bc",
-              "size": 13643372
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.15/WebSSH-0.9.1-arm.fpk",
-              "sha256": "ac32c13161e794950a166083c8c6d1f6f163ea33913f5028ba8f85f6d65cbb78",
-              "size": 13297605
-            }
-          }
-        },
         "0.9.3": {
           "changelog": "修复同源校验导致内网ws连接失败；修复快捷访问弹窗自动聚焦输入框",
           "updated_at": "2026-10-15T16:40:50Z",
@@ -6806,132 +6694,6 @@
       "is_docker": false,
       "service_port": "20128",
       "releases": {
-        "0.5.69": {
-          "changelog": "初始版本",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.9/9router-0.5.69-x86.fpk",
-              "sha256": "66034690cc704bfe88df62a6b3c8cef4295a04d6ca13ba4ee2bd1998a120971a",
-              "size": 37389441
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.9/9router-0.5.69-arm.fpk",
-              "sha256": "01487e8308281f2c3866196ef4273ac60c4641050dff271bf2313180f4d4b22b",
-              "size": 37352291
-            }
-          }
-        },
-        "0.5.75": {
-          "changelog": "更新上游版本",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.12/9router-0.5.75-x86.fpk",
-              "sha256": "e29167da8c5aa93091ac77b3751198463e52943f55455dc6dafd4dd67be5740a",
-              "size": 37420073
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.12/9router-0.5.75-arm.fpk",
-              "sha256": "942368f4dbe106a970b47bef22ad8cd8df8a65eba73b7644079d76f26bf9743b",
-              "size": 37383404
-            }
-          }
-        },
-        "0.5.80": {
-          "changelog": "更新上游版本",
-          "updated_at": "2026-09-18T11:28:12Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.18/9router-0.5.80-x86.fpk",
-              "sha256": "3ef75db43c8f675bf15688220827292f737be21c9a872d22f9197040c2c217c8",
-              "size": 37430271
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.18/9router-0.5.80-arm.fpk",
-              "sha256": "4a8d2ac285ba64e06f66cb424286f6d9185e059365e8ba804c22e5633430c625",
-              "size": 37387205
-            }
-          }
-        },
-        "0.5.81": {
-          "changelog": "更新上游版本",
-          "updated_at": "2026-09-19T03:52:56Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.19/9router-0.5.81-x86.fpk",
-              "sha256": "20cff4eab1d61ce2872e60a25a29d81c48f6769027026338269dc7e075ad3c7a",
-              "size": 37426266
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.19/9router-0.5.81-arm.fpk",
-              "sha256": "deceb0df6ff1baf6a13835cb643bc3bdfa25187212a26d0a2b90c55953966153",
-              "size": 37382265
-            }
-          }
-        },
-        "0.5.86": {
-          "changelog": "更新上游版本",
-          "updated_at": "2026-09-23T04:30:41Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.23/9router-0.5.86-x86.fpk",
-              "sha256": "2ca20749bce2b5ec2c6988ea5570fedac9ee04b388267c23cbb50258b881e161",
-              "size": 38590630
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.23/9router-0.5.86-arm.fpk",
-              "sha256": "16c6c58edd9dbcb19a8368f2353edf81ae2b08fb71d941aff9998e19cdda7d5b",
-              "size": 38537975
-            }
-          }
-        },
-        "0.5.86-1": {
-          "changelog": "改监听为0.0.0.0，删除需反代描述",
-          "updated_at": "2026-09-26T08:42:51Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.26/9router-0.5.86-1-x86.fpk",
-              "sha256": "74db6ed4021d3c6625092e98b49f7f145051747d1c0245d67b03204c14e3716c",
-              "size": 38568648
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.26/9router-0.5.86-1-arm.fpk",
-              "sha256": "37c2ab8cd77737cadd033449dc7da610a683421707c1dcd3a9993f8fe654715f",
-              "size": 38540084
-            }
-          }
-        },
-        "0.5.91": {
-          "changelog": "更新上游版本",
-          "updated_at": "2026-09-26T17:30:18Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.26/9router-0.5.91-x86.fpk",
-              "sha256": "d775938117e40cc1874ca1747b59e1ebd92aff64ec000234fb57ba1a5af547d7",
-              "size": 38681716
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.9.26/9router-0.5.91-arm.fpk",
-              "sha256": "a79e8664f720eb5642efa8fdd66f45b49ef0ab1ceb4550b0437f05fbff1dc7d2",
-              "size": 38668803
-            }
-          }
-        },
-        "0.5.95": {
-          "changelog": "使用LZMA2压缩减小安装体积；更新上游版本",
-          "updated_at": "2026-10-01T04:36:41Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.1/9router-0.5.95-x86.fpk",
-              "sha256": "10d8cc4f0c308041662e8170e31b97c0cb2576bdd9cc6c5b1bd6b9d70e80a96a",
-              "size": 24877043
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.1/9router-0.5.95-arm.fpk",
-              "sha256": "da5341bb49aa12365bdb5de06c55947900ed9f7ee44ece2af1d2cb7d1e6a38db",
-              "size": 24775014
-            }
-          }
-        },
         "0.5.99": {
           "changelog": "更新上游版本",
           "updated_at": "2026-10-08T19:23:03Z",
