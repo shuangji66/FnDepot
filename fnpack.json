@@ -3222,6 +3222,17 @@
               "size": 117136301
             }
           }
+        },
+        "1.29.1": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-10-21T16:30:35Z",
+          "packages": {
+            "all": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.21/Komga-1.29.1-all.fpk",
+              "sha256": "985eb6b669d669233d7768e928bb39dcc74f0dff8800cdb132707cb9af588920",
+              "size": 117135895
+            }
+          }
         }
       }
     },
