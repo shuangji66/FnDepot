@@ -2155,17 +2155,17 @@
         },
         "1.6.0": {
           "changelog": "移除控制台自我更新，移除快捷访问设置，移除node版本切换，改进账号登录交互，解决飞牛app控制台内入口首屏invalid token（图标入口仍需手动刷新），插件启停对齐官方逻辑",
-          "updated_at": "2026-10-21T11:04:50Z",
+          "updated_at": "2026-10-21T13:17:12Z",
           "packages": {
             "x86": {
               "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.21/Harness-1.6.0-x86.fpk",
-              "sha256": "7291aab0c872e10a7205e48a253c9951406fb5bae512673a794d5646c6df641c",
-              "size": 4522983
+              "sha256": "079529a1f76a1c70ccdc07a073597802a4bca4b260536e6b24662e9e4fb26cb8",
+              "size": 4522991
             },
             "arm": {
               "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.21/Harness-1.6.0-arm.fpk",
-              "sha256": "5fef58f458288c33b16ec5ec8ccc141b2e9821d9f9e062f5b76149b2e131262a",
-              "size": 4172518
+              "sha256": "723adea465e9c29514e98db4cbee5210f66f0e75a2d621fb6f295bdf5917ba19",
+              "size": 4172483
             }
           }
         }
