@@ -1360,6 +1360,22 @@
               "size": 125376517
             }
           }
+        },
+        "0.7.38-1": {
+          "changelog": "node高危漏洞紧急修复",
+          "updated_at": "2026-10-21T16:13:15Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.21/Ekko-0.7.38-1-x86.fpk",
+              "sha256": "88fd8e47039ef4c6c756e34d6b2960d60d0f921b2036243900f4414d112fbc6e",
+              "size": 124504695
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.21/Ekko-0.7.38-1-arm.fpk",
+              "sha256": "47faac996625f726da75dbc46e844ae4c92d0571acdc828717534cd27bfce8c4",
+              "size": 122222816
+            }
+          }
         }
       }
     },
