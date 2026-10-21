@@ -6433,6 +6433,22 @@
               "size": 3832505
             }
           }
+        },
+        "26.10.21": {
+          "changelog": "迁移misakano7545分支；官方政策收紧，反代随时可能失效",
+          "updated_at": "2026-10-21T13:06:14Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.21/wb2api-26.10.21-x86.fpk",
+              "sha256": "dd5749f3fc7eeb58dc78df727957d130b738efa3bf8bda7b9c5c772349862cbd",
+              "size": 4129652
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.21/wb2api-26.10.21-arm.fpk",
+              "sha256": "96a96aedd36172a736651dd39067f4b9d892993d290577a80cfbaaf35f405b1b",
+              "size": 3839433
+            }
+          }
         }
       }
     },
