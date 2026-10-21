@@ -6353,6 +6353,22 @@
               "size": 3810366
             }
           }
+        },
+        "1.13.0-4": {
+          "changelog": "官方限制收紧，反代随时失效",
+          "updated_at": "2026-10-21T03:53:45Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.21/wb2api-1.13.0-4-x86.fpk",
+              "sha256": "4be43f1c978f60a5801bc8c726a55b0b44c87b635eb939eebc55748f925b6b68",
+              "size": 4120821
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.21/wb2api-1.13.0-4-arm.fpk",
+              "sha256": "40a55c36cb2cd177cec9f53b742461a5132b6c2f81ff5a0cf1a27ed5b18b47d6",
+              "size": 3832505
+            }
+          }
         }
       }
     },
