@@ -2200,22 +2200,6 @@
               "size": 4172483
             }
           }
-        },
-        "1.6.1": {
-          "changelog": "升级go构建环境，修复标准库漏洞",
-          "updated_at": "2026-10-21T17:02:33Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.21/Harness-1.6.1-x86.fpk",
-              "sha256": "8c5c5ec310ce8cdabdc93a647abfe26b416d7218ebc90c37c7e4103eb6c6273b",
-              "size": 4522834
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.21/Harness-1.6.1-arm.fpk",
-              "sha256": "8bf529e9e7f3bc030c691cd450ef9e550e65bb1fb1064b32fb295a893254f6d4",
-              "size": 4172444
-            }
-          }
         }
       }
     },
