@@ -4244,6 +4244,22 @@
               "size": 30223807
             }
           }
+        },
+        "22.23.4": {
+          "changelog": "高危漏洞紧急修复",
+          "updated_at": "2026-10-21T15:27:12Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.21/nodejs_v22-22.23.4-x86.fpk",
+              "sha256": "5081434f9b9d6d313a558d433ff24c34e182d732bc3278050c3b1f89456f9692",
+              "size": 31083009
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.21/nodejs_v22-22.23.4-arm.fpk",
+              "sha256": "2e2877f8fe2bc472da8defbc7c0cbb77d5316a423d26dd7441aac1f0b661fab3",
+              "size": 30253242
+            }
+          }
         }
       }
     },
