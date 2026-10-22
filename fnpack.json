@@ -565,6 +565,22 @@
               "size": 16119741
             }
           }
+        },
+        "2.23.1": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-10-22T14:20:41Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.22/Bitcomet-2.23.1-x86.fpk",
+              "sha256": "c2330e4be8f47d0678ee51d473dbdf22abd179f6ba2b2bcb3f37568de23bae08",
+              "size": 20244397
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.22/Bitcomet-2.23.1-arm.fpk",
+              "sha256": "c95d8604b9408489eea327417b3f3a1a606f95a7c6de569f347a4c49665a2a8b",
+              "size": 17225656
+            }
+          }
         }
       }
     },
