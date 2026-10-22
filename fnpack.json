@@ -641,6 +641,22 @@
               "size": 38090237
             }
           }
+        },
+        "1.4.3": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-10-22T06:38:43Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.22/bunjs-1.4.3-x86.fpk",
+              "sha256": "1bc98e63343b798d00a4d57db78986737647cc8f160020d00cc2977744f4495f",
+              "size": 42970904
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.22/bunjs-1.4.3-arm.fpk",
+              "sha256": "d43d7bc7a7183443472e697e86c59a23ad5832cf7def922cc334b68e3e5481ad",
+              "size": 43526273
+            }
+          }
         }
       }
     },
