@@ -4740,6 +4740,22 @@
               "size": 31159682
             }
           }
+        },
+        "2.33.1": {
+          "changelog": "修复go库高危漏洞",
+          "updated_at": "2026-10-23T06:17:55Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.23/Ntfy-2.33.1-x86.fpk",
+              "sha256": "7cf382ae441b09f38c3ca375d31b959913942a22622ab2c233ded898e4dc6a7c",
+              "size": 32605533
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.23/Ntfy-2.33.1-arm.fpk",
+              "sha256": "27b92f983ad9f1bc7b4cc259759bb852127275f3d84a500886e648e3d6b9b5c0",
+              "size": 31199114
+            }
+          }
         }
       }
     },
