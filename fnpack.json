@@ -2990,6 +2990,22 @@
               "size": 140677476
             }
           }
+        },
+        "25.0.5": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-10-23T15:55:29Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.23/java-25-openjdk-25.0.5-x86.fpk",
+              "sha256": "164aee521f639de51551b25140734dc3dd5da2d4100b4d605715ce3e06bcb916",
+              "size": 140565628
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.23/java-25-openjdk-25.0.5-arm.fpk",
+              "sha256": "cfe9aad83e1cb26ea823f46efc4f63175e08994428d7ff878c8c0d2fb56d64aa",
+              "size": 139379873
+            }
+          }
         }
       }
     },
