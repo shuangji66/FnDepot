@@ -6347,6 +6347,22 @@
               "size": 32833307
             }
           }
+        },
+        "2.5.7": {
+          "changelog": "修复node高危漏洞",
+          "updated_at": "2026-10-23T06:18:24Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.23/uptime-kuma-2.5.7-x86.fpk",
+              "sha256": "0e83f952a9aa30587b8475de4dda48e0a8a07ebe7e50ee7ba74bf327f397325f",
+              "size": 32815540
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.23/uptime-kuma-2.5.7-arm.fpk",
+              "sha256": "46f728ecaf54047a47864875ea23036c17854106eddf26febbeccf2c3ab75e95",
+              "size": 32835350
+            }
+          }
         }
       }
     },
