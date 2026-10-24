@@ -4952,6 +4952,22 @@
               "size": 47907032
             }
           }
+        },
+        "4.2.8": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-10-24T12:07:58Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.24/Openlist-4.2.8-x86.fpk",
+              "sha256": "a125774dd5658a56655a025a9fee4d5a9f075bac6876c85c03390965fb4fe7c3",
+              "size": 53987715
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.24/Openlist-4.2.8-arm.fpk",
+              "sha256": "0c93dfe6e5e328f133fb5713166c0bf1919d78f2744e57c21f856256a4618706",
+              "size": 51107745
+            }
+          }
         }
       }
     },
