@@ -5801,6 +5801,29 @@
         }
       }
     },
+    "redis": {
+      "display_name": "Redis",
+      "desc": "📊对于构建实时数据驱动型应用的开发者来说，Redis是首选、最快、功能最丰富的缓存、数据结构服务器，以及文档与向量查询引擎。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "redis/ICON.PNG",
+      "readme_url": "redis/README.md",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "maintainer": "redis",
+      "maintainer_url": "https://redis.io/",
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "run_as": "root",
+      "install_type": "",
+      "is_docker": false,
+      "service_port": "6379",
+      "releases": {}
+    },
     "rustfs": {
       "display_name": "RustFS",
       "desc": "📊RustFS 是一个基于 Rust 的高性能分布式对象存储系统，完全开源并兼容 S3 协议。",
