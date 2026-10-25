@@ -4968,6 +4968,22 @@
               "size": 51107745
             }
           }
+        },
+        "4.2.9": {
+          "changelog": "修复新版本全新安装初始化白屏；更新上游版本",
+          "updated_at": "2026-10-25T06:27:52Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.25/Openlist-4.2.9-x86.fpk",
+              "sha256": "d1bd6fd972101fe6b12a87a3c35dbef090c1c6b1637cba6921550ce4d1cc795d",
+              "size": 53986640
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.25/Openlist-4.2.9-arm.fpk",
+              "sha256": "8e7d9c7d8b0be1550863ad0a733c2913cf484b44a2b96145babfb1a30fe312af",
+              "size": 51112275
+            }
+          }
         }
       }
     },
