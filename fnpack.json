@@ -1933,6 +1933,22 @@
               "size": 4246189
             }
           }
+        },
+        "1.2.1": {
+          "changelog": "改进图标处理，改进向导交互；fkpstudio for windows正式上线，欢迎体验",
+          "updated_at": "2026-10-25T15:17:46Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.25/fpkstudio-1.2.1-x86.fpk",
+              "sha256": "9598a451ff9fcbfa27d0f95c914322249fdf713efcebdda3a3dd9d4e01b73353",
+              "size": 4580643
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.25/fpkstudio-1.2.1-arm.fpk",
+              "sha256": "6a8eb231630fc21c05bf8148f9e5c488fb9eb1283fdd1291fdecaac9e84fc124",
+              "size": 4246545
+            }
+          }
         }
       }
     },
