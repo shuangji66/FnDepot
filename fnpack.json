@@ -5769,6 +5769,32 @@
         }
       }
     },
+    "rustfs": {
+      "display_name": "RustFS",
+      "desc": "📊RustFS 是一个基于 Rust 的高性能分布式对象存储系统，完全开源并兼容 S3 协议。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "rustfs/ICON.PNG",
+      "preview_urls": [
+        "rustfs/Preview/1.png"
+      ],
+      "readme_url": "rustfs/README.md",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "maintainer": "rustfs",
+      "maintainer_url": "https://github.com/rustfs/rustfs",
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "service_port": "9001",
+      "releases": {}
+    },
     "SBTI": {
       "display_name": "SBTI人格测试",
       "desc": "🌿卧槽，没一个诗人。",
