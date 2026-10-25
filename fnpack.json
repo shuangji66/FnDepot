@@ -5154,6 +5154,22 @@
               "size": 75423441
             }
           }
+        },
+        "2026.10.25": {
+          "changelog": "修复新版本全新安装初始化白屏；更新测试版本",
+          "updated_at": "2026-10-25T06:33:38Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.25/Openlist-beta-2026.10.25-x86.fpk",
+              "sha256": "1c09d4346ec62c02ab4cde5e60921eaa5f4b1a8ba0ae8d06188e517600c774b0",
+              "size": 82319771
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.25/Openlist-beta-2026.10.25-arm.fpk",
+              "sha256": "9e14a0c196b222e0ef775fa7a32c37e7e17b16c940f5e2ba8837b267e55f0a67",
+              "size": 77635195
+            }
+          }
         }
       }
     },
