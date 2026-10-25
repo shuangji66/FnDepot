@@ -1917,6 +1917,22 @@
               "size": 4244925
             }
           }
+        },
+        "1.2.0": {
+          "changelog": "改进图标处理，改进向导交互",
+          "updated_at": "2026-10-25T14:51:37Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.25/fpkstudio-1.2.0-x86.fpk",
+              "sha256": "e43460c5f273c11b0a7c6d81c966fb2cc4331d6fca64bd896508678e1bec1460",
+              "size": 4580470
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.25/fpkstudio-1.2.0-arm.fpk",
+              "sha256": "87c5fe634904f72b28126463f96ab20b05a67b570f813a043c8f66ec1e583dba",
+              "size": 4246189
+            }
+          }
         }
       }
     },
