@@ -1763,6 +1763,22 @@
               "size": 38591268
             }
           }
+        },
+        "2.6.2": {
+          "changelog": "重新设计tun模块和IPv6功能，适配新内核dns-mode设置；调整部分交互体验",
+          "updated_at": "2026-10-26T19:17:08Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.26/Fluxor-2.6.2-x86.fpk",
+              "sha256": "2b6b89cc3ce054af8c7eaddaadf4d8fc3654a3fa2e3ed12b1593593cdd215f30",
+              "size": 95891330
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.26/Fluxor-2.6.2-arm.fpk",
+              "sha256": "bf44fba3a2ddb29883220ffb96c28cf41fb53e2d7deaf1b90e887614a6cfd3cf",
+              "size": 38617487
+            }
+          }
         }
       }
     },
