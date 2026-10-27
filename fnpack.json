@@ -4367,6 +4367,22 @@
               "size": 34968434
             }
           }
+        },
+        "4.0.1": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-10-27T11:21:36Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.27/NextExplorer-4.0.1-x86.fpk",
+              "sha256": "acbeb43f38cac06c1db5a5d9eada233edcb444a371948a91bab2197f8eaa96c9",
+              "size": 35955659
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.27/NextExplorer-4.0.1-arm.fpk",
+              "sha256": "b4fa0f125b6df10546a50b60bd48bae3c4adf8149319fc21f2e71e731a76341d",
+              "size": 34972800
+            }
+          }
         }
       }
     },
