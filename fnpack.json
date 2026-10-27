@@ -1806,6 +1806,22 @@
               "size": 38617487
             }
           }
+        },
+        "2.6.3": {
+          "changelog": "全面优化前端；添加代理自定义测速链接",
+          "updated_at": "2026-10-27T17:16:58Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.27/Fluxor-2.6.3-x86.fpk",
+              "sha256": "ef97c972913a96948a86dad6a5be1054db3f7b10624ab3186a74911466548e3f",
+              "size": 95920119
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.27/Fluxor-2.6.3-arm.fpk",
+              "sha256": "6165808f95010321daa03508a5f3e149e1a1fa5992c8dd0afb5f763e83e2bd8e",
+              "size": 38647259
+            }
+          }
         }
       }
     },
