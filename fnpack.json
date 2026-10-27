@@ -2344,6 +2344,22 @@
               "size": 4172483
             }
           }
+        },
+        "1.6.1": {
+          "changelog": "改进反代回环栅栏注入；改进增强插件功能",
+          "updated_at": "2026-10-27T10:24:59Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.27/Harness-1.6.1-x86.fpk",
+              "sha256": "28ae14cba004490da07ba3cd812ebead8823fed01dbabd18f23d9b78e063df29",
+              "size": 4522136
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.27/Harness-1.6.1-arm.fpk",
+              "sha256": "04ea12cb4af59ebf84e35a92ad778ae80d8ad92fb500b6b25629056ff87f8c38",
+              "size": 4172099
+            }
+          }
         }
       }
     },
