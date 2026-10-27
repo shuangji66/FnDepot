@@ -1822,6 +1822,22 @@
               "size": 38647259
             }
           }
+        },
+        "2.6.4": {
+          "changelog": "全面优化前端；添加代理自定义测速链接；修复移动端首屏为代理时错误渲染双列",
+          "updated_at": "2026-10-27T17:44:47Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.27/Fluxor-2.6.4-x86.fpk",
+              "sha256": "c567c127e332de0aa9ca9fee8722fc7cd9572055f9f5485b6426cddcb05439ff",
+              "size": 95919134
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.27/Fluxor-2.6.4-arm.fpk",
+              "sha256": "a693050f03756ce47360d982a7e2461d5500d863d6486032d15e6edff86b5b88",
+              "size": 38647391
+            }
+          }
         }
       }
     },
