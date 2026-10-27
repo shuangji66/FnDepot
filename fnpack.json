@@ -902,6 +902,17 @@
               "size": 229648
             }
           }
+        },
+        "0.9.2": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-10-27T14:50:12Z",
+          "packages": {
+            "all": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.27/cloudsaver-0.9.2-all.fpk",
+              "sha256": "169ecf0806a2f2ce7478e1e1de3009070426af26128c767dfca6b43a7a51078a",
+              "size": 228966
+            }
+          }
         }
       }
     },
