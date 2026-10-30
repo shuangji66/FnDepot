@@ -1099,6 +1099,22 @@
               "size": 38425858
             }
           }
+        },
+        "5.9.0": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-10-30T16:23:09Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.30/Ech0-5.9.0-x86.fpk",
+              "sha256": "6e53ec9005ecbe4eaebc9f4bd44e4be799f7fb216d10a77b2079553ebc7155dc",
+              "size": 42745490
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.30/Ech0-5.9.0-arm.fpk",
+              "sha256": "c7087b2b00cfe101e10f5a2e6c4b7ed56f96bb6cc2a7c084de7856ea9af185da",
+              "size": 38472447
+            }
+          }
         }
       }
     },
