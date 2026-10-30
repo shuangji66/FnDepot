@@ -182,6 +182,22 @@
               "size": 10068516
             }
           }
+        },
+        "3.3.0-4": {
+          "changelog": "更新上游版本；修复beta5启动故障",
+          "updated_at": "2026-10-30T14:21:04Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.30/Agent2API-3.3.0-4-x86.fpk",
+              "sha256": "7cce237cf37b325ee62470a5623feab478f4cc88904203d97a3f4fb9a1ec2479",
+              "size": 11066404
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.30/Agent2API-3.3.0-4-arm.fpk",
+              "sha256": "0f10e40eaee0b12ae635cd2edf73bfada3692e371ec20263f3a89d980583a287",
+              "size": 10661204
+            }
+          }
         }
       }
     },
