@@ -2798,6 +2798,22 @@
               "size": 191247901
             }
           }
+        },
+        "17.0.21": {
+          "changelog": "更新上游版本；修复安全漏洞",
+          "updated_at": "2026-10-30T16:23:54Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.30/java-17-openjdk-17.0.21-x86.fpk",
+              "sha256": "ea2c2f7f58715215a3a55b452fbcfa7045c5fc094528c7aad0e7992fb212886f",
+              "size": 192940612
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.30/java-17-openjdk-17.0.21-arm.fpk",
+              "sha256": "eef3b1623cc69b57b1659cd96dad56eabce484bc4b51b2a9b20e11a04554273f",
+              "size": 191631914
+            }
+          }
         }
       }
     },
