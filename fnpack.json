@@ -2211,6 +2211,22 @@
               "size": 4172099
             }
           }
+        },
+        "1.7.0": {
+          "changelog": "全面优化前端性能与交互体验；改进增强插件功能",
+          "updated_at": "2026-10-30T04:37:02Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.30/Harness-1.7.0-x86.fpk",
+              "sha256": "426a375678060eed93f0fa92b33f6bc2a9b2e0c8e0fb03064c2e06010fdf6923",
+              "size": 4769851
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.30/Harness-1.7.0-arm.fpk",
+              "sha256": "1798755e0ec4bc7907828f1db95ec35bd9596b636b8cea0bd25d09340594a306",
+              "size": 4419225
+            }
+          }
         }
       }
     },
