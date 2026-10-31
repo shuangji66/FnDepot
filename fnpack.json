@@ -5025,6 +5025,22 @@
               "size": 4449090
             }
           }
+        },
+        "26.10.31": {
+          "changelog": "更新上游版本，修复内置更新后启动失败；官方已限制反代，继续使用将违反用户条款，需承担封号风险",
+          "updated_at": "2026-10-31T02:14:12Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.31/wb2api-26.10.31-x86.fpk",
+              "sha256": "2761294148e103654b11b463bfdabb61556a63981e2a99b0888b54552867424b",
+              "size": 4864691
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.31/wb2api-26.10.31-arm.fpk",
+              "sha256": "f2e17b9d461ae42c91d1fea0b34cb345540428721385b32c3f5682ee91ae1155",
+              "size": 4453624
+            }
+          }
         }
       }
     },
