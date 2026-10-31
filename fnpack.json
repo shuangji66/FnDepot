@@ -3684,6 +3684,17 @@
               "size": 65408604
             }
           }
+        },
+        "9.5.4": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-10-31T23:16:13Z",
+          "packages": {
+            "all": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.31/PeerBanHelper-9.5.4-all.fpk",
+              "sha256": "9da28028428194f9f1c41df548e05ff4d7df8eff7ff84311cf19d40da0984912",
+              "size": 65408568
+            }
+          }
         }
       }
     },
