@@ -496,6 +496,22 @@
               "size": 13286582
             }
           }
+        },
+        "1.1.3": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-10-31T14:02:19Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.31/CloudDrive-1.1.3-x86.fpk",
+              "sha256": "43a871c1869ed3a1129da46224bfb41c100e06f868babc324e2a6a5d184fe8e6",
+              "size": 16165970
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.31/CloudDrive-1.1.3-arm.fpk",
+              "sha256": "9b43d418e123a7cd76b2944225a055f437b6c5ad33f51948f5e17ab2cadfcf54",
+              "size": 15016407
+            }
+          }
         }
       }
     },
