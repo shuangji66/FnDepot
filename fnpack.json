@@ -4796,6 +4796,22 @@
               "size": 32729136
             }
           }
+        },
+        "26.11.1": {
+          "changelog": "定时自动构建",
+          "updated_at": "2026-11-01T03:26:00Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.1/Tvheadend-26.11.1-x86.fpk",
+              "sha256": "d09076de429c8f34f08fe587d420c461c49f1ab401f9854a8dd9837c5b766b09",
+              "size": 33715518
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.1/Tvheadend-26.11.1-arm.fpk",
+              "sha256": "4509a67748dcf97f02c2a1e6a96ec67550f018b007db8670ad8d30d4953b9011",
+              "size": 32810489
+            }
+          }
         }
       }
     },
