@@ -1,6 +1,6 @@
 # FnDepot - 飞牛 OS 应用商店
 
-👧 孩子不会写代码，但是孩子会 shell+AI，专注于原生 fpk 的打包，顺便翻新官方商店的老旧软件，做着玩的<br>
+👧 专注于原生 fpk 的打包，顺便翻新官方商店的老旧软件，为爱发电，哪天不爱了就不做了<br>
 ❤️ 大部分项目都是二进制 + webui，已支持 FnDepot 商店 x86、arm 双版本源<br>
 🐮 逐步将部分项目转向 action 构建，感兴趣的可以参考：https://github.com/shuangji66/buildbot<br>
 👬 点击链接加入群聊【FnDepot唠嗑①群】：https://qm.qq.com/q/hDyucEoB0c<br>
