@@ -1712,6 +1712,22 @@
               "size": 4419225
             }
           }
+        },
+        "1.8.0": {
+          "changelog": "修复dsh启动超时静默失败 ，增加地址获取超时重试和有效性校验，解决低性能设备无法进入的问题；统一两个网关入口，彻底解决飞牛APP图标入口会invalid token的问题；增强插件适配0.2.2-alpha3新入口；前端细节优化",
+          "updated_at": "2026-11-03T19:43:28Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.3/Harness-1.8.0-x86.fpk",
+              "sha256": "5977cb489c8b460458fc5b2f446a3bebd3e0fd8c930320f62ee42685adafed0c",
+              "size": 4773326
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.3/Harness-1.8.0-arm.fpk",
+              "sha256": "9a8fa28ab03cc256e3f3a431e8c6a59361ac8d15e0ba4a56e221a13e36a8c7cb",
+              "size": 4422212
+            }
+          }
         }
       }
     },
