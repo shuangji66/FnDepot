@@ -4989,6 +4989,22 @@
               "size": 8487039
             }
           }
+        },
+        "4.1.4": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-11-05T17:29:31Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.5/Transmission-4.1.4-x86.fpk",
+              "sha256": "26fdb10b1c2967c1f41826dcac4082866709614df5f994043b31993808f104ed",
+              "size": 9003841
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.5/Transmission-4.1.4-arm.fpk",
+              "sha256": "18d867732580d0650453734ab1e851ff51592572ff0b4c1403ac4d7c22e62d13",
+              "size": 8536327
+            }
+          }
         }
       }
     },
