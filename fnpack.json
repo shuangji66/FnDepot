@@ -349,6 +349,22 @@
               "size": 6664319
             }
           }
+        },
+        "2.4.0": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-11-06T04:58:37Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.6/Bark-2.4.0-x86.fpk",
+              "sha256": "7e65b3ceb74d7dcd697ae5f8bdfe94d3534b5e5f8a2db41319d4efe0bb34aa79",
+              "size": 7378630
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.6/Bark-2.4.0-arm.fpk",
+              "sha256": "e226587704ee96915a5b5de641e51c903cbbcbaa462784ddb224e2278dcacb65",
+              "size": 6666720
+            }
+          }
         }
       }
     },
