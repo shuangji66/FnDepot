@@ -2016,6 +2016,22 @@
               "size": 422147491
             }
           }
+        },
+        "0.8.19": {
+          "changelog": "更新hermes-agent",
+          "updated_at": "2026-11-07T06:04:17Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.7/Hermes-0.8.19-x86.fpk",
+              "sha256": "22e43c296bc6e253d39952d87f9be52502ab16edf2f2ac78d96f536f7fa30f0e",
+              "size": 429557003
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.7/Hermes-0.8.19-arm.fpk",
+              "sha256": "249e5c0d54a5450164dbd715eb202206c6dca548c5af431e2526062580af4c75",
+              "size": 423290149
+            }
+          }
         }
       }
     },
