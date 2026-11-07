@@ -1888,6 +1888,22 @@
               "size": 4422212
             }
           }
+        },
+        "1.9.0": {
+          "changelog": "新增自定义注入环境变量；飞牛APP1.38.0将修复目录授权pickUserFile方式bug，控制台和增强插件提前适配版本分流；插件管理添加分类和搜索适应大量插件使用场景；移动端可选隐藏概览的deepseek帐号卡片；改进浅色模式红黄色可视性；细节优化",
+          "updated_at": "2026-11-07T21:22:09Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.7/Harness-1.9.0-x86.fpk",
+              "sha256": "562e84cfd18d82d0a47372e992444b44b60e6eca7fc94c93a3d5e773db34974b",
+              "size": 4795825
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.7/Harness-1.9.0-arm.fpk",
+              "sha256": "5e808775ddf907dc21a51c614fec29ef4d745e1276f1b1092d06895a20c2150d",
+              "size": 4442167
+            }
+          }
         }
       }
     },
