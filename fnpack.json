@@ -5947,6 +5947,22 @@
               "size": 25244024
             }
           }
+        },
+        "0.5.116": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-11-08T18:23:26Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.8/9router-0.5.116-x86.fpk",
+              "sha256": "afcdc97c7ab767045f594574a771fc9c4e692c21ae1924c7b821494c5db8e469",
+              "size": 13150312
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.8/9router-0.5.116-arm.fpk",
+              "sha256": "58f58e80154cefacae9f7ae7bc181d2faf3167be1c2414120e4279aec8ef2437",
+              "size": 12997091
+            }
+          }
         }
       }
     }
