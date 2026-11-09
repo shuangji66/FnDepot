@@ -1368,6 +1368,22 @@
               "size": 97392833
             }
           }
+        },
+        "4.10.2.0": {
+          "changelog": "更新上游版本；改进构建脚本，解决飞牛新版镜像未包含ar工具导致部署失败",
+          "updated_at": "2026-11-09T17:03:46Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.9/Embyserver-4.10.2.0-x86.fpk",
+              "sha256": "6db2a17042526160dd3c75ef9468243a78853279c5b4fc763bea295a3ab4aa88",
+              "size": 247133432
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.9/Embyserver-4.10.2.0-arm.fpk",
+              "sha256": "533cfa1d5e645c934b8ff6a80887555a8dbefb96267ab518ba8f4d60150fd9dc",
+              "size": 97856896
+            }
+          }
         }
       }
     },
