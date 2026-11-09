@@ -876,6 +876,22 @@
               "size": 4404107
             }
           }
+        },
+        "6.17.8": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-11-09T15:52:14Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.9/DDNS-GO-6.17.8-x86.fpk",
+              "sha256": "dab9716b998aae3a6ae5e7781d58622eea6d3882cd00d27e5111b1b4be1fb139",
+              "size": 4899562
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.9/DDNS-GO-6.17.8-arm.fpk",
+              "sha256": "964671819419624a4d122a670d87765bb6ffb3bba696278c2521317ff78260de",
+              "size": 4463285
+            }
+          }
         }
       }
     },
