@@ -1324,6 +1324,17 @@
               "size": 252329998
             }
           }
+        },
+        "4.10.0.40-1": {
+          "changelog": "已安装用户无需更新；改进构建脚本，解决飞牛新版镜像未包含ar工具导致部署失败",
+          "updated_at": "2026-11-09T17:14:05Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.9/Emby-crack-4.10.0.40-1-x86.fpk",
+              "sha256": "d943f087213ad0b8719e741199dd17e1e6dd70666a9e01d29300001a0e789a30",
+              "size": 245501387
+            }
+          }
         }
       }
     },
