@@ -4847,6 +4847,22 @@
               "size": 71265563
             }
           }
+        },
+        "3.8.10": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-11-10T06:29:53Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.10/Siyuan-3.8.10-x86.fpk",
+              "sha256": "accd296ee076d7f7a80af8b466e602a829666ae34ab16c73e3148479c430256c",
+              "size": 78991497
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.10/Siyuan-3.8.10-arm.fpk",
+              "sha256": "b9df44c6bf96d7d6cdaba42c41e6c028593f0eab672b701f9a05ae27d3f46f54",
+              "size": 74631932
+            }
+          }
         }
       }
     },
