@@ -5773,6 +5773,22 @@
               "size": 5605434
             }
           }
+        },
+        "26.11.10-2": {
+          "changelog": "更新上游版本；官方已限制反代，继续使用有封号风险",
+          "updated_at": "2026-11-10T15:24:41Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.10/wb2api-26.11.10-2-x86.fpk",
+              "sha256": "f6f7edd414b3c67e4bafb6524bbab04fc9b46b6e4861d13605dc0dd3b8afcfbe",
+              "size": 6146800
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.10/wb2api-26.11.10-2-arm.fpk",
+              "sha256": "f004b5c4622c3114d93801d49c193897447d968f0d1d200f982f9c0829bcee4f",
+              "size": 5612191
+            }
+          }
         }
       }
     },
