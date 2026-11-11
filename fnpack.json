@@ -2123,6 +2123,22 @@
               "size": 423290149
             }
           }
+        },
+        "0.8.20": {
+          "changelog": "更新hermes-agent；谨防Nous Research夹带私货",
+          "updated_at": "2026-11-11T05:20:14Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.11/Hermes-0.8.20-x86.fpk",
+              "sha256": "1d5f76d39d3322e5baba15f234a62847b5a1e53f0573b2580a1fa754af35d8fd",
+              "size": 434012521
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.11/Hermes-0.8.20-arm.fpk",
+              "sha256": "076a72abe2178d85b9725fd775dedea7072891178cb9785c49fa63e29718dcaf",
+              "size": 427799369
+            }
+          }
         }
       }
     },
