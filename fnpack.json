@@ -5484,6 +5484,22 @@
               "size": 32399221
             }
           }
+        },
+        "2.5.10": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-11-12T04:40:09Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.12/uptime-kuma-2.5.10-x86.fpk",
+              "sha256": "722b7b7af16081bef94d768305ce456ba7a873edd45dd756938cda0be9524e2a",
+              "size": 32628810
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.12/uptime-kuma-2.5.10-arm.fpk",
+              "sha256": "56bff1c7a3988793ee400ad4866bd4c1898e22fe9213712bc87b3b97a4ef8301",
+              "size": 32399839
+            }
+          }
         }
       }
     },
