@@ -3877,6 +3877,22 @@
               "size": 33103279
             }
           }
+        },
+        "26.13.1": {
+          "changelog": "上游修复安全漏洞",
+          "updated_at": "2026-11-12T04:38:00Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.12/nodejs_v26-26.13.1-x86.fpk",
+              "sha256": "9ef4f5a673cb1bd28d2fca1ca7810cfee49803951e9e1e87a096fc6c31795283",
+              "size": 34147926
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.12/nodejs_v26-26.13.1-arm.fpk",
+              "sha256": "8dc3b936b4b7a1d60556c161f849d479005a91e6713868a5f4e293d9249051a3",
+              "size": 33107415
+            }
+          }
         }
       }
     },
