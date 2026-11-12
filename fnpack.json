@@ -3767,6 +3767,22 @@
               "size": 30253242
             }
           }
+        },
+        "22.23.5": {
+          "changelog": "上游修复安全漏洞",
+          "updated_at": "2026-11-12T04:36:14Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.12/nodejs_v22-22.23.5-x86.fpk",
+              "sha256": "a46aa4c17caac5333d40bd21939b72be28d07374cb1eaf822191612cc49a5d06",
+              "size": 31116034
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.12/nodejs_v22-22.23.5-arm.fpk",
+              "sha256": "d24a9d300a9f96532d0a7f25d62b7dcafcbcd4d306f055d7f37a48a13ffc6c64",
+              "size": 30274035
+            }
+          }
         }
       }
     },
