@@ -818,6 +818,22 @@
               "size": 141639719
             }
           }
+        },
+        "4.145.2": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-11-14T13:08:57Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.14/code-server-4.145.2-x86.fpk",
+              "sha256": "9c7514c35a87b88a3dac6d360e01f1e471c673637c637afb103697abcfbda9d1",
+              "size": 132739878
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.14/code-server-4.145.2-arm.fpk",
+              "sha256": "5b19c773eb0dbcb51029cf8f6b3af327a01abe8661d1a25ac1ca9a1cba355235",
+              "size": 129376844
+            }
+          }
         }
       }
     },
