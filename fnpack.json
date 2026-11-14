@@ -2027,6 +2027,22 @@
               "size": 4442167
             }
           }
+        },
+        "1.10.0": {
+          "changelog": "新增插件安装和更新；移除失效的兼容性修复；优化前端部分描述文案",
+          "updated_at": "2026-11-14T12:32:34Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.14/Harness-1.10.0-x86.fpk",
+              "sha256": "e09bcc092734c4e700e021bf9af30f58f97db239f49144d4a3c0fe6d885d9a3d",
+              "size": 4839020
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.14/Harness-1.10.0-arm.fpk",
+              "sha256": "76ab28270c0a38de65af8f4098ec2c584dcac708b11ac36640724d435fb2bd6c",
+              "size": 4481807
+            }
+          }
         }
       }
     },
