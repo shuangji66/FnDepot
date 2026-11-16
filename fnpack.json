@@ -550,7 +550,24 @@
       "run_as": "package",
       "install_type": "",
       "is_docker": false,
-      "releases": {}
+      "releases": {
+        "0.5.0": {
+          "changelog": "预览版",
+          "updated_at": "2026-11-16T20:14:00Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.16/ClaudeCode-0.5.0-x86.fpk",
+              "sha256": "1dacc70211eda05ba9c4c7c6162889e8c66e0f9563a27a63629699dce2029eba",
+              "size": 4000663
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.16/ClaudeCode-0.5.0-arm.fpk",
+              "sha256": "f653d16c8fccadf5d04c3ba8a3b8fed0368af6a0276f28af67e9504644e9e714",
+              "size": 3659807
+            }
+          }
+        }
+      }
     },
     "CloudDrive": {
       "display_name": "CloudDrive2",
