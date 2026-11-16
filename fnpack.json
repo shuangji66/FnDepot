@@ -4987,6 +4987,22 @@
               "size": 121067833
             }
           }
+        },
+        "1.0.6": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-11-16T05:44:36Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.16/rustfs-1.0.6-x86.fpk",
+              "sha256": "1d502dc5242a887b0354f38a5864b4699e46e4848d29ef42d1efdbc3f6f1c26a",
+              "size": 123658968
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.16/rustfs-1.0.6-arm.fpk",
+              "sha256": "703626d4e710ec46d62a7a2ba0931732294cc7e7cc90694e3a2909345b4d1a98",
+              "size": 122133667
+            }
+          }
         }
       }
     },
