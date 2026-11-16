@@ -520,6 +520,38 @@
         }
       }
     },
+    "ClaudeCode": {
+      "display_name": "Claude Code",
+      "desc": "👨🏻‍💻DSH风味Claude Code，更适合中国宝宝体质。",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "categories": [
+        "系统工具",
+        "编程开发",
+        "AI赋能",
+        "生活服务",
+        "智能智控",
+        "教育学习"
+      ],
+      "icon_url": "ClaudeCode/ICON.PNG",
+      "preview_urls": [
+        "ClaudeCode/Preview/1.png",
+        "ClaudeCode/Preview/2.png",
+        "ClaudeCode/Preview/3.png"
+      ],
+      "readme_url": "ClaudeCode/README.md",
+      "bug_report_url": "https://github.com/shuangji66/FnDepot/issues",
+      "maintainer": "shuangji66",
+      "maintainer_url": "https://github.com/shuangji66/claudecode-webui",
+      "distributor": "shuangji66",
+      "distributor_url": "https://github.com/shuangji66/FnDepot",
+      "run_as": "package",
+      "install_type": "",
+      "is_docker": false,
+      "releases": {}
+    },
     "CloudDrive": {
       "display_name": "CloudDrive2",
       "desc": "☁️CloudDrive是一个强大的多云盘管理工具，为用户提供包含云盘本地挂载的一站式的多云盘解决方案。root运行，注意数据安全。",
@@ -863,21 +895,6 @@
       "is_docker": false,
       "service_port": "9876",
       "releases": {
-        "6.17.5": {
-          "changelog": "更新上游版本",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.8/DDNS-GO-6.17.5-x86.fpk",
-              "sha256": "1b0e39b053918e4839d8def50e38fe96449bbc9c1ded8ebc3cb1c7fcb742dfd9",
-              "size": 4818467
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/FnDepot/releases/download/2026.8.8/DDNS-GO-6.17.5-arm.fpk",
-              "sha256": "c999e79a047fee2bf59a6548f65199d0d432092d977c92327d06821b49787096",
-              "size": 4398608
-            }
-          }
-        },
         "6.17.7": {
           "changelog": "更新上游版本",
           "packages": {
@@ -1189,134 +1206,6 @@
       "is_docker": false,
       "service_port": "8758",
       "releases": {
-        "0.7.39": {
-          "changelog": "更新上游版本",
-          "updated_at": "2026-10-23T14:23:28Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.23/Ekko-0.7.39-x86.fpk",
-              "sha256": "32547a82216674509726337488af0ed38263e8cf4815b9f20c8b6cbb7fd257ea",
-              "size": 125149395
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.23/Ekko-0.7.39-arm.fpk",
-              "sha256": "4456ad09c4a0ba737b202164ff00a72e2465e9d1066c627312fbab675b54a736",
-              "size": 125326316
-            }
-          }
-        },
-        "0.8.0": {
-          "changelog": "更新上游版本",
-          "updated_at": "2026-10-30T16:31:46Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.30/Ekko-0.8.0-x86.fpk",
-              "sha256": "958fc41e39d42f0d9418ba57969745ab2948daa78a644fd9efb0b49dd26394e9",
-              "size": 175648835
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.30/Ekko-0.8.0-arm.fpk",
-              "sha256": "0188c509ccae6afe986a6a1a12b280a02c3f92db5e29bcae768f2ed403bf8f1e",
-              "size": 177579801
-            }
-          }
-        },
-        "0.8.11": {
-          "changelog": "更新上游版本",
-          "updated_at": "2026-10-31T13:23:06Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.31/Ekko-0.8.11-x86.fpk",
-              "sha256": "5ecacabc3788ae792d24aea70a7dde77c6b6d4d018a625ddb1cf2946be41ec39",
-              "size": 175666925
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.31/Ekko-0.8.11-arm.fpk",
-              "sha256": "023b843563ce68d03f0b472d3a3d742be0d8ecbcc8b75b001a8a89a52d9fa53d",
-              "size": 177652026
-            }
-          }
-        },
-        "0.8.13": {
-          "changelog": "更新上游版本",
-          "updated_at": "2026-11-03T04:34:09Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.3/Ekko-0.8.13-x86.fpk",
-              "sha256": "232cb5765315093efedd13dfed51d3d61d658af7b8982a20cb28a9186243424d",
-              "size": 175729024
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.3/Ekko-0.8.13-arm.fpk",
-              "sha256": "5deb95a9a59dcd4fbc5615a260e398b2c17f9e0f0b6e5d290223f280375f655a",
-              "size": 177740781
-            }
-          }
-        },
-        "0.8.15": {
-          "changelog": "更新上游版本",
-          "updated_at": "2026-11-04T03:50:40Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.4/Ekko-0.8.15-x86.fpk",
-              "sha256": "bf0295aebf82f448df760d709bef2abdcfaa6421f4f45998beb98ec4bf617107",
-              "size": 175666876
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.4/Ekko-0.8.15-arm.fpk",
-              "sha256": "3cc3497e29b69ba3fb157ec5af69bafbef906088821fff60a68f8b6d1d585434",
-              "size": 177662032
-            }
-          }
-        },
-        "0.8.17": {
-          "changelog": "更新上游版本",
-          "updated_at": "2026-11-05T14:38:26Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.5/Ekko-0.8.17-x86.fpk",
-              "sha256": "4cba319ae7c4fa2f8824f1acade231e625c03b17259d738ffb57037e66e20d23",
-              "size": 175699410
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.5/Ekko-0.8.17-arm.fpk",
-              "sha256": "a7a4b3c1c5f69cfccb979c73667616868d2fc658f406a6af276f0f737a29ccbd",
-              "size": 177673746
-            }
-          }
-        },
-        "0.8.19": {
-          "changelog": "更新上游版本",
-          "updated_at": "2026-11-07T05:57:18Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.7/Ekko-0.8.19-x86.fpk",
-              "sha256": "4ec623159a4bf7929f54e11ac9fd1c0cad87f2f49966ee4485db08273a723430",
-              "size": 175736611
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.7/Ekko-0.8.19-arm.fpk",
-              "sha256": "0b67b29cc60759f7ed90d9a2901f2540325d2046671c9503d7321f220c94b8bb",
-              "size": 177669145
-            }
-          }
-        },
-        "0.8.20": {
-          "changelog": "更新上游版本",
-          "updated_at": "2026-11-09T15:59:37Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.9/Ekko-0.8.20-x86.fpk",
-              "sha256": "5441df4e79d2c38bd2d6be08f8c88ecbae0c4449c135b081a560118840d3bc7f",
-              "size": 175686534
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.9/Ekko-0.8.20-arm.fpk",
-              "sha256": "91e66f68bd858bafb9186e5857fed80e17fe66edc1850799c7a8a6b020f8cf50",
-              "size": 177662122
-            }
-          }
-        },
         "0.8.21": {
           "changelog": "更新上游版本",
           "updated_at": "2026-11-11T17:09:30Z",
@@ -4940,38 +4829,6 @@
       "is_docker": false,
       "service_port": "9001",
       "releases": {
-        "1.0.3": {
-          "changelog": "初始版本",
-          "updated_at": "2026-10-25T07:34:37Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.25/rustfs-1.0.3-x86.fpk",
-              "sha256": "4398604e19ab2ddb3b190d4853a9186c00339abc8baa9ff56fd8df6631387f8e",
-              "size": 115353125
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.25/rustfs-1.0.3-arm.fpk",
-              "sha256": "5c2e252d322dfb283413cc2328f3333e1a23e414be9cda8e775c4628a4d2870e",
-              "size": 113772038
-            }
-          }
-        },
-        "1.0.4": {
-          "changelog": "更新上游版本",
-          "updated_at": "2026-10-28T09:01:10Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.28/rustfs-1.0.4-x86.fpk",
-              "sha256": "f4481e3941d1f77cdd39be7a5017a47932ebcd10f34f6ca934b2be097c2cca89",
-              "size": 115393959
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.28/rustfs-1.0.4-arm.fpk",
-              "sha256": "17ae2ed0dbb0d138e17abdcc8d60be612c5b9ee978cf2d8c5ab1b7eb0ca00db2",
-              "size": 113794476
-            }
-          }
-        },
         "1.0.5": {
           "changelog": "更新上游版本",
           "updated_at": "2026-11-10T20:37:26Z",
@@ -5067,22 +4924,6 @@
       "is_docker": false,
       "service_port": "6809",
       "releases": {
-        "3.8.8": {
-          "changelog": "更新上游版本",
-          "updated_at": "2026-10-20T08:32:57Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.20/Siyuan-3.8.8-x86.fpk",
-              "sha256": "54682c38827966b6fd1d97488570d515a28cba8442558a2ea5b24199cd22a6c3",
-              "size": 74924706
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.20/Siyuan-3.8.8-arm.fpk",
-              "sha256": "7bb9f7b4af43dc8e33285f3b6e4b105651f54c23365dcf2e56ea3d3fc03fba16",
-              "size": 70524176
-            }
-          }
-        },
         "3.8.9": {
           "changelog": "更新上游版本",
           "updated_at": "2026-10-29T07:02:39Z",
@@ -5881,262 +5722,6 @@
       "is_docker": false,
       "service_port": "7863",
       "releases": {
-        "26.10.29-1": {
-          "changelog": "更新上游版本；官方已限制反代，继续使用将违反用户条款，需承担封号风险",
-          "updated_at": "2026-10-29T14:39:13Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.29/wb2api-26.10.29-1-x86.fpk",
-              "sha256": "7f885600c53e87593644f029d9638cedc95e673ae915680390a8f4837fee519a",
-              "size": 4867018
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.29/wb2api-26.10.29-1-arm.fpk",
-              "sha256": "3c09aaa3002c2e48c9512c360849ad9b7e3aaa58f683f7c65628625b2db3273d",
-              "size": 4456539
-            }
-          }
-        },
-        "26.10.30": {
-          "changelog": "更新上游版本；官方已限制反代，继续使用将违反用户条款，需承担封号风险",
-          "updated_at": "2026-10-30T03:15:22Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.30/wb2api-26.10.30-x86.fpk",
-              "sha256": "076af476b1cf989b6bfd6f235641812e7a9554d18e9fa5d2e57844f245d04fed",
-              "size": 4861676
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.30/wb2api-26.10.30-arm.fpk",
-              "sha256": "424fce8d51dfbb1d29659f30803fe76495a1d9787813305da395d2de61c80240",
-              "size": 4449090
-            }
-          }
-        },
-        "26.10.31": {
-          "changelog": "更新上游版本，修复内置更新后启动失败；官方已限制反代，继续使用将违反用户条款，需承担封号风险",
-          "updated_at": "2026-10-31T02:14:12Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.31/wb2api-26.10.31-x86.fpk",
-              "sha256": "2761294148e103654b11b463bfdabb61556a63981e2a99b0888b54552867424b",
-              "size": 4864691
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.10.31/wb2api-26.10.31-arm.fpk",
-              "sha256": "f2e17b9d461ae42c91d1fea0b34cb345540428721385b32c3f5682ee91ae1155",
-              "size": 4453624
-            }
-          }
-        },
-        "26.11.1": {
-          "changelog": "更新上游版本；官方已限制反代，继续使用将违反用户条款，需承担封号风险",
-          "updated_at": "2026-11-01T02:01:31Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.1/wb2api-26.11.1-x86.fpk",
-              "sha256": "b44e28a439514c4d2e973631f6d9af308332a71cfd609fe700e2e1974648f46e",
-              "size": 4927479
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.1/wb2api-26.11.1-arm.fpk",
-              "sha256": "66047bf4f39420965719edcaff2c1532078c81e54a35a67ca9f183ba13e5a5b7",
-              "size": 4509700
-            }
-          }
-        },
-        "26.11.4": {
-          "changelog": "更新上游版本；官方已限制反代，继续使用有封号风险",
-          "updated_at": "2026-11-04T03:42:11Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.4/wb2api-26.11.4-x86.fpk",
-              "sha256": "61c1805b7122d3cb1b89b751b0d26cd22d6da8e9ed4a33d4de30b7b21d1f93b4",
-              "size": 5551991
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.4/wb2api-26.11.4-arm.fpk",
-              "sha256": "32981ad2a578bf2239050fcb89c4441e5f6041a712a728d84314a9b157d3ba03",
-              "size": 5073774
-            }
-          }
-        },
-        "26.11.5": {
-          "changelog": "更新上游版本；官方已限制反代，继续使用有封号风险",
-          "updated_at": "2026-11-05T09:21:02Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.5/wb2api-26.11.5-x86.fpk",
-              "sha256": "9f3a706659300c21b40313f95b7d4fbd12ce05c79ecef25be9fd6af19523e9f7",
-              "size": 5737213
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.5/wb2api-26.11.5-arm.fpk",
-              "sha256": "a6fa02bff778110e20a6d2529ebf77c675547e0ddcc5a7d2aa5c0fbc7bd52ff2",
-              "size": 5239960
-            }
-          }
-        },
-        "26.11.5-1": {
-          "changelog": "更新上游版本；官方已限制反代，继续使用有封号风险",
-          "updated_at": "2026-11-05T15:40:44Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.5/wb2api-26.11.5-1-x86.fpk",
-              "sha256": "e9400b3b17b4b523a97694bb1351ce10ee67b56f63264a2bfa5ea4d6c411f7df",
-              "size": 5742195
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.5/wb2api-26.11.5-1-arm.fpk",
-              "sha256": "423ac8fbf16253e0c55d4d72724f21bbb98f48ac1548900a894e451cfe79f445",
-              "size": 5243657
-            }
-          }
-        },
-        "26.11.8": {
-          "changelog": "更新上游版本；官方已限制反代，继续使用有封号风险",
-          "updated_at": "2026-11-08T04:41:26Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.8/wb2api-26.11.8-x86.fpk",
-              "sha256": "dd87648926bbd491dd1a85ddcf25bcc5d333f13b5839743c062576df8d61d883",
-              "size": 5813691
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.8/wb2api-26.11.8-arm.fpk",
-              "sha256": "2a6cfd72c6474919eac918c52acc75ac251b1082e34da0271a05bb4eff3fac39",
-              "size": 5309812
-            }
-          }
-        },
-        "26.11.9": {
-          "changelog": "更新上游版本；官方已限制反代，继续使用有封号风险",
-          "updated_at": "2026-11-09T02:03:43Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.9/wb2api-26.11.9-x86.fpk",
-              "sha256": "191945b7d190f7915bca3055af120d9787bfbc335d9c856e5655d6ee7249735b",
-              "size": 6018185
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.9/wb2api-26.11.9-arm.fpk",
-              "sha256": "173f499346a65b8126c66552449c2d1a833d9c85604a1b5bbae72c7447a9bbf3",
-              "size": 5495308
-            }
-          }
-        },
-        "26.11.9-1": {
-          "changelog": "更新上游版本；官方已限制反代，继续使用有封号风险",
-          "updated_at": "2026-11-09T06:56:55Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.9/wb2api-26.11.9-1-x86.fpk",
-              "sha256": "175f6678bab3bdc2be2c740899622652c4bbe25ed991c7f32bbd07bc3478ce1d",
-              "size": 6022604
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.9/wb2api-26.11.9-1-arm.fpk",
-              "sha256": "7172fa038040c2152643d361884fd7c7356cfb930258d43d5948e41605d12f2a",
-              "size": 5500262
-            }
-          }
-        },
-        "26.11.10": {
-          "changelog": "更新上游版本；官方已限制反代，继续使用有封号风险",
-          "updated_at": "2026-11-10T07:44:03Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.10/wb2api-26.11.10-x86.fpk",
-              "sha256": "dc0a80eb1cb2a25271c1b3ddbc256cf643df365d3c80e84fe59dcd874bb22ab3",
-              "size": 6108974
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.10/wb2api-26.11.10-arm.fpk",
-              "sha256": "b680878ae956c6332fde4fae9bf41b50df77da99375199c5a931c5d8c2682d67",
-              "size": 5577734
-            }
-          }
-        },
-        "26.11.10-1": {
-          "changelog": "更新上游版本；官方已限制反代，继续使用有封号风险",
-          "updated_at": "2026-11-10T13:18:00Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.10/wb2api-26.11.10-1-x86.fpk",
-              "sha256": "49a0a71847bc7f74ae56b5de7b3f76868130d11698070a52e5a87827d85332b9",
-              "size": 6137862
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.10/wb2api-26.11.10-1-arm.fpk",
-              "sha256": "6e58ae13b1772cbc1cd570df5bd3df5cca4acbdcd37073b59cea824ccc4eb286",
-              "size": 5605434
-            }
-          }
-        },
-        "26.11.10-2": {
-          "changelog": "更新上游版本；官方已限制反代，继续使用有封号风险",
-          "updated_at": "2026-11-10T15:24:41Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.10/wb2api-26.11.10-2-x86.fpk",
-              "sha256": "f6f7edd414b3c67e4bafb6524bbab04fc9b46b6e4861d13605dc0dd3b8afcfbe",
-              "size": 6146800
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.10/wb2api-26.11.10-2-arm.fpk",
-              "sha256": "f004b5c4622c3114d93801d49c193897447d968f0d1d200f982f9c0829bcee4f",
-              "size": 5612191
-            }
-          }
-        },
-        "26.11.11": {
-          "changelog": "更新上游版本；官方已限制反代，继续使用有封号风险",
-          "updated_at": "2026-11-11T05:01:59Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.11/wb2api-26.11.11-x86.fpk",
-              "sha256": "13296ab6815beb20f411dbafe2fd34b195590a73c3d094e1007cc76e453ba91d",
-              "size": 6149646
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.11/wb2api-26.11.11-arm.fpk",
-              "sha256": "0b36a62a17891f4da204a6d9434e6c9f49df8ddf5055e776a5c71b213284697f",
-              "size": 5618057
-            }
-          }
-        },
-        "26.11.11-1": {
-          "changelog": "更新上游版本；官方已限制反代，继续使用有封号风险",
-          "updated_at": "2026-11-11T17:03:18Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.11/wb2api-26.11.11-1-x86.fpk",
-              "sha256": "f7c1677a54a7758ab00d7ae4394242e28fe89b291ab39f88671dfc43d87395d2",
-              "size": 6150395
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.11/wb2api-26.11.11-1-arm.fpk",
-              "sha256": "dce675d75f8603e46f554f21ae0fc948007c1e414aa9888aeb7cecd948f08677",
-              "size": 5618871
-            }
-          }
-        },
-        "26.11.12": {
-          "changelog": "更新上游版本；官方已限制反代，继续使用有封号风险",
-          "updated_at": "2026-11-12T11:47:19Z",
-          "packages": {
-            "x86": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.12/wb2api-26.11.12-x86.fpk",
-              "sha256": "5f8882c6c0e7c4795467d301e96659db4c125c369a84fa436eb9cac152a33993",
-              "size": 6172034
-            },
-            "arm": {
-              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.12/wb2api-26.11.12-arm.fpk",
-              "sha256": "1d85fa45654bed7ac1abca8f9b85678152f7446a74b3cdcde9454b8fccc10ad9",
-              "size": 5637766
-            }
-          }
-        },
         "26.11.15": {
           "changelog": "更新上游版本；官方已限制反代，继续使用有封号风险",
           "updated_at": "2026-11-15T16:20:22Z",
