@@ -1366,6 +1366,22 @@
               "size": 177006166
             }
           }
+        },
+        "0.8.28": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-11-18T09:36:53Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.18/Ekko-0.8.28-x86.fpk",
+              "sha256": "94aa6b8ae6e4c63fbd0a2c2d1972192cb67e46e35f490378fc90cc8045ac3809",
+              "size": 176892582
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.18/Ekko-0.8.28-arm.fpk",
+              "sha256": "8059c55e666aff5ecea4ddc6d4265e2816e32add7b8a5904bcc353e109894982",
+              "size": 177095573
+            }
+          }
         }
       }
     },
