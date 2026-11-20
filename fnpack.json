@@ -6085,6 +6085,22 @@
               "size": 5779894
             }
           }
+        },
+        "26.11.20": {
+          "changelog": "更新上游版本，适配ds联网搜索新端点；官方已限制反代，继续使用有封号风险",
+          "updated_at": "2026-11-20T09:01:51Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.20/wb2api-26.11.20-x86.fpk",
+              "sha256": "d7cf1128617f31280c697560c8b1f3add557eeeee92337ef6c24b839a17fb999",
+              "size": 6345414
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.20/wb2api-26.11.20-arm.fpk",
+              "sha256": "4ee83e78c9f026781033013e117b691f681cbc9820a1fb56ef4cc02cf3c1ee72",
+              "size": 5798077
+            }
+          }
         }
       }
     },
