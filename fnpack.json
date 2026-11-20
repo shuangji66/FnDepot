@@ -646,6 +646,22 @@
               "size": 3908763
             }
           }
+        },
+        "0.10.0": {
+          "changelog": "预览版，即将进入候选，核心交互已完成，已能通过多类型压力测试，继续完善关键交互；更新日志见仓库历史",
+          "updated_at": "2026-11-20T03:25:39Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.20/ClaudeCode-0.10.0-x86.fpk",
+              "sha256": "d9afd1559e39b45f23408b04b4e2889df34f61d92586c9d909462f9f6e06035f",
+              "size": 4284687
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.20/ClaudeCode-0.10.0-arm.fpk",
+              "sha256": "6ac61e51fe10d76343f542dcdbb0eda4f73b97c32241672ff9bae2d699992a0a",
+              "size": 3928088
+            }
+          }
         }
       }
     },
