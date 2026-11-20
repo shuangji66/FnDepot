@@ -63,6 +63,22 @@
               "size": 10916193
             }
           }
+        },
+        "1.0.0-2": {
+          "changelog": "更新上游正式版",
+          "updated_at": "2026-11-20T02:27:39Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.20/AdGuard-1.0.0-2-x86.fpk",
+              "sha256": "f1efd95ad68928c38f456c6973822cb59980f977fa4c048826a9db2a5e8d6fa8",
+              "size": 12077645
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.20/AdGuard-1.0.0-2-arm.fpk",
+              "sha256": "ab945a2b4f4781e6249f13cc807bd5b2b26378af7aec85b91fc9434df236bafb",
+              "size": 11018318
+            }
+          }
         }
       }
     },
