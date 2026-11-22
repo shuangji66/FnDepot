@@ -742,6 +742,22 @@
               "size": 4081166
             }
           }
+        },
+        "0.13.3": {
+          "changelog": "候选版本6，修复模型切换提供商和推理等级相关问题，移除socks5代理支持",
+          "updated_at": "2026-11-22T15:37:19Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.22/ClaudeCode-0.13.3-x86.fpk",
+              "sha256": "148a414a4934bfa83aadeb63972ad8525a6d6679d0a82e87ced2c71388d843bf",
+              "size": 4451728
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.22/ClaudeCode-0.13.3-arm.fpk",
+              "sha256": "177fe813f31caa968f8a6feb5841812c2cd9021c26af539727175757de840329",
+              "size": 4081993
+            }
+          }
         }
       }
     },
