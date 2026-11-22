@@ -694,6 +694,22 @@
               "size": 4069070
             }
           }
+        },
+        "0.13.0": {
+          "changelog": "候选版本3，优化前端交互",
+          "updated_at": "2026-11-22T09:47:19Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.22/ClaudeCode-0.13.0-x86.fpk",
+              "sha256": "9756ae4661c5e96d1bd173403f8b441790830792061a0702368b7a0a193293a4",
+              "size": 4442375
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.22/ClaudeCode-0.13.0-arm.fpk",
+              "sha256": "b179c271f600901e91de5c00ddfc9cc3163a4e2966d678517dddb4285a51d8bb",
+              "size": 4074724
+            }
+          }
         }
       }
     },
