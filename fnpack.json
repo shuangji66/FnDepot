@@ -4194,6 +4194,22 @@
               "size": 39881641
             }
           }
+        },
+        "1.3.10": {
+          "changelog": "修复安全漏洞",
+          "updated_at": "2026-11-23T17:20:16Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.23/Nginx-1.3.10-x86.fpk",
+              "sha256": "739d4ac1a2c228393112a475f7d510761d8aaddbbae9e97a8e784cef32dc9b7a",
+              "size": 42531635
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.23/Nginx-1.3.10-arm.fpk",
+              "sha256": "f85789caac352a2b3f68002352fae8c238cd26c012358c63cf17ccf4cc8b0c6f",
+              "size": 40104007
+            }
+          }
         }
       }
     },
