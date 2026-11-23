@@ -2074,6 +2074,22 @@
               "size": 9671341
             }
           }
+        },
+        "2.56.1": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-11-23T17:21:02Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.23/Git-2.56.1-x86.fpk",
+              "sha256": "e058eb0f1e059ead68ffa7f733a4a79797eb8fb3ca918c57604ab9694017cf80",
+              "size": 12111240
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.23/Git-2.56.1-arm.fpk",
+              "sha256": "33516371ff2295662590adc056dbb5b9f42d1ed96d021259f479d1f78e49f379",
+              "size": 10394622
+            }
+          }
         }
       }
     },
