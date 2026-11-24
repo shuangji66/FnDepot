@@ -838,6 +838,22 @@
               "size": 4081993
             }
           }
+        },
+        "0.14.0": {
+          "changelog": "完成全面审查，修复已知问题，改进部分交互，重写子代理和插话消息的渲染机制（太复杂了）",
+          "updated_at": "2026-11-24T10:38:33Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.24/ClaudeCode-0.14.0-x86.fpk",
+              "sha256": "167cf50244ca18e777a68d99e2b44851d67183dd5cdadf9fd59c8b8d1d643530",
+              "size": 4464384
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.24/ClaudeCode-0.14.0-arm.fpk",
+              "sha256": "e2e140d43a256c2a6c83fb2b6720d341df60a7b59a5f08f42673a10bb1a0eecd",
+              "size": 4095822
+            }
+          }
         }
       }
     },
