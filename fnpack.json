@@ -1047,6 +1047,22 @@
               "size": 17685647
             }
           }
+        },
+        "0.10.1": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-11-24T16:40:46Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.24/CloudSaver-0.10.1-x86.fpk",
+              "sha256": "044fa88e1e3acb88a159d5ca380121311703dda0c509c8ff4724a53ce83bc723",
+              "size": 18392029
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.24/CloudSaver-0.10.1-arm.fpk",
+              "sha256": "130465b144c2870fac745d846879e03ac4a80760c3853a57101b49474a61bb84",
+              "size": 18080367
+            }
+          }
         }
       }
     },
