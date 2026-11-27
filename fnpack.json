@@ -343,6 +343,22 @@
               "size": 21052859
             }
           }
+        },
+        "3.6.0": {
+          "changelog": "更新上游版本",
+          "updated_at": "2026-11-27T14:31:04Z",
+          "packages": {
+            "x86": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.27/Agent2API-3.6.0-x86.fpk",
+              "sha256": "c14ad5a02b9d5f14678cc16858c83e1f6e4e215ad9ca2693696d12e0875b6498",
+              "size": 23692723
+            },
+            "arm": {
+              "download_url": "https://github.com/shuangji66/Fndepot/releases/download/2026.11.27/Agent2API-3.6.0-arm.fpk",
+              "sha256": "dea1e91c9a3125df3629d39f800215e7a5b0cd70f94d794d581044614c464d90",
+              "size": 22326114
+            }
+          }
         }
       }
     },
